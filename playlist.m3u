@@ -3,80 +3,80 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:16:29 PM 17-05-2026
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Women's%20Series%2011%20%26%2012%0AWomen's%20Series&font=Oswald" group-title="Women's Series", Women's Series 11 & 12 | Women's Series [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779120993-Kv4cPTAAP5YTi-f3c2f2bee1e01285f1a918fbd51cf349fd99f16f-77af484079e09be0ae5ba8a6c7c6bac4
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Women's%20Series%2011%20%26%2012%0AWomen's%20Series&font=Oswald" group-title="Women's Series", Women's Series 11 & 12 | Women's Series [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=f3c2f2bee1e01285f1a918fbd51cf349fd99f16f&x-sign=c9cacdee3feac520b40189e3beb8893c&x-time=1779034560
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%2013%0AItalian%20Open%20Tennis&font=Oswald" group-title="Tennis", Day 13 | Italian Open Tennis [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779121000-Kv4cPTAAP5YTi-f3c2f2bee1e01285f1a918fbd51cf349fd99f16f-d00d77be8765e84112adb3043a800da6
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%2013%0AItalian%20Open%20Tennis&font=Oswald" group-title="Tennis", Day 13 | Italian Open Tennis [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=f3c2f2bee1e01285f1a918fbd51cf349fd99f16f&x-sign=e6d9662e772d81d599f27158df3ee37d&x-time=1779034560
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lechia%20Gdansk%0AVS%0ALegia%20Warszawa%0AEkstraklasa&font=Oswald" group-title="Football", Lechia Gdansk VS Legia Warszawa | Ekstraklasa [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274842/chunks.m3u8?is_vip=false&token=1779121010-Kv4cPTAAP5YTi-f3c2f2bee1e01285f1a918fbd51cf349fd99f16f-b98f0dfef2bfa234ec2380979be88ec2
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lechia%20Gdansk%0AVS%0ALegia%20Warszawa%0AEkstraklasa&font=Oswald" group-title="Football", Lechia Gdansk VS Legia Warszawa | Ekstraklasa [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274842/chunks.m3u8?is_vip=false&token=f3c2f2bee1e01285f1a918fbd51cf349fd99f16f&x-sign=d0f1b54c9cc7234d30647707f86e8d69&x-time=1779034560
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atalanta%0AVS%0ABologna%0ASerie%20A&font=Oswald" group-title="Football", Atalanta VS Bologna | Serie A [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779121017-Kv4cPTAAP5YTi-f3c2f2bee1e01285f1a918fbd51cf349fd99f16f-f899b423b40493a32e0e4136648afba7
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atalanta%0AVS%0ABologna%0ASerie%20A&font=Oswald" group-title="Football", Atalanta VS Bologna | Serie A [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=f3c2f2bee1e01285f1a918fbd51cf349fd99f16f&x-sign=12add50d31c8056fa84c08adcb85426f&x-time=1779034560
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atalanta%0AVS%0ABologna%0ASerie%20A&font=Oswald" group-title="Football", Atalanta VS Bologna | Serie A [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/54045/chunks.m3u8?is_vip=false&token=1779121019-Kv4cPTAAP5YTi-f3c2f2bee1e01285f1a918fbd51cf349fd99f16f-6933bd0dfbef7eca05e9ec409872610c
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atalanta%0AVS%0ABologna%0ASerie%20A&font=Oswald" group-title="Football", Atalanta VS Bologna | Serie A [Server 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/54045/chunks.m3u8?is_vip=false&token=f3c2f2bee1e01285f1a918fbd51cf349fd99f16f&x-sign=d27cd525b208fa532543d549e2bfb6dd&x-time=1779034620
+#last update time: 10:31:23 PM 17-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Newcastle%0AVS%0AWest%20Ham%0APremier%20League&font=Oswald" group-title="Football", Newcastle VS West Ham | Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779121026-Kv4cPTAAP5YTi-f3c2f2bee1e01285f1a918fbd51cf349fd99f16f-67fcfd3772e1db356f29897bde8d8665
+https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779121889-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-b46a0a980553b8160551b07430711075
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Newcastle%0AVS%0AWest%20Ham%0APremier%20League&font=Oswald" group-title="Football", Newcastle VS West Ham | Premier League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779121027-Kv4cPTAAP5YTi-f3c2f2bee1e01285f1a918fbd51cf349fd99f16f-6c8b8376c60311d96d4725715310fdbe
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779121890-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-96289bd5c263e6ce7786a8b5a0b8ebaf
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Newcastle%0AVS%0AWest%20Ham%0APremier%20League&font=Oswald" group-title="Football", Newcastle VS West Ham | Premier League [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=f3c2f2bee1e01285f1a918fbd51cf349fd99f16f&x-sign=844edeb8cfadbfe85aa55cbe59fe6424&x-time=1779034620
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=8e5d91db8099d73158742144fd5f45a4aafc9c21&x-sign=58ae0e3a5f879996764f859087bc3560&x-time=1779035460
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Women's%20Series%2011%20%26%2012%0AWomen's%20Series&font=Oswald" group-title="Women's Series", Women's Series 11 & 12 | Women's Series [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779121898-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-ed2098fe856b491ae22bc3506ab057b1
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Women's%20Series%2011%20%26%2012%0AWomen's%20Series&font=Oswald" group-title="Women's Series", Women's Series 11 & 12 | Women's Series [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=8e5d91db8099d73158742144fd5f45a4aafc9c21&x-sign=49569f36ce3b993374b017b5073d60e9&x-time=1779035460
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%2013%0AItalian%20Open%20Tennis&font=Oswald" group-title="Tennis", Day 13 | Italian Open Tennis [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779121904-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-2a98fe32ffd8efd5d2549ff8a683dd02
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%2013%0AItalian%20Open%20Tennis&font=Oswald" group-title="Tennis", Day 13 | Italian Open Tennis [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=8e5d91db8099d73158742144fd5f45a4aafc9c21&x-sign=99715b1932e325770af47ca77a173feb&x-time=1779035460
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lechia%20Gdansk%0AVS%0ALegia%20Warszawa%0AEkstraklasa&font=Oswald" group-title="Football", Lechia Gdansk VS Legia Warszawa | Ekstraklasa [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274842/chunks.m3u8?is_vip=false&token=1779121911-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-61c5013abceb36e936b5663d8935f905
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lechia%20Gdansk%0AVS%0ALegia%20Warszawa%0AEkstraklasa&font=Oswald" group-title="Football", Lechia Gdansk VS Legia Warszawa | Ekstraklasa [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274842/chunks.m3u8?is_vip=false&token=8e5d91db8099d73158742144fd5f45a4aafc9c21&x-sign=ea81f2978d93312cbb01a31e5f0e1818&x-time=1779035460
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atalanta%0AVS%0ABologna%0ASerie%20A&font=Oswald" group-title="Football", Atalanta VS Bologna | Serie A [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779121917-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-03f75bd3e0f0b7b5615d4c7fc5af5663
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atalanta%0AVS%0ABologna%0ASerie%20A&font=Oswald" group-title="Football", Atalanta VS Bologna | Serie A [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=8e5d91db8099d73158742144fd5f45a4aafc9c21&x-sign=7460dbffae4c44d73429785b68eb6e5f&x-time=1779035460
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atalanta%0AVS%0ABologna%0ASerie%20A&font=Oswald" group-title="Football", Atalanta VS Bologna | Serie A [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/54045/chunks.m3u8?is_vip=false&token=1779121919-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-26ca7e616c5cdaabbdec13352dfcc7fe
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atalanta%0AVS%0ABologna%0ASerie%20A&font=Oswald" group-title="Football", Atalanta VS Bologna | Serie A [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/54045/chunks.m3u8?is_vip=false&token=8e5d91db8099d73158742144fd5f45a4aafc9c21&x-sign=481122664ee969583b3b2144b74d5d0d&x-time=1779035520
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Club%20Brugge%20KV%0AVS%0AUnion%20St.%20Gilloise%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Club Brugge KV VS Union St. Gilloise | Jupiler Pro League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779121034-Kv4cPTAAP5YTi-f3c2f2bee1e01285f1a918fbd51cf349fd99f16f-cd0903687adbf891cc5ff1db234b794a
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779121925-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-809e9619950517b499468888ce924c21
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Club%20Brugge%20KV%0AVS%0AUnion%20St.%20Gilloise%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Club Brugge KV VS Union St. Gilloise | Jupiler Pro League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=f3c2f2bee1e01285f1a918fbd51cf349fd99f16f&x-sign=66c9809c8c3572b7482f4d4526a3f1f3&x-time=1779034620
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=8e5d91db8099d73158742144fd5f45a4aafc9c21&x-sign=308e21fc7853e176c0d7941ad83eb43c&x-time=1779035520
 
