@@ -3,85 +3,95 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 1:31:25 PM 17-05-2026
+#last update time: 1:46:26 PM 17-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Weekend%203%2C%20Day%203%0AAustralian%20Darts%20Association&font=Oswald" group-title="Darts", Weekend 3, Day 3 | Australian Darts Association [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779089489-Kv4cPTAAP5YTi-c1adcec9b92f9e5514d3b6b8654dfd5cbe844328-778979fc35617516d4b7336867068af5
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779090389-Kv4cPTAAP5YTi-13d4a26a811e9ac151131364d99d82bf22492709-254bd109015de3ddffffc841dfe99579
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Weekend%203%2C%20Day%203%0AAustralian%20Darts%20Association&font=Oswald" group-title="Darts", Weekend 3, Day 3 | Australian Darts Association [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=c1adcec9b92f9e5514d3b6b8654dfd5cbe844328&x-sign=da05c7abd17ef5ec19dc2398e943fb96&x-time=1779003060
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=13d4a26a811e9ac151131364d99d82bf22492709&x-sign=ce5801903e52ade1b16d6f865fac5ad4&x-time=1779003960
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Race%20(Part%203)%0AADAC%20N%C3%BCrburgring%2024%20Hours&font=Oswald" group-title="Auto Racing", Race (Part 3) | ADAC Nürburgring 24 Hours [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779089500-Kv4cPTAAP5YTi-c1adcec9b92f9e5514d3b6b8654dfd5cbe844328-f1986ba8a174f7044184ad2cd29d70d6
+https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779090396-Kv4cPTAAP5YTi-13d4a26a811e9ac151131364d99d82bf22492709-2b41a246ce729cdf426937f7f4f4e1e4
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Race%20(Part%203)%0AADAC%20N%C3%BCrburgring%2024%20Hours&font=Oswald" group-title="Auto Racing", Race (Part 3) | ADAC Nürburgring 24 Hours [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=c1adcec9b92f9e5514d3b6b8654dfd5cbe844328&x-sign=63f067456ce0db830652be68602c3591&x-time=1779003060
+https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=13d4a26a811e9ac151131364d99d82bf22492709&x-sign=c8ebd31b8bc5510db7b1b686f2800dac&x-time=1779003960
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ATOYOTA%20Thailand%20Open&font=Oswald" group-title="Badminton", Court 1 | TOYOTA Thailand Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779089509-Kv4cPTAAP5YTi-c1adcec9b92f9e5514d3b6b8654dfd5cbe844328-57deb672516a3e9da4a88be80fda9a04
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779090403-Kv4cPTAAP5YTi-13d4a26a811e9ac151131364d99d82bf22492709-93634c65dbd05b2770993fab58a71357
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ATOYOTA%20Thailand%20Open&font=Oswald" group-title="Badminton", Court 1 | TOYOTA Thailand Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=c1adcec9b92f9e5514d3b6b8654dfd5cbe844328&x-sign=8143cab20a41b62eb8745be589c3fdfb&x-time=1779003060
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=13d4a26a811e9ac151131364d99d82bf22492709&x-sign=b49d30850826bcc55ab3d6762f4bac4f&x-time=1779003960
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Richmond%20Tigers%0AVS%0ASt.%20Kilda%20Saints%0AAFL%20Premiership&font=Oswald" group-title="Football", Richmond Tigers VS St. Kilda Saints | AFL Premiership [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/chunks.m3u8?is_vip=false&token=1779089516-Kv4cPTAAP5YTi-c1adcec9b92f9e5514d3b6b8654dfd5cbe844328-4bb9bb6d4fee08c73eeefe63491ddcb8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/chunks.m3u8?is_vip=false&token=1779090410-Kv4cPTAAP5YTi-13d4a26a811e9ac151131364d99d82bf22492709-5b6b7980aaec9b2d7b724a8536ad0c8e
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Richmond%20Tigers%0AVS%0ASt.%20Kilda%20Saints%0AAFL%20Premiership&font=Oswald" group-title="Football", Richmond Tigers VS St. Kilda Saints | AFL Premiership [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450/chunks.m3u8?is_vip=false&token=c1adcec9b92f9e5514d3b6b8654dfd5cbe844328&x-sign=06769b3e2a96b8900129b3a7e8a55e7b&x-time=1779003060
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450/chunks.m3u8?is_vip=false&token=13d4a26a811e9ac151131364d99d82bf22492709&x-sign=0bf13c98ea7dc018170ef284d5496084&x-time=1779003960
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cerezo%20Osaka%0AVS%0ANagoya%20Grampus%0AJ1%20League&font=Oswald" group-title="Football", Cerezo Osaka VS Nagoya Grampus | J1 League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779089523-Kv4cPTAAP5YTi-c1adcec9b92f9e5514d3b6b8654dfd5cbe844328-799579f872bbbda9b92cf35cc137b876
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779090419-Kv4cPTAAP5YTi-13d4a26a811e9ac151131364d99d82bf22492709-4e1c5938d353505f5771866e7e366a6a
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cerezo%20Osaka%0AVS%0ANagoya%20Grampus%0AJ1%20League&font=Oswald" group-title="Football", Cerezo Osaka VS Nagoya Grampus | J1 League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=c1adcec9b92f9e5514d3b6b8654dfd5cbe844328&x-sign=528384fd41d9af9df2e6383f9532c699&x-time=1779003120
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=13d4a26a811e9ac151131364d99d82bf22492709&x-sign=4a6868b3deb9b27fd014ddd7d23b1898&x-time=1779004020
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Kyoto%20Sanga%0AVS%0ASanfrecce%20Hiroshima%0AJ1%20League&font=Oswald" group-title="Football", Kyoto Sanga VS Sanfrecce Hiroshima | J1 League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779089534-Kv4cPTAAP5YTi-c1adcec9b92f9e5514d3b6b8654dfd5cbe844328-0bccc22ee6e49b2f29b7166a7b399477
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779090426-Kv4cPTAAP5YTi-13d4a26a811e9ac151131364d99d82bf22492709-07bfbabc547117d2312a4e194d29e2de
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Kyoto%20Sanga%0AVS%0ASanfrecce%20Hiroshima%0AJ1%20League&font=Oswald" group-title="Football", Kyoto Sanga VS Sanfrecce Hiroshima | J1 League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=c1adcec9b92f9e5514d3b6b8654dfd5cbe844328&x-sign=33b22c0e4ee02a3a274473a569d1c250&x-time=1779003120
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Free%20Practice%203%3A%20Monaco%0AFormula%20E&font=Oswald" group-title="Auto Racing", Free Practice 3: Monaco | Formula E [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779089546-Kv4cPTAAP5YTi-c1adcec9b92f9e5514d3b6b8654dfd5cbe844328-211840bf8e15ba1e6d449c83a5270b5b
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Free%20Practice%203%3A%20Monaco%0AFormula%20E&font=Oswald" group-title="Auto Racing", Free Practice 3: Monaco | Formula E [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=c1adcec9b92f9e5514d3b6b8654dfd5cbe844328&x-sign=e1d0b8378931b7c731edac3a516553db&x-time=1779003120
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=13d4a26a811e9ac151131364d99d82bf22492709&x-sign=fc54e9c3eca5125f96ece0dd2c796e99&x-time=1779004020
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Jeonbuk%20Motors%0AVS%0AGimcheon%20Sangmu%20FC%0AK%20League%201&font=Oswald" group-title="Football", Jeonbuk Motors VS Gimcheon Sangmu FC | K League 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/526224/chunks.m3u8?is_vip=false&token=1779089553-Kv4cPTAAP5YTi-c1adcec9b92f9e5514d3b6b8654dfd5cbe844328-0b2a5cf979c2bb5c3f2a2d5949cd3df7
+https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779090433-Kv4cPTAAP5YTi-13d4a26a811e9ac151131364d99d82bf22492709-53f42a79523ed2ec3a60e67ba66d1372
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Jeonbuk%20Motors%0AVS%0AGimcheon%20Sangmu%20FC%0AK%20League%201&font=Oswald" group-title="Football", Jeonbuk Motors VS Gimcheon Sangmu FC | K League 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/526224/chunks.m3u8?is_vip=false&token=c1adcec9b92f9e5514d3b6b8654dfd5cbe844328&x-sign=1e553128bb0b703e7c1e6d57e3d95fee&x-time=1779003120
+https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=13d4a26a811e9ac151131364d99d82bf22492709&x-sign=7fe500e563c164d0013436ad4c1015ef&x-time=1779004020
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=GWS%20GIANTS%0AVS%0AWest%20Coast%20Eagles%0AAFL%20Premiership&font=Oswald" group-title="Football", GWS GIANTS VS West Coast Eagles | AFL Premiership [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/chunks.m3u8?is_vip=false&token=1779090441-Kv4cPTAAP5YTi-13d4a26a811e9ac151131364d99d82bf22492709-f8d27593b2450e5ffff26509e3a27a92
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=GWS%20GIANTS%0AVS%0AWest%20Coast%20Eagles%0AAFL%20Premiership&font=Oswald" group-title="Football", GWS GIANTS VS West Coast Eagles | AFL Premiership [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450/chunks.m3u8?is_vip=false&token=13d4a26a811e9ac151131364d99d82bf22492709&x-sign=dc471c6b3e410e6a080b2bc64b06e2b4&x-time=1779004020
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Race%20(Part%204)%0AADAC%20N%C3%BCrburgring%2024%20Hours&font=Oswald" group-title="Auto Racing", Race (Part 4) | ADAC Nürburgring 24 Hours [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779090448-Kv4cPTAAP5YTi-13d4a26a811e9ac151131364d99d82bf22492709-b0ee982c729a04f9059e2deb891770b9
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Race%20(Part%204)%0AADAC%20N%C3%BCrburgring%2024%20Hours&font=Oswald" group-title="Auto Racing", Race (Part 4) | ADAC Nürburgring 24 Hours [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=13d4a26a811e9ac151131364d99d82bf22492709&x-sign=66fc5845c2b0e6fb20d62ee765d7a116&x-time=1779004020
 
