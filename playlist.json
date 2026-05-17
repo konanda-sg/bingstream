@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "8:01:25 PM 17-05-2026"
+        "last_update_time": "8:16:25 PM 17-05-2026"
     },
     "channels": [
         {
@@ -22,107 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779112888-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-e40a5ab9d5cb7dfe8de32214a238c81f"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779113788-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-120cdd7112413db46859c7eb9195e8cc"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=f4c43237de3826972180314a7a696261&x-time=1779026460"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Premier League",
-            "Team 1 Name": "Leeds",
-            "Team 2 Name": "Brighton",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/63.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/51.png",
-            "Match Title": "Leeds VS Brighton | Premier League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Leeds%0AVS%0ABrighton%0APremier%20League&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52435/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=345d7b425682ebec8551d7f6e3ef426a&x-time=1779026460"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779112895-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-19f7d42fc5299dc171bbda564ece16af"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779112896-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-da9964f81d5845287967a94529cf29fb"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=50d5d78364dd29e9f103dedf7ff9279c&x-time=1779026460"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Premier League",
-            "Team 1 Name": "Wolves",
-            "Team 2 Name": "Fulham",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/39.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/36.png",
-            "Match Title": "Wolves VS Fulham | Premier League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Wolves%0AVS%0AFulham%0APremier%20League&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144257/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=6150a397722b2cf81e074d0100958a6e&x-time=1779026460"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52436/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=e76d95b62de5f30bc1cfadbc72352e31&x-time=1779026460"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779112905-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-2141a0db2568c80768ee51a41c466939"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=a435e914d3c7f694eb23921713bcde45&x-time=1779026460"
-                }
-            ]
-        },
-        {
-            "Category": "Premier League",
-            "League": "Premier League",
-            "Team 1 Name": "Everton",
-            "Team 2 Name": "Sunderland",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/45.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/746.png",
-            "Match Title": "Everton VS Sunderland | Premier League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Everton%0AVS%0ASunderland%0APremier%20League&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144256/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=192def3b1ecaaacc0221f922644fa3aa&x-time=1779026460"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52434/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=4d4a0c0b5742ea7a4f84c3c4f7396933&x-time=1779026460"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779112914-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-a6bb8fc6b2f97983fcffbe64fb8820c6"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=b221b50d6f9cef6f7d33bf77414e56f2&x-time=1779026460"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=89d59377958048b9a976f3021f36e815&x-time=1779027360"
                 }
             ]
         },
@@ -142,19 +46,115 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144254/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=eec23e6ca60dc0ae83f484ffa5f8d026&x-time=1779026520"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144254/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=755dda2c4534b77fc5d894d14100ce74&x-time=1779027360"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52433/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=16b4e6082f13ddaada7ba79429527dfc&x-time=1779026520"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52433/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=c9fce635749f584563f83cbaa30d336a&x-time=1779027360"
                 },
                 {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779112924-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-8c14b72cebfb02093e93367e54c9013a"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779113799-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-3917f296377fd158904c5d8ebb783f51"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=009a858f5cbbd16f55b68de0c81eccb2&x-time=1779026520"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=5b1f5932e4936e6f8c159ef32488b749&x-time=1779027360"
+                }
+            ]
+        },
+        {
+            "Category": "Premier League",
+            "League": "Premier League",
+            "Team 1 Name": "Everton",
+            "Team 2 Name": "Sunderland",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/45.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/746.png",
+            "Match Title": "Everton VS Sunderland | Premier League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Everton%0AVS%0ASunderland%0APremier%20League&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144256/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=a344870191fcbe2f821f40f497629b94&x-time=1779027360"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52434/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=4a3d7a8af2760749276a2a4edef5943e&x-time=1779027360"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779113808-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-54b7c613db5da6b6a72fb86a8291d66c"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=c3e193b23b1621008adc145b3f74014f&x-time=1779027360"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Premier League",
+            "Team 1 Name": "Leeds",
+            "Team 2 Name": "Brighton",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/63.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/51.png",
+            "Match Title": "Leeds VS Brighton | Premier League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Leeds%0AVS%0ABrighton%0APremier%20League&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52435/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=327918af72f17ab238cd7af7cb35ddd6&x-time=1779027360"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779113817-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-4d53e2e2ef946d0756546ba99ed15015"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779113818-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-f4c8fefdfc524e48baae9e6a607542b8"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=df1cdabf2e25b0a9fae0a832a5c8cf42&x-time=1779027420"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Premier League",
+            "Team 1 Name": "Wolves",
+            "Team 2 Name": "Fulham",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/39.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/36.png",
+            "Match Title": "Wolves VS Fulham | Premier League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Wolves%0AVS%0AFulham%0APremier%20League&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144257/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=321dd24c81ac77333cbcd94895ba5bcb&x-time=1779027420"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52436/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=2dc67083e48ae07516bde9b8485047b0&x-time=1779027420"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779113829-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-1e4f01780da52a1f7a0d32a2bcce062f"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=1cfbe7cd59a6e9c98df034cf61363653&x-time=1779027420"
                 }
             ]
         },
@@ -174,111 +174,19 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779112930-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-b0fa9dca19b7bd2a59de12b08b450713"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779113836-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-a38585045158c242d2599b014ce1fc9d"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/15/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=e19fedf526995a510fe8bf7ee1ca4e19&x-time=1779026520"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/15/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=04b884adfe5c1b62d545eb346bc0fc59&x-time=1779027420"
                 },
                 {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/54044/chunks.m3u8?is_vip=false&token=1779112933-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-ce0c07fd734b6a89133b89c34a4c5fa9"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/54044/chunks.m3u8?is_vip=false&token=1779113839-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-8d52aa3d6d94dd5c7cf0f019c380d2a8"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/54044/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=a7cda17c446790823dbddb8de7ac8953&x-time=1779026520"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "2. Bundesliga",
-            "Team 1 Name": "Arminia Bielefeld",
-            "Team 2 Name": "Hertha BSC",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/188.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/159.png",
-            "Match Title": "Arminia Bielefeld VS Hertha BSC | 2. Bundesliga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Arminia%20Bielefeld%0AVS%0AHertha%20BSC%0A2.%20Bundesliga&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779112939-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-74f7586f23a0953a9ec527913e016832"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=9ac6a154cc90597d99c33c9c18d06074&x-time=1779026520"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "2. Bundesliga",
-            "Team 1 Name": "FC Schalke 04",
-            "Team 2 Name": "Eintracht Braunschweig",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/174.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/744.png",
-            "Match Title": "FC Schalke 04 VS Eintracht Braunschweig | 2. Bundesliga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FC%20Schalke%2004%0AVS%0AEintracht%20Braunschweig%0A2.%20Bundesliga&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779112947-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-e2e17434512358901ea70f9bf525cab5"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=56f5b572c0f19f046dcd4b7cb7f408a2&x-time=1779026520"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "2. Bundesliga",
-            "Team 1 Name": "1. FC Magdeburg",
-            "Team 2 Name": "1. FC Kaiserslautern",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/179.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/745.png",
-            "Match Title": "1. FC Magdeburg VS 1. FC Kaiserslautern | 2. Bundesliga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=1.%20FC%20Magdeburg%0AVS%0A1.%20FC%20Kaiserslautern%0A2.%20Bundesliga&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779112953-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-9f1b48bd40a89e78d1169a7f369957ac"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=e49b1f48cf537ed8e58a3fc8a33236dc&x-time=1779026520"
-                }
-            ]
-        },
-        {
-            "Category": "Eredivisie",
-            "League": "Eredivisie",
-            "Team 1 Name": "PSV Eindhoven",
-            "Team 2 Name": "Twente",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/197.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/415.png",
-            "Match Title": "PSV Eindhoven VS Twente | Eredivisie",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=PSV%20Eindhoven%0AVS%0ATwente%0AEredivisie&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/136437/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=18a9cff95df79c32f956c211c28e6237&x-time=1779026520"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/54044/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=65dc21841e7ed64d0b4df7a6d48dcdbe&x-time=1779027420"
                 }
             ]
         },
@@ -298,23 +206,23 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274860/chunks.m3u8?is_vip=false&token=1779112966-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-6ffb4d2cfa4589a48e5eb5799adabddb"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274860/chunks.m3u8?is_vip=false&token=1779113848-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-fe75e442edea040b665bd53b9fce0c0e"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274860/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=0b17832e8cfc150a0ad8939c0019fa58&x-time=1779026520"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274860/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=c60d6bdb88353a2154b9ee51868991da&x-time=1779027420"
                 }
             ]
         },
         {
             "Category": "Football",
-            "League": "Ekstraklasa",
-            "Team 1 Name": "GKS Katowice",
-            "Team 2 Name": "Jagiellonia",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3484.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/336.png",
-            "Match Title": "GKS Katowice VS Jagiellonia | Ekstraklasa",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=GKS%20Katowice%0AVS%0AJagiellonia%0AEkstraklasa&font=Oswald",
+            "League": "2. Bundesliga",
+            "Team 1 Name": "FC Schalke 04",
+            "Team 2 Name": "Eintracht Braunschweig",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/174.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/744.png",
+            "Match Title": "FC Schalke 04 VS Eintracht Braunschweig | 2. Bundesliga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FC%20Schalke%2004%0AVS%0AEintracht%20Braunschweig%0A2.%20Bundesliga&font=Oswald",
             "Match Status": "Live",
             "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -322,23 +230,23 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274849/chunks.m3u8?is_vip=false&token=1779112972-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-7b94b016a3e4a5ba02a78b16e96ab9b8"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779113854-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-076884bd783cb40fcaeb7b4e1577a970"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274849/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=33d0bddb1009f5746947898a2b6080ee&x-time=1779026520"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=b0ecd4128cc597442a78d7538ec2e9e1&x-time=1779027420"
                 }
             ]
         },
         {
-            "Category": "Eredivisie",
-            "League": "Eredivisie",
-            "Team 1 Name": "NEC Nijmegen",
-            "Team 2 Name": "GO Ahead Eagles",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/413.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/410.png",
-            "Match Title": "NEC Nijmegen VS GO Ahead Eagles | Eredivisie",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=NEC%20Nijmegen%0AVS%0AGO%20Ahead%20Eagles%0AEredivisie&font=Oswald",
+            "Category": "Football",
+            "League": "2. Bundesliga",
+            "Team 1 Name": "1. FC Magdeburg",
+            "Team 2 Name": "1. FC Kaiserslautern",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/179.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/745.png",
+            "Match Title": "1. FC Magdeburg VS 1. FC Kaiserslautern | 2. Bundesliga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=1.%20FC%20Magdeburg%0AVS%0A1.%20FC%20Kaiserslautern%0A2.%20Bundesliga&font=Oswald",
             "Match Status": "Live",
             "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -346,7 +254,35 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/136438/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=3c17171f4d0ef5dfba86defa46475a50&x-time=1779026520"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779113861-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-8cb6eb40e23f2b2f4758c3aeb4c1042e"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=46928247bfbd37cf3cddb0f902ba9ae5&x-time=1779027420"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "2. Bundesliga",
+            "Team 1 Name": "Arminia Bielefeld",
+            "Team 2 Name": "Hertha BSC",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/188.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/159.png",
+            "Match Title": "Arminia Bielefeld VS Hertha BSC | 2. Bundesliga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Arminia%20Bielefeld%0AVS%0AHertha%20BSC%0A2.%20Bundesliga&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779113868-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-86b959da772236b43dac4f5ed2e441e6"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=0dfda6ec29d95e43a394de4a31540160&x-time=1779027420"
                 }
             ]
         },
@@ -366,11 +302,75 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779112985-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-cc3783893b3cac696f2f90e4b4f3ba59"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779113875-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-807b05a6012aaa3dd31852607d238bea"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=abee4337614714e183732a97533614db&x-time=1779026580"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=41b50544099768047402451387fd1367&x-time=1779027420"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Ekstraklasa",
+            "Team 1 Name": "GKS Katowice",
+            "Team 2 Name": "Jagiellonia",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3484.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/336.png",
+            "Match Title": "GKS Katowice VS Jagiellonia | Ekstraklasa",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=GKS%20Katowice%0AVS%0AJagiellonia%0AEkstraklasa&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274849/chunks.m3u8?is_vip=false&token=1779113882-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-f8e585e0bb35b6c2bf73cabbbdac5113"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274849/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=adcbf929f16d1bd3edcbb02dd0305f00&x-time=1779027480"
+                }
+            ]
+        },
+        {
+            "Category": "Eredivisie",
+            "League": "Eredivisie",
+            "Team 1 Name": "PSV Eindhoven",
+            "Team 2 Name": "Twente",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/197.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/415.png",
+            "Match Title": "PSV Eindhoven VS Twente | Eredivisie",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=PSV%20Eindhoven%0AVS%0ATwente%0AEredivisie&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/136437/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=78c9e00ac318ea608ae5f309625f8282&x-time=1779027480"
+                }
+            ]
+        },
+        {
+            "Category": "Eredivisie",
+            "League": "Eredivisie",
+            "Team 1 Name": "NEC Nijmegen",
+            "Team 2 Name": "GO Ahead Eagles",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/413.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/410.png",
+            "Match Title": "NEC Nijmegen VS GO Ahead Eagles | Eredivisie",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=NEC%20Nijmegen%0AVS%0AGO%20Ahead%20Eagles%0AEredivisie&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/136438/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=6cd5dda9688c63d459785e42c3399e24&x-time=1779027480"
                 }
             ]
         },
@@ -390,11 +390,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779112991-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-829ed38a36c65b7603851c46164243b0"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779113903-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-0efc36f4cad9421cb4090b6eca945b3f"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=b7abbc7c9259a2429291ca4eb4cb6042&x-time=1779026580"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=fea6149a88216edfc23f287f6bbdddb6&x-time=1779027480"
                 }
             ]
         },
@@ -414,11 +414,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779112997-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-10b6d8727e1f169c164da71a152aebaf"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779113912-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-eec7bdc1464b1d89b40d32d15fd992f9"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=6f47051b9bf3f7af3e2b9f2b262266c1&x-time=1779026580"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=810f12ee93b23a13fb43ce0c3973eb76&x-time=1779027480"
                 }
             ]
         },
@@ -438,11 +438,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779113004-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-7e5088a166a1971b2817fe7376f05881"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779113921-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-56091af5f64703425528c491b1faf0d3"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=ab5d2f7af03b82a72b0779cb3b37a3f9&x-time=1779026580"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=08438bbe5a828442da98c91d0bf8cd94&x-time=1779027480"
                 }
             ]
         },
@@ -560,11 +560,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/213.png",
             "Match Title": "União de Leiria VS Feirense | Segunda Liga",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Uni%C3%A3o%20de%20Leiria%0AVS%0AFeirense%0ASegunda%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "8:30 PM 17-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357/chunks.m3u8?is_vip=false&token=1779113928-Kv4cPTAAP5YTi-ba369216ff845d89c9d7ffeaeb80bcd71941626c-ad6a1587424f0195391a5e33e853234e"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/chunks.m3u8?is_vip=false&token=ba369216ff845d89c9d7ffeaeb80bcd71941626c&x-sign=221ee07c9c4ee24cb04cb2be931dbfcd&x-time=1779027480"
+                }
+            ]
         },
         {
             "Category": "Football",
