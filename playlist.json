@@ -3,18 +3,18 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:46:25 AM 18-05-2026"
+        "last_update_time": "1:01:25 AM 18-05-2026"
     },
     "channels": [
         {
             "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Atletico Madrid",
-            "Team 2 Name": "Girona",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/530.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/547.png",
-            "Match Title": "Atletico Madrid VS Girona | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Atletico%20Madrid%0AVS%0AGirona%0ALa%20Liga&font=Oswald",
+            "League": "Ligue 1",
+            "Team 1 Name": "Lyon",
+            "Team 2 Name": "Lens",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/80.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/116.png",
+            "Match Title": "Lyon VS Lens | Ligue 1",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Lyon%0AVS%0ALens%0ALigue%201&font=Oswald",
             "Match Status": "Live",
             "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -22,23 +22,23 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779129989-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-685d3678cdd4d36cd842438772604e4e"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844/chunks.m3u8?is_vip=false&token=1779130888-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-7405b7cc5d29e755404cf04e1c552597"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=59f266d34b908bfd1e195ab9601423aa&x-time=1779043560"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274844/chunks.m3u8?is_vip=false&token=0e3dc8554fc93e68bfed8873febc0ae4b12f4a76&x-sign=b714b8a5d2ecf5ef19ad614f1f974705&x-time=1779044460"
                 }
             ]
         },
         {
             "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Sevilla",
-            "Team 2 Name": "Real Madrid",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/536.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/541.png",
-            "Match Title": "Sevilla VS Real Madrid | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Sevilla%0AVS%0AReal%20Madrid%0ALa%20Liga&font=Oswald",
+            "League": "Ligue 1",
+            "Team 1 Name": "Paris FC",
+            "Team 2 Name": "Paris Saint Germain",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/114.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/85.png",
+            "Match Title": "Paris FC VS Paris Saint Germain | Ligue 1",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Paris%20FC%0AVS%0AParis%20Saint%20Germain%0ALigue%201&font=Oswald",
             "Match Status": "Live",
             "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -46,207 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779129996-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-a2ec4dbde0d4c0f47fe61d9304687aba"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779130895-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-dfcddf84742cda157141da10c79b8e7d"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=6121e2c2f18f938edca479047288e7a5&x-time=1779043560"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=8e246f0511d906d99644bb17c2251d26&x-time=1779043560"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Segunda Liga",
-            "Team 1 Name": "Leixoes",
-            "Team 2 Name": "Lusitânia Lourosa",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/244.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6358.png",
-            "Match Title": "Leixoes VS Lusitânia Lourosa | Segunda Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Leixoes%0AVS%0ALusit%C3%A2nia%20Lourosa%0ASegunda%20Liga&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161358/chunks.m3u8?is_vip=false&token=1779130003-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-094c522a5cf7e059a924af9cf8d70bfc"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161358/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=68fc0d81f561522b1e2eec4f16748607&x-time=1779043560"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Athletic Club",
-            "Team 2 Name": "Celta Vigo",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/531.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/538.png",
-            "Match Title": "Athletic Club VS Celta Vigo | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Athletic%20Club%0AVS%0ACelta%20Vigo%0ALa%20Liga&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779130009-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-cb6e9e5ecd377a1eff75a97e70908ff3"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=78daa393284afc2d0c9c7b10959127ea&x-time=1779043560"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Elche",
-            "Team 2 Name": "Getafe",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/797.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/546.png",
-            "Match Title": "Elche VS Getafe | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Elche%0AVS%0AGetafe%0ALa%20Liga&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779130016-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-a40ba158b49958d00df8abd375708fa5"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=f67f2a501459fb4634d8222fe9a7fd5a&x-time=1779043560"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Levante",
-            "Team 2 Name": "Mallorca",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/539.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/798.png",
-            "Match Title": "Levante VS Mallorca | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Levante%0AVS%0AMallorca%0ALa%20Liga&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779130023-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-659dd4932c0545e2566df146f361ce51"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/15/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=f69bc0b77b90f6260dc9cce736e3fae1&x-time=1779043620"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Osasuna",
-            "Team 2 Name": "Espanyol",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/727.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/540.png",
-            "Match Title": "Osasuna VS Espanyol | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Osasuna%0AVS%0AEspanyol%0ALa%20Liga&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779130029-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-10f5e976b9a4b0d94e40518bdc476889"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=d700de93c37aab4b9d9af8e1a469de14&x-time=1779043620"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Rayo Vallecano",
-            "Team 2 Name": "Villarreal",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/728.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/533.png",
-            "Match Title": "Rayo Vallecano VS Villarreal | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Rayo%20Vallecano%0AVS%0AVillarreal%0ALa%20Liga&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779130035-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-24f265844a14cd60b7cb7224aa90f82b"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=d4ea2f2b528ab5e0a6af4f1b05a048a1&x-time=1779043620"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Real Sociedad",
-            "Team 2 Name": "Valencia",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/548.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/532.png",
-            "Match Title": "Real Sociedad VS Valencia | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Real%20Sociedad%0AVS%0AValencia%0ALa%20Liga&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779130041-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-1a05cde46d289a176ee274f9b22b9926"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=8ec11e9a26fcae56ac4335b6aeb18a36&x-time=1779043620"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Oviedo",
-            "Team 2 Name": "Alaves",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/718.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/542.png",
-            "Match Title": "Oviedo VS Alaves | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Oviedo%0AVS%0AAlaves%0ALa%20Liga&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779130047-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-81046d07e31921d6a69474e5a7a2592c"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=2b8f438082f0cc63bc4601d59ac0ff41&x-time=1779043620"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=0e3dc8554fc93e68bfed8873febc0ae4b12f4a76&x-sign=851987ac06fada8b98f33238827c4d45&x-time=1779044460"
                 }
             ]
         },
@@ -266,35 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68908/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=c648d12dd64e0a79d497346de094823d&x-time=1779043620"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68908/chunks.m3u8?is_vip=false&token=0e3dc8554fc93e68bfed8873febc0ae4b12f4a76&x-sign=8bcc95bda1dd8778f29399b3fcc81c51&x-time=1779044460"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68908/chunks.m3u8?is_vip=false&token=1779130055-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-32f6c3658c8d80f807a695c8b6b817ce"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Süper Lig",
-            "Team 1 Name": "Kasımpaşa",
-            "Team 2 Name": "Galatasaray",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1004.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/24077f43e6ff21a7f245fd1aee110367.png",
-            "Match Title": "Kasımpaşa VS Galatasaray | Süper Lig",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Kas%C4%B1mpa%C5%9Fa%0AVS%0AGalatasaray%0AS%C3%BCper%20Lig&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68905/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=a62b6c8b3160e88e84be4c2066d167c8&x-time=1779043620"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/chunks.m3u8?is_vip=false&token=1779130061-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-9f7877a39a3935317f70d9b99f0ed6a7"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68908/chunks.m3u8?is_vip=false&token=1779130903-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-520b481802e9c45d490ce675569c99f9"
                 }
             ]
         },
@@ -314,11 +94,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/54046/chunks.m3u8?is_vip=false&token=1779130066-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-a4d8d0e75744d6b2082f1f2a9a7d3d54"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/54046/chunks.m3u8?is_vip=false&token=1779130908-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-2c46edf8ee0dcbf01adbadc4f4862589"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/54046/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=7086f09a41fb1656039109ea4ddbf066&x-time=1779043620"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/54046/chunks.m3u8?is_vip=false&token=0e3dc8554fc93e68bfed8873febc0ae4b12f4a76&x-sign=ca41c3bdfb1788ae5f4402dab1453330&x-time=1779044460"
                 }
             ]
         },
@@ -338,7 +118,7 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779130072-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-4d75281cd49b469964ce2d9434431ab0"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779130915-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-fabc0aa094fa80265c22d21193991fb1"
                 }
             ]
         },
@@ -358,55 +138,175 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779130078-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-7e8efdb8f208f891138cdcb5830169e9"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779130921-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-e132d7111cb41eac667623b808897785"
                 }
             ]
         },
         {
             "Category": "Football",
             "League": "Ligue 1",
-            "Team 1 Name": "Lyon",
-            "Team 2 Name": "Lens",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/80.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/116.png",
-            "Match Title": "Lyon VS Lens | Ligue 1",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Lyon%0AVS%0ALens%0ALigue%201&font=Oswald",
+            "Team 1 Name": "Stade Brestois 29",
+            "Team 2 Name": "Angers",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/106.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/77.png",
+            "Match Title": "Stade Brestois 29 VS Angers | Ligue 1",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Stade%20Brestois%2029%0AVS%0AAngers%0ALigue%201&font=Oswald",
             "Match Status": "Live",
-            "Start Time": "1:00 AM 18-05-2026",
+            "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844/chunks.m3u8?is_vip=false&token=1779130084-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-cc5217d1ea48c4bd42cc792a8d603869"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779130927-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-0a882c72f804a4a0bb71d425ead6838b"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274844/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=9cccebe5833964502305a750a9a1817a&x-time=1779043680"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=0e3dc8554fc93e68bfed8873febc0ae4b12f4a76&x-sign=549aa2474fbf6cfe3c0fb5632db5c0f3&x-time=1779044520"
                 }
             ]
         },
         {
             "Category": "Football",
             "League": "Ligue 1",
-            "Team 1 Name": "Paris FC",
-            "Team 2 Name": "Paris Saint Germain",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/114.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/85.png",
-            "Match Title": "Paris FC VS Paris Saint Germain | Ligue 1",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Paris%20FC%0AVS%0AParis%20Saint%20Germain%0ALigue%201&font=Oswald",
+            "Team 1 Name": "Lille",
+            "Team 2 Name": "Auxerre",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/79.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/108.png",
+            "Match Title": "Lille VS Auxerre | Ligue 1",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Lille%0AVS%0AAuxerre%0ALigue%201&font=Oswald",
             "Match Status": "Live",
-            "Start Time": "1:00 AM 18-05-2026",
+            "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779130090-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-07004c2a35b38e0afc2e10a4df29f91d"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779130934-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-63994ecf091b4cc82946d5d5ca15ab79"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=6a84fa8ecfe4bc81520e4f757b14e6ea&x-time=1779043680"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=0e3dc8554fc93e68bfed8873febc0ae4b12f4a76&x-sign=51649870d5b06783e3b61da635ea81b1&x-time=1779044520"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Ligue 1",
+            "Team 1 Name": "Lorient",
+            "Team 2 Name": "Le Havre",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/97.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/111.png",
+            "Match Title": "Lorient VS Le Havre | Ligue 1",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Lorient%0AVS%0ALe%20Havre%0ALigue%201&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779130940-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-4c1e6f50bf357258df4a5ed59e96bef6"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=0e3dc8554fc93e68bfed8873febc0ae4b12f4a76&x-sign=08f6bf79d8e7c4ad796f0efc8a62d04b&x-time=1779044520"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Ligue 1",
+            "Team 1 Name": "Marseille",
+            "Team 2 Name": "Rennes",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/81.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/94.png",
+            "Match Title": "Marseille VS Rennes | Ligue 1",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Marseille%0AVS%0ARennes%0ALigue%201&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779130947-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-c3782892a4b1147ca09ccee3caf48e75"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=0e3dc8554fc93e68bfed8873febc0ae4b12f4a76&x-sign=beb226fcc6ea4f23551debbe7919eb3c&x-time=1779044520"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Ligue 1",
+            "Team 1 Name": "Nantes",
+            "Team 2 Name": "Toulouse",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/83.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/96.png",
+            "Match Title": "Nantes VS Toulouse | Ligue 1",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Nantes%0AVS%0AToulouse%0ALigue%201&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779130953-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-54e76340886d04467342b910072758ff"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=0e3dc8554fc93e68bfed8873febc0ae4b12f4a76&x-sign=0b6daaddcb4495762a3be8d9b32d7b47&x-time=1779044520"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Ligue 1",
+            "Team 1 Name": "Nice",
+            "Team 2 Name": "Metz",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/84.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/112.png",
+            "Match Title": "Nice VS Metz | Ligue 1",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Nice%0AVS%0AMetz%0ALigue%201&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779130960-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-6c96cf09d08d47752bc5da56c8d688bb"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=0e3dc8554fc93e68bfed8873febc0ae4b12f4a76&x-sign=4955e7e41e18f10546bb75ec9845e7b9&x-time=1779044520"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Ligue 1",
+            "Team 1 Name": "Strasbourg",
+            "Team 2 Name": "Monaco",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/95.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/91.png",
+            "Match Title": "Strasbourg VS Monaco | Ligue 1",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Strasbourg%0AVS%0AMonaco%0ALigue%201&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274843/chunks.m3u8?is_vip=false&token=1779130966-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-6923bf84a31043a7e74de29e18480916"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274843/chunks.m3u8?is_vip=false&token=0e3dc8554fc93e68bfed8873febc0ae4b12f4a76&x-sign=beccbdc59c6930e052ffdbf62215471b&x-time=1779044520"
                 }
             ]
         },
@@ -419,11 +319,24 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/543.png",
             "Match Title": "Barcelona VS Real Betis | La Liga",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%0AVS%0AReal%20Betis%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "1:15 AM 18-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779130973-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-b1cdadc8859c06bc0d3b804ac162420d"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/15/chunks.m3u8?is_vip=false&token=0e3dc8554fc93e68bfed8873febc0ae4b12f4a76&x-sign=8f1b3f38330ad3120057d1ad3f971e0d&x-time=1779044520"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/chunks.m3u8?is_vip=false&token=1779130975-Kv4cPTAAP5YTi-0e3dc8554fc93e68bfed8873febc0ae4b12f4a76-c508ef54c94f705e1cc170e98c9179cc"
+                }
+            ]
         },
         {
             "Category": "Premier League",
@@ -486,172 +399,34 @@
             "Stream URL": []
         },
         {
-            "Category": "Football",
-            "League": "Ligue 1",
-            "Team 1 Name": "Stade Brestois 29",
-            "Team 2 Name": "Angers",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/106.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/77.png",
-            "Match Title": "Stade Brestois 29 VS Angers | Ligue 1",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Stade%20Brestois%2029%0AVS%0AAngers%0ALigue%201&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "1:00 AM 18-05-2026",
+            "Category": "Pro League",
+            "League": "Pro League",
+            "Team 1 Name": "Al-Nassr",
+            "Team 2 Name": "Damac",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2939.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2956.png",
+            "Match Title": "Al-Nassr VS Damac | Pro League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Al-Nassr%0AVS%0ADamac%0APro%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "12:00 AM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779130097-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-99ba9be1c627e4dc071a79e89ebde9f6"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=7d57921cd5aed87e5a2d853c60132364&x-time=1779043680"
-                }
-            ]
+            "Stream URL": []
         },
         {
-            "Category": "Football",
-            "League": "Ligue 1",
-            "Team 1 Name": "Lorient",
-            "Team 2 Name": "Le Havre",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/97.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/111.png",
-            "Match Title": "Lorient VS Le Havre | Ligue 1",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Lorient%0AVS%0ALe%20Havre%0ALigue%201&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "1:00 AM 18-05-2026",
+            "Category": "DFB Pokal",
+            "League": "DFB Pokal",
+            "Team 1 Name": "Bayern München",
+            "Team 2 Name": "VfB Stuttgart",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/157.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/172.png",
+            "Match Title": "Bayern München VS VfB Stuttgart | DFB Pokal",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Bayern%20M%C3%BCnchen%0AVS%0AVfB%20Stuttgart%0ADFB%20Pokal&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "12:00 AM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779130105-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-439964516ff36df9df48ac4de106e2de"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=4564b0b01d64a82e6351989ec39fb3a3&x-time=1779043680"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Ligue 1",
-            "Team 1 Name": "Nice",
-            "Team 2 Name": "Metz",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/84.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/112.png",
-            "Match Title": "Nice VS Metz | Ligue 1",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Nice%0AVS%0AMetz%0ALigue%201&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "1:00 AM 18-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779130111-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-a56bba92276c254c20527c1dd45aa413"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=3a253c747e3152fc19c24dd44baee69f&x-time=1779043680"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Ligue 1",
-            "Team 1 Name": "Strasbourg",
-            "Team 2 Name": "Monaco",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/95.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/91.png",
-            "Match Title": "Strasbourg VS Monaco | Ligue 1",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Strasbourg%0AVS%0AMonaco%0ALigue%201&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "1:00 AM 18-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274843/chunks.m3u8?is_vip=false&token=1779130118-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-f40d72ea510818dbc14558800a023d40"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274843/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=91ec7dc59abf4aedb3ec3c139f0b40fd&x-time=1779043680"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Ligue 1",
-            "Team 1 Name": "Marseille",
-            "Team 2 Name": "Rennes",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/81.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/94.png",
-            "Match Title": "Marseille VS Rennes | Ligue 1",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Marseille%0AVS%0ARennes%0ALigue%201&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "1:00 AM 18-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779130124-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-8ecd2cbacf39dbbe9cb3b0ce77811610"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=27e191cb23ec43313e98cddbd1482453&x-time=1779043680"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Ligue 1",
-            "Team 1 Name": "Lille",
-            "Team 2 Name": "Auxerre",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/79.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/108.png",
-            "Match Title": "Lille VS Auxerre | Ligue 1",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Lille%0AVS%0AAuxerre%0ALigue%201&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "1:00 AM 18-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779130131-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-84cbe2de1a61dd143734853f888a1954"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=16e6fffcfc0685f80f08947cf3f3c429&x-time=1779043680"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Ligue 1",
-            "Team 1 Name": "Nantes",
-            "Team 2 Name": "Toulouse",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/83.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/96.png",
-            "Match Title": "Nantes VS Toulouse | Ligue 1",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Nantes%0AVS%0AToulouse%0ALigue%201&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "1:00 AM 18-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779130138-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-00cc2f79de3e77d01bcdd08a78bf04c5"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=b315ad5f7da6f0082f883c6ac0d9bf02&x-time=1779043680"
-                }
-            ]
+            "Stream URL": []
         },
         {
             "Category": "Football",
@@ -715,13 +490,13 @@
         },
         {
             "Category": "Football",
-            "League": "CONMEBOL Sudamericana",
-            "Team 1 Name": "A. Italiano",
-            "Team 2 Name": "Barracas Central",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2329.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2432.png",
-            "Match Title": "A. Italiano VS Barracas Central | CONMEBOL Sudamericana",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=A.%20Italiano%0AVS%0ABarracas%20Central%0ACONMEBOL%20Sudamericana&font=Oswald",
+            "League": "CONMEBOL Libertadores",
+            "Team 1 Name": "Rosario Central",
+            "Team 2 Name": "UCV",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/437.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2840.png",
+            "Match Title": "Rosario Central VS UCV | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Rosario%20Central%0AVS%0AUCV%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 20-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -745,13 +520,13 @@
         },
         {
             "Category": "Football",
-            "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Rosario Central",
-            "Team 2 Name": "UCV",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/437.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2840.png",
-            "Match Title": "Rosario Central VS UCV | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Rosario%20Central%0AVS%0AUCV%0ACONMEBOL%20Libertadores&font=Oswald",
+            "League": "CONMEBOL Sudamericana",
+            "Team 1 Name": "A. Italiano",
+            "Team 2 Name": "Barracas Central",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2329.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2432.png",
+            "Match Title": "A. Italiano VS Barracas Central | CONMEBOL Sudamericana",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=A.%20Italiano%0AVS%0ABarracas%20Central%0ACONMEBOL%20Sudamericana&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 20-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -790,6 +565,36 @@
         },
         {
             "Category": "Football",
+            "League": "CONMEBOL Libertadores",
+            "Team 1 Name": "Independiente del Valle",
+            "Team 2 Name": "Libertad Asuncion",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1153.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1179.png",
+            "Match Title": "Independiente del Valle VS Libertad Asuncion | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20del%20Valle%0AVS%0ALibertad%20Asuncion%0ACONMEBOL%20Libertadores&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "8:00 AM 20-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "CONMEBOL Sudamericana",
+            "Team 1 Name": "Deportivo Cuenca",
+            "Team 2 Name": "Deportivo Recoleta",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1154.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10476.png",
+            "Match Title": "Deportivo Cuenca VS Deportivo Recoleta | CONMEBOL Sudamericana",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20Cuenca%0AVS%0ADeportivo%20Recoleta%0ACONMEBOL%20Sudamericana&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "8:00 AM 20-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
             "League": "CONMEBOL Sudamericana",
             "Team 1 Name": "America de Cali",
             "Team 2 Name": "Tigre",
@@ -799,6 +604,36 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=America%20de%20Cali%0AVS%0ATigre%0ACONMEBOL%20Sudamericana&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "8:00 AM 20-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "AFC Women's Champions League",
+            "Team 1 Name": "Melbourne City W",
+            "Team 2 Name": "Tokyo Verdy Beleza W",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1971.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16951.png",
+            "Match Title": "Melbourne City W VS Tokyo Verdy Beleza W | AFC Women's Champions League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Melbourne%20City%20W%0AVS%0ATokyo%20Verdy%20Beleza%20W%0AAFC%20Women's%20Champions%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 20-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "AFC Women's Champions League",
+            "Team 1 Name": "Naegohyang W",
+            "Team 2 Name": "Suwon FMC",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/26464.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/14379.png",
+            "Match Title": "Naegohyang W VS Suwon FMC | AFC Women's Champions League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Naegohyang%20W%0AVS%0ASuwon%20FMC%0AAFC%20Women's%20Champions%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "4:00 PM 20-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -834,6 +669,21 @@
             "Stream URL": []
         },
         {
+            "Category": "Tennis",
+            "League": "Strasbourg Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Day 4 | Strasbourg Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%204%0AStrasbourg%20Open&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "2:30 PM 20-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
             "Category": "Baseball",
             "League": "NPB Farm Leagues",
             "Team 1 Name": "ORIX Buffaloes",
@@ -851,12 +701,12 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Hanshin Tigers",
-            "Team 2 Name": "Chunichi Dragons",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
-            "Match Title": "Hanshin Tigers VS Chunichi Dragons | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0AChunichi%20Dragons%0ANPB&font=Oswald",
+            "Team 1 Name": "Tokyo Yakult Swallows",
+            "Team 2 Name": "Yomiuri Giants",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9f2a207ed77e5f3e2f438e501a13c005.png",
+            "Match Title": "Tokyo Yakult Swallows VS Yomiuri Giants | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AYomiuri%20Giants%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "3:00 PM 19-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -866,12 +716,12 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Saitama Seibu Lions",
-            "Team 2 Name": "Chiba Lotte Marines",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f21f7f743a49b135f1804b1df2d0e5d8.png",
-            "Match Title": "Saitama Seibu Lions VS Chiba Lotte Marines | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald",
+            "Team 1 Name": "Hokkaido Nippon-Ham Fighters",
+            "Team 2 Name": "Tohoku Rakuten Golden Eagles",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
+            "Match Title": "Hokkaido Nippon-Ham Fighters VS Tohoku Rakuten Golden Eagles | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0ATohoku%20Rakuten%20Golden%20Eagles%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "3:00 PM 19-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
