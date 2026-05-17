@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "8:31:27 PM 17-05-2026"
+        "last_update_time": "8:46:23 PM 17-05-2026"
     },
     "channels": [
         {
@@ -22,19 +22,19 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779114690-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-ceab2851f3b42bf4c1b2ed5e9d7fa8df"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779115587-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-1606eeac7a9025e1ddda6578ee5a795d"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/15/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=b7bb956be84d474064fe5d9a39579372&x-time=1779028260"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/15/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=b3f3823254463f897e3500e5c95bf4a8&x-time=1779029160"
                 },
                 {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/54044/chunks.m3u8?is_vip=false&token=1779114693-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-04010fc9692136181e3818b580f3bba3"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/54044/chunks.m3u8?is_vip=false&token=1779115589-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-98e543e8fc95f9856bb3340703ab3762"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/54044/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=c7fa6aeb24a647ab869c0db158518d54&x-time=1779028260"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/54044/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=425741475e9c45a4df1326c8f93ef588&x-time=1779029160"
                 }
             ]
         },
@@ -54,19 +54,19 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144254/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=9bb2487f20eb15c24efdc79f99101bc0&x-time=1779028260"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144254/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=0736bdc1a746c5f601585035fd517dab&x-time=1779029160"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52433/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=cdfdbd8ccecfc4611a3bce2ec086e3bc&x-time=1779028260"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52433/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=41dcd8defee52fdc3cc133a7d83705ca&x-time=1779029160"
                 },
                 {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779114703-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-1c47b1dac20e7481dd5138bbc9c0aa40"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779115598-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-f17a0ca7684f3916b594ae49d99f2b87"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=d14e45ff50f01c5d4bc47180ed6569d5&x-time=1779028260"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=8ea8190e00ce7fb377d39ce01c67d6d7&x-time=1779029160"
                 }
             ]
         },
@@ -86,19 +86,19 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144256/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=fbfb5a2cc632025175c5e3000fed0948&x-time=1779028260"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144256/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=1628c5bae603a49235141afb80c0a628&x-time=1779029160"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52434/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=72570e8802c2f297d6b9ece786b78a26&x-time=1779028260"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52434/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=b4e98602adc93b9dae738923289b4887&x-time=1779029160"
                 },
                 {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779114712-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-3eb19a647b6093cd561fe396b8c6e8d1"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779115607-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-fb50c72c1bdac299822e8a4afa397f4f"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=b27f73ed9aa66ed3e7d6d441c5a48d7f&x-time=1779028260"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=28b539466b27360869452ed9cd052f7a&x-time=1779029160"
                 }
             ]
         },
@@ -118,19 +118,19 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52435/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=228ae6186757819d1e7d542746726773&x-time=1779028260"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52435/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=8b61acf17c1baa82dcaf2bdfd8ac6e08&x-time=1779029160"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779114719-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-b04358be13a8c8c02ed0af628a3e2aea"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779115614-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-18c06450c50667ee0a2d4a1cb29b3e1a"
                 },
                 {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779114720-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-9b86f1da98efc0fa2c71ad270116f78b"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779115615-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-922b52b32987c83dbaa52a9a40f60d6a"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=d852b97952062bbbb31e46460d0eb6d8&x-time=1779028320"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=6c55edf2c2277d60ac73e1b0b8b15dac&x-time=1779029160"
                 }
             ]
         },
@@ -150,19 +150,19 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144257/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=c94b926f47eb30a948adb3fa01e1492d&x-time=1779028320"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144257/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=4b6d74da33d315c27a44b29a1a1ecb84&x-time=1779029220"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52436/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=be6dd202c0a4089e531cd69a85024f15&x-time=1779028320"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52436/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=c40dd145e45757f337fafffe81f1707d&x-time=1779029220"
                 },
                 {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779114729-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-2802288a400103468bbbd097f1d5ac94"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779115626-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-89929287ff5b42b85be6bc50492c54d6"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=91991dbd88ec740b74694ae2cb4c18cd&x-time=1779028320"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=87eec4d270cfa42bc32e2ca442993f72&x-time=1779029220"
                 }
             ]
         },
@@ -182,11 +182,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779114736-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-63a53d9c53f33036cdab129a91eed995"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779115632-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-1ae2ae6a91bc5a4edbdb01588ba50098"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=8baef4ad434e963639bed62468de1b06&x-time=1779028320"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=4cf2d2f6b0055953ee5147a5657a141e&x-time=1779029220"
                 }
             ]
         },
@@ -206,35 +206,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779114742-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-854e0ea8f6db2871c4235ae8b513693b"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779115641-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-f4cbae00c5c3b064a8ff640f03a9d83c"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=ed810e59450257ef5916826e464434f7&x-time=1779028320"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Ekstraklasa",
-            "Team 1 Name": "GKS Katowice",
-            "Team 2 Name": "Jagiellonia",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3484.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/336.png",
-            "Match Title": "GKS Katowice VS Jagiellonia | Ekstraklasa",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=GKS%20Katowice%0AVS%0AJagiellonia%0AEkstraklasa&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274849/chunks.m3u8?is_vip=false&token=1779114748-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-15ebcadc7479b19f2b3dbb90fedb7057"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274849/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=365aa308b4133d54b868965dc634c1a0&x-time=1779028320"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=4c7104738764083b845aa0a86d904b73&x-time=1779029220"
                 }
             ]
         },
@@ -254,11 +230,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274860/chunks.m3u8?is_vip=false&token=1779114755-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-d3c0b4155042abc5d92a624450885b2f"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274860/chunks.m3u8?is_vip=false&token=1779115648-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-e676a06d97c8d6acbffc9770ea5e15c3"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274860/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=7e812e35423a8f7c12e6ca62780c0b55&x-time=1779028320"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274860/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=73448675135ed988931ff81bea75b887&x-time=1779029220"
                 }
             ]
         },
@@ -278,11 +254,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779114762-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-c78e310337c475f40c601cbe134a41d6"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779115654-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-8e345599bbcfc8c665ac6b71def9066a"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=e26caf5ad7256e38b5731d9f4c905ec9&x-time=1779028320"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=367e399d919754b160d16edb54e4bd14&x-time=1779029220"
                 }
             ]
         },
@@ -302,11 +278,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779114770-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-572ae62a07ae9e457a094f8f18c1987f"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779115660-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-f0ab813e8a7e6ce3a245c7ae13825f5d"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=9809d64ed2ffbecba2e10dc2cba5a597&x-time=1779028320"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=862bce6a3a261ffd729bd5aac084c538&x-time=1779029220"
                 }
             ]
         },
@@ -326,11 +302,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779114776-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-eae6bf5e30780db61991c305b87a7a82"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779115667-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-1017dc25b94a30f07a80fe6731eb7cd9"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=397afc296be0d42e27f8d0a15b9d0c66&x-time=1779028320"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=e4a334b4cc5db3fb328316a418053aec&x-time=1779029220"
                 }
             ]
         },
@@ -350,11 +326,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779114784-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-092af2b2c3b221133f9e9df5cebf19d4"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779115673-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-9cbb1aba2d36bdf221bd0b01d5af4398"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=dc13049296ab475c30a0e6f56c465bde&x-time=1779028380"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=9ed6108d4e9f5907fe808cdbd28dda6a&x-time=1779029220"
                 }
             ]
         },
@@ -374,11 +350,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/34464/chunks.m3u8?is_vip=false&token=1779114790-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-0a2003c20522617e65d696a3bf642a19"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/34464/chunks.m3u8?is_vip=false&token=1779115679-Kv4cPTAAP5YTi-1b364a109ef916a81101e2eba047764a0d3ce79d-2e40990a2c3c321ffcdc584736b39e59"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/34464/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=dc85e745c91d7e9ed682e4c8ab814ed2&x-time=1779028380"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/34464/chunks.m3u8?is_vip=false&token=1b364a109ef916a81101e2eba047764a0d3ce79d&x-sign=92e29fc84dc2d02030a2e2bd82ee4918&x-time=1779029280"
                 }
             ]
         },
@@ -534,103 +510,13 @@
         },
         {
             "Category": "Football",
-            "League": "Süper Lig",
-            "Team 1 Name": "Kasımpaşa",
-            "Team 2 Name": "Galatasaray",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1004.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/24077f43e6ff21a7f245fd1aee110367.png",
-            "Match Title": "Kasımpaşa VS Galatasaray | Süper Lig",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Kas%C4%B1mpa%C5%9Fa%0AVS%0AGalatasaray%0AS%C3%BCper%20Lig&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 PM 17-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "Segunda Liga",
-            "Team 1 Name": "Leixoes",
-            "Team 2 Name": "Lusitânia Lourosa",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/244.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6358.png",
-            "Match Title": "Leixoes VS Lusitânia Lourosa | Segunda Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Leixoes%0AVS%0ALusit%C3%A2nia%20Lourosa%0ASegunda%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 PM 17-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
             "League": "La Liga",
-            "Team 1 Name": "Athletic Club",
-            "Team 2 Name": "Celta Vigo",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/531.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/538.png",
-            "Match Title": "Athletic Club VS Celta Vigo | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Athletic%20Club%0AVS%0ACelta%20Vigo%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 PM 17-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Elche",
-            "Team 2 Name": "Getafe",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/797.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/546.png",
-            "Match Title": "Elche VS Getafe | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Elche%0AVS%0AGetafe%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 PM 17-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Levante",
-            "Team 2 Name": "Mallorca",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/539.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/798.png",
-            "Match Title": "Levante VS Mallorca | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Levante%0AVS%0AMallorca%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 PM 17-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Osasuna",
-            "Team 2 Name": "Espanyol",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/727.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/540.png",
-            "Match Title": "Osasuna VS Espanyol | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Osasuna%0AVS%0AEspanyol%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 PM 17-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Rayo Vallecano",
-            "Team 2 Name": "Villarreal",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/728.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/533.png",
-            "Match Title": "Rayo Vallecano VS Villarreal | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Rayo%20Vallecano%0AVS%0AVillarreal%0ALa%20Liga&font=Oswald",
+            "Team 1 Name": "Oviedo",
+            "Team 2 Name": "Alaves",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/718.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/542.png",
+            "Match Title": "Oviedo VS Alaves | La Liga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Oviedo%0AVS%0AAlaves%0ALa%20Liga&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 PM 17-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -655,12 +541,102 @@
         {
             "Category": "Football",
             "League": "La Liga",
-            "Team 1 Name": "Oviedo",
-            "Team 2 Name": "Alaves",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/718.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/542.png",
-            "Match Title": "Oviedo VS Alaves | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Oviedo%0AVS%0AAlaves%0ALa%20Liga&font=Oswald",
+            "Team 1 Name": "Rayo Vallecano",
+            "Team 2 Name": "Villarreal",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/728.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/533.png",
+            "Match Title": "Rayo Vallecano VS Villarreal | La Liga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Rayo%20Vallecano%0AVS%0AVillarreal%0ALa%20Liga&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 PM 17-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "La Liga",
+            "Team 1 Name": "Osasuna",
+            "Team 2 Name": "Espanyol",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/727.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/540.png",
+            "Match Title": "Osasuna VS Espanyol | La Liga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Osasuna%0AVS%0AEspanyol%0ALa%20Liga&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 PM 17-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "La Liga",
+            "Team 1 Name": "Elche",
+            "Team 2 Name": "Getafe",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/797.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/546.png",
+            "Match Title": "Elche VS Getafe | La Liga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Elche%0AVS%0AGetafe%0ALa%20Liga&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 PM 17-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "La Liga",
+            "Team 1 Name": "Athletic Club",
+            "Team 2 Name": "Celta Vigo",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/531.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/538.png",
+            "Match Title": "Athletic Club VS Celta Vigo | La Liga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Athletic%20Club%0AVS%0ACelta%20Vigo%0ALa%20Liga&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 PM 17-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "Segunda Liga",
+            "Team 1 Name": "Leixoes",
+            "Team 2 Name": "Lusitânia Lourosa",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/244.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6358.png",
+            "Match Title": "Leixoes VS Lusitânia Lourosa | Segunda Liga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Leixoes%0AVS%0ALusit%C3%A2nia%20Lourosa%0ASegunda%20Liga&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 PM 17-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "La Liga",
+            "Team 1 Name": "Levante",
+            "Team 2 Name": "Mallorca",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/539.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/798.png",
+            "Match Title": "Levante VS Mallorca | La Liga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Levante%0AVS%0AMallorca%0ALa%20Liga&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 PM 17-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "Süper Lig",
+            "Team 1 Name": "Kasımpaşa",
+            "Team 2 Name": "Galatasaray",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1004.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/24077f43e6ff21a7f245fd1aee110367.png",
+            "Match Title": "Kasımpaşa VS Galatasaray | Süper Lig",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Kas%C4%B1mpa%C5%9Fa%0AVS%0AGalatasaray%0AS%C3%BCper%20Lig&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 PM 17-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -685,21 +661,6 @@
         {
             "Category": "Football",
             "League": "Serie A",
-            "Team 1 Name": "Cagliari",
-            "Team 2 Name": "Torino",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/490.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/503.png",
-            "Match Title": "Cagliari VS Torino | Serie A",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Cagliari%0AVS%0ATorino%0ASerie%20A&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "12:45 AM 18-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "Serie A",
             "Team 1 Name": "Sassuolo",
             "Team 2 Name": "Lecce",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/488.png",
@@ -714,15 +675,15 @@
         },
         {
             "Category": "Football",
-            "League": "Ligue 1",
-            "Team 1 Name": "Stade Brestois 29",
-            "Team 2 Name": "Angers",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/106.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/77.png",
-            "Match Title": "Stade Brestois 29 VS Angers | Ligue 1",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Stade%20Brestois%2029%0AVS%0AAngers%0ALigue%201&font=Oswald",
+            "League": "Serie A",
+            "Team 1 Name": "Cagliari",
+            "Team 2 Name": "Torino",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/490.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/503.png",
+            "Match Title": "Cagliari VS Torino | Serie A",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Cagliari%0AVS%0ATorino%0ASerie%20A&font=Oswald",
             "Match Status": "Upcoming",
-            "Start Time": "1:00 AM 18-05-2026",
+            "Start Time": "12:45 AM 18-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -819,6 +780,21 @@
         },
         {
             "Category": "Football",
+            "League": "Ligue 1",
+            "Team 1 Name": "Stade Brestois 29",
+            "Team 2 Name": "Angers",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/106.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/77.png",
+            "Match Title": "Stade Brestois 29 VS Angers | Ligue 1",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Stade%20Brestois%2029%0AVS%0AAngers%0ALigue%201&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "1:00 AM 18-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
             "League": "Liga Profesional Argentina",
             "Team 1 Name": "Argentinos JRS",
             "Team 2 Name": "Belgrano Cordoba",
@@ -873,6 +849,21 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0AStrasbourg%20Open&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "2:30 PM 18-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Tennis",
+            "League": "Strasbourg Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Day 3 | Strasbourg Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%203%0AStrasbourg%20Open&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "2:30 PM 19-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
