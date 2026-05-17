@@ -3,130 +3,130 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 1:16:27 AM 18-05-2026
+#last update time: 1:31:30 AM 18-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lyon%0AVS%0ALens%0ALigue%201&font=Oswald" group-title="Football", Lyon VS Lens | Ligue 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274844/chunks.m3u8?is_vip=false&token=1779131790-Kv4cPTAAP5YTi-ebde4365471b6483fe7697d8ef18423f23ec174b-c820f7cbdc2955bc80d98482970a9f5d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274844/chunks.m3u8?is_vip=false&token=1779132694-Kv4cPTAAP5YTi-8a6a15a0f5b36813d0814858ffefa18837fabac4-de9a18aaf73ef9c33c43524bd5b5cdb5
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lyon%0AVS%0ALens%0ALigue%201&font=Oswald" group-title="Football", Lyon VS Lens | Ligue 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274844/chunks.m3u8?is_vip=false&token=ebde4365471b6483fe7697d8ef18423f23ec174b&x-sign=4bc21c1bbb6106098853422e393b1302&x-time=1779045360
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274844/chunks.m3u8?is_vip=false&token=8a6a15a0f5b36813d0814858ffefa18837fabac4&x-sign=6033ebc30e5d89f876f17eb8bb0dd261&x-time=1779046260
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Paris%20FC%0AVS%0AParis%20Saint%20Germain%0ALigue%201&font=Oswald" group-title="Football", Paris FC VS Paris Saint Germain | Ligue 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779131797-Kv4cPTAAP5YTi-ebde4365471b6483fe7697d8ef18423f23ec174b-45f3456177ab3b8dd404f76a3669e5a4
+https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779132701-Kv4cPTAAP5YTi-8a6a15a0f5b36813d0814858ffefa18837fabac4-1a6f02ee91c1a1133386aecc996c6c80
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Paris%20FC%0AVS%0AParis%20Saint%20Germain%0ALigue%201&font=Oswald" group-title="Football", Paris FC VS Paris Saint Germain | Ligue 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=ebde4365471b6483fe7697d8ef18423f23ec174b&x-sign=edc40727cb54ffabe386092e9f6348b2&x-time=1779045360
+https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=8a6a15a0f5b36813d0814858ffefa18837fabac4&x-sign=f589dd89ba91c7f6e4c5a4444a35c228&x-time=1779046260
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%0AVS%0AReal%20Betis%0ALa%20Liga&font=Oswald" group-title="Football", Barcelona VS Real Betis | La Liga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779131803-Kv4cPTAAP5YTi-ebde4365471b6483fe7697d8ef18423f23ec174b-eb758cb4b9d058a733a7536f02a19aa9
+https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779132709-Kv4cPTAAP5YTi-8a6a15a0f5b36813d0814858ffefa18837fabac4-22710959b5bbbbdb8b7a6c17f60defc9
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%0AVS%0AReal%20Betis%0ALa%20Liga&font=Oswald" group-title="Football", Barcelona VS Real Betis | La Liga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/15/chunks.m3u8?is_vip=false&token=ebde4365471b6483fe7697d8ef18423f23ec174b&x-sign=bd8c6feb6a46a1410d340af6e5e0e38c&x-time=1779045360
+https://livecdn-bp-livestream.rumsport7.live/stream/15/chunks.m3u8?is_vip=false&token=8a6a15a0f5b36813d0814858ffefa18837fabac4&x-sign=81ad7c3e1af1bb1e9595eeebb9325e3a&x-time=1779046260
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%0AVS%0AReal%20Betis%0ALa%20Liga&font=Oswald" group-title="Football", Barcelona VS Real Betis | La Liga [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/chunks.m3u8?is_vip=false&token=1779131805-Kv4cPTAAP5YTi-ebde4365471b6483fe7697d8ef18423f23ec174b-27f898f034ca20b64eb0f27e72d30082
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/chunks.m3u8?is_vip=false&token=1779132711-Kv4cPTAAP5YTi-8a6a15a0f5b36813d0814858ffefa18837fabac4-9d50713ec63dc07e61b907be524e4555
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cagliari%0AVS%0ATorino%0ASerie%20A&font=Oswald" group-title="Football", Cagliari VS Torino | Serie A [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/54046/chunks.m3u8?is_vip=false&token=1779131811-Kv4cPTAAP5YTi-ebde4365471b6483fe7697d8ef18423f23ec174b-54a9de3d92248cbc07e80a730488388a
+https://livecdn-tc-iptv.rumsport10.live/live_abr/54046/chunks.m3u8?is_vip=false&token=1779132717-Kv4cPTAAP5YTi-8a6a15a0f5b36813d0814858ffefa18837fabac4-e9fd03db22f025d64a8aeb982fd8e1e2
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cagliari%0AVS%0ATorino%0ASerie%20A&font=Oswald" group-title="Football", Cagliari VS Torino | Serie A [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/54046/chunks.m3u8?is_vip=false&token=ebde4365471b6483fe7697d8ef18423f23ec174b&x-sign=9890c4c6986013dda0994af8ce82a63d&x-time=1779045360
+https://livecdn-bp-iptv.rumsport7.live/live_abr/54046/chunks.m3u8?is_vip=false&token=8a6a15a0f5b36813d0814858ffefa18837fabac4&x-sign=ea94870892a2cef18931294a7bc483a5&x-time=1779046260
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sassuolo%0AVS%0ALecce%0ASerie%20A&font=Oswald" group-title="Football", Sassuolo VS Lecce | Serie A [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779131818-Kv4cPTAAP5YTi-ebde4365471b6483fe7697d8ef18423f23ec174b-938aa4871b6d95313802f01d0590a4c5
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779132724-Kv4cPTAAP5YTi-8a6a15a0f5b36813d0814858ffefa18837fabac4-d33d77d733bc9b2d682fd5f4d27f061f
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Udinese%0AVS%0ACremonese%0ASerie%20A&font=Oswald" group-title="Football", Udinese VS Cremonese | Serie A [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779131823-Kv4cPTAAP5YTi-ebde4365471b6483fe7697d8ef18423f23ec174b-7a42c005d9f792106a9837b3660261c1
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779132729-Kv4cPTAAP5YTi-8a6a15a0f5b36813d0814858ffefa18837fabac4-4d5042c52aefe78970b1dc8934dfe048
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Stade%20Brestois%2029%0AVS%0AAngers%0ALigue%201&font=Oswald" group-title="Football", Stade Brestois 29 VS Angers | Ligue 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779131829-Kv4cPTAAP5YTi-ebde4365471b6483fe7697d8ef18423f23ec174b-78ed0162d19cc82368aef415995c74d1
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779132735-Kv4cPTAAP5YTi-8a6a15a0f5b36813d0814858ffefa18837fabac4-5e36cfc4f613c32b5b0f00b82e8f2e55
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Stade%20Brestois%2029%0AVS%0AAngers%0ALigue%201&font=Oswald" group-title="Football", Stade Brestois 29 VS Angers | Ligue 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=ebde4365471b6483fe7697d8ef18423f23ec174b&x-sign=cfaa0db2a2c2774c90a5b15a186310a8&x-time=1779045420
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=8a6a15a0f5b36813d0814858ffefa18837fabac4&x-sign=3384f58dea5b7e67049d496c233d6007&x-time=1779046320
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lille%0AVS%0AAuxerre%0ALigue%201&font=Oswald" group-title="Football", Lille VS Auxerre | Ligue 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779131835-Kv4cPTAAP5YTi-ebde4365471b6483fe7697d8ef18423f23ec174b-b6cbcb6d92dd57be88fa5bed5c8e0db0
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779132742-Kv4cPTAAP5YTi-8a6a15a0f5b36813d0814858ffefa18837fabac4-70429d178e7f33487cb64ca2b36563aa
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lille%0AVS%0AAuxerre%0ALigue%201&font=Oswald" group-title="Football", Lille VS Auxerre | Ligue 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=ebde4365471b6483fe7697d8ef18423f23ec174b&x-sign=8af8dbba6b80d26de0e16c5337244e27&x-time=1779045420
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=8a6a15a0f5b36813d0814858ffefa18837fabac4&x-sign=c3c216501ecb7b8d143106f67dd91a41&x-time=1779046320
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lorient%0AVS%0ALe%20Havre%0ALigue%201&font=Oswald" group-title="Football", Lorient VS Le Havre | Ligue 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779131842-Kv4cPTAAP5YTi-ebde4365471b6483fe7697d8ef18423f23ec174b-4ac7f071815a6c7477a05a3dea46ba7e
+https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779132748-Kv4cPTAAP5YTi-8a6a15a0f5b36813d0814858ffefa18837fabac4-537a5be391ba04c25f1bb83cf4a555f6
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lorient%0AVS%0ALe%20Havre%0ALigue%201&font=Oswald" group-title="Football", Lorient VS Le Havre | Ligue 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=ebde4365471b6483fe7697d8ef18423f23ec174b&x-sign=9a21caa55f4165847764fa2cd50c8437&x-time=1779045420
+https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=8a6a15a0f5b36813d0814858ffefa18837fabac4&x-sign=a73839b5b5cac087f419bacdbf19793c&x-time=1779046320
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Marseille%0AVS%0ARennes%0ALigue%201&font=Oswald" group-title="Football", Marseille VS Rennes | Ligue 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274842/chunks.m3u8?is_vip=false&token=ebde4365471b6483fe7697d8ef18423f23ec174b&x-sign=35cd2b10b50d456c0e4dca8bbc7cfd34&x-time=1779045420
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274842/chunks.m3u8?is_vip=false&token=8a6a15a0f5b36813d0814858ffefa18837fabac4&x-sign=e2462df3ced20e9f6ecee8ba6d2e5e40&x-time=1779046320
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Marseille%0AVS%0ARennes%0ALigue%201&font=Oswald" group-title="Football", Marseille VS Rennes | Ligue 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274842/chunks.m3u8?is_vip=false&token=1779131850-Kv4cPTAAP5YTi-ebde4365471b6483fe7697d8ef18423f23ec174b-6979d7f9832833ba9fe611372388a274
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274842/chunks.m3u8?is_vip=false&token=1779132756-Kv4cPTAAP5YTi-8a6a15a0f5b36813d0814858ffefa18837fabac4-931280f6822d9db23567dbbaa0608132
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Nantes%0AVS%0AToulouse%0ALigue%201&font=Oswald" group-title="Football", Nantes VS Toulouse | Ligue 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779131856-Kv4cPTAAP5YTi-ebde4365471b6483fe7697d8ef18423f23ec174b-cefb6ddea07147efe01356b944214ccc
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779132761-Kv4cPTAAP5YTi-8a6a15a0f5b36813d0814858ffefa18837fabac4-b571770c89c62bfb38b0ee0459798955
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Nantes%0AVS%0AToulouse%0ALigue%201&font=Oswald" group-title="Football", Nantes VS Toulouse | Ligue 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=ebde4365471b6483fe7697d8ef18423f23ec174b&x-sign=9c3f613b0b0301cc1206a0e64449072f&x-time=1779045420
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=8a6a15a0f5b36813d0814858ffefa18837fabac4&x-sign=f548f8ca040cd274bb61cc3bbb097462&x-time=1779046320
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Nice%0AVS%0AMetz%0ALigue%201&font=Oswald" group-title="Football", Nice VS Metz | Ligue 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779131863-Kv4cPTAAP5YTi-ebde4365471b6483fe7697d8ef18423f23ec174b-9315f88b4a852d7dbffa1fda915be79c
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779132768-Kv4cPTAAP5YTi-8a6a15a0f5b36813d0814858ffefa18837fabac4-c52297d47677048a396382413e36be50
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Nice%0AVS%0AMetz%0ALigue%201&font=Oswald" group-title="Football", Nice VS Metz | Ligue 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=ebde4365471b6483fe7697d8ef18423f23ec174b&x-sign=ae22fff1a79f55e9185e74dbcf401cca&x-time=1779045420
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=8a6a15a0f5b36813d0814858ffefa18837fabac4&x-sign=28b4e0a4c043c90269d98519f332e424&x-time=1779046320
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Strasbourg%0AVS%0AMonaco%0ALigue%201&font=Oswald" group-title="Football", Strasbourg VS Monaco | Ligue 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274843/chunks.m3u8?is_vip=false&token=1779131869-Kv4cPTAAP5YTi-ebde4365471b6483fe7697d8ef18423f23ec174b-684f35b9e0505b94fab82ef63f0d561a
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274843/chunks.m3u8?is_vip=false&token=1779132775-Kv4cPTAAP5YTi-8a6a15a0f5b36813d0814858ffefa18837fabac4-07093a763f515fe9075938ca27c24efc
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Strasbourg%0AVS%0AMonaco%0ALigue%201&font=Oswald" group-title="Football", Strasbourg VS Monaco | Ligue 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274843/chunks.m3u8?is_vip=false&token=ebde4365471b6483fe7697d8ef18423f23ec174b&x-sign=61d5640962067f087b72512c1bbdcbe7&x-time=1779045420
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274843/chunks.m3u8?is_vip=false&token=8a6a15a0f5b36813d0814858ffefa18837fabac4&x-sign=5b823226224b9954b67cf50279808404&x-time=1779046320
 
