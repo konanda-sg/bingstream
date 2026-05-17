@@ -3,20 +3,20 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 3:46:24 AM 18-05-2026
+#last update time: 4:01:32 AM 18-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FURY%20FC%20119%0AMMA&font=Oswald" group-title="MMA", FURY FC 119 | MMA [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/chunks.m3u8?is_vip=false&token=1779140789-Kv4cPTAAP5YTi-34185fd46c1ce56cd862c0364d8c9f149c9949d4-8098c69ae45953497c5f2de15b4f8f1b
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/chunks.m3u8?is_vip=false&token=1779141695-Kv4cPTAAP5YTi-4ed6df2f723352f14769d3a0b906e91e22336043-df37da0ec2a3f91b6b2268ea3fa1db2c
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FURY%20FC%20119%0AMMA&font=Oswald" group-title="MMA", FURY FC 119 | MMA [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/chunks.m3u8?is_vip=false&token=34185fd46c1ce56cd862c0364d8c9f149c9949d4&x-sign=ddb5d91c5655ba9d1d2ad165a2c2fd1d&x-time=1779054360
+https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/chunks.m3u8?is_vip=false&token=4ed6df2f723352f14769d3a0b906e91e22336043&x-sign=6d3da4d9e851a07454c1a2e6ae286567&x-time=1779055260
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FURY%20FC%20119%0AMMA&font=Oswald" group-title="MMA", FURY FC 119 | MMA [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779140791-Kv4cPTAAP5YTi-34185fd46c1ce56cd862c0364d8c9f149c9949d4-e861e39668c235eb54da4139777a8b3b
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779141697-Kv4cPTAAP5YTi-4ed6df2f723352f14769d3a0b906e91e22336043-69abf78abcb1a10ecbfa8350e93ac544
 
