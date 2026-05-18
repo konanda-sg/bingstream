@@ -3,41 +3,9 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "2:46:27 AM 19-05-2026"
+        "last_update_time": "3:01:29 AM 19-05-2026"
     },
     "channels": [
-        {
-            "Category": "Premier League",
-            "League": "Premier League",
-            "Team 1 Name": "Arsenal",
-            "Team 2 Name": "Burnley",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/86a5551ea100615b459685f34e5ddd27.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/44.png",
-            "Match Title": "Arsenal VS Burnley | Premier League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Arsenal%0AVS%0ABurnley%0APremier%20League&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144253/chunks.m3u8?is_vip=false&token=bbc59d1dfd701bfe7786ff6aa9c7806d87b60a1a&x-sign=34408cb4536eb2403ca1aadaeae62c1c&x-time=1779137160"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779223593-Kv4cPTAAP5YTi-bbc59d1dfd701bfe7786ff6aa9c7806d87b60a1a-c7dada79df3eecaab470adbadcdc5218"
-                },
-                {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=bbc59d1dfd701bfe7786ff6aa9c7806d87b60a1a&x-sign=7807f84424e3bcb4394882307b622f30&x-time=1779137160"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779223595-Kv4cPTAAP5YTi-bbc59d1dfd701bfe7786ff6aa9c7806d87b60a1a-1dbaff76eb4f94b8ff23fb69e265813b"
-                }
-            ]
-        },
         {
             "Category": "Premier League",
             "League": "Premier League",
