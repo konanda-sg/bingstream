@@ -3,25 +3,25 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:16:33 PM 18-05-2026
+#last update time: 10:31:53 PM 18-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 2 | Strasbourg Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1779207397-Kv4cPTAAP5YTi-0ff8f5a2271d8a1dfeb399fd4f4d1926aaa12ef2-54627b9d687a821a97be7b65f1acfb1a
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1779208317-Kv4cPTAAP5YTi-6f982d627110da88518df34e2a6ea03bf7798889-72afce216174a5c01dd703e63808e82d
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 2 | Strasbourg Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/chunks.m3u8?is_vip=false&token=0ff8f5a2271d8a1dfeb399fd4f4d1926aaa12ef2&x-sign=8ea807618b412b71f26e187ff33da4b3&x-time=1779120960
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/chunks.m3u8?is_vip=false&token=6f982d627110da88518df34e2a6ea03bf7798889&x-sign=a53ea40d8d828249526d089e36614a68&x-time=1779121860
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Players%20Championship%2017%0APlayers%20Championship&font=Oswald" group-title="Darts", Players Championship 17 | Players Championship [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779207404-Kv4cPTAAP5YTi-0ff8f5a2271d8a1dfeb399fd4f4d1926aaa12ef2-668c9c1ca84ef723c290ad3a70ff2154
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779208325-Kv4cPTAAP5YTi-6f982d627110da88518df34e2a6ea03bf7798889-7e7bdbc9db2d71a537b3a3a4b25a5d5f
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Players%20Championship%2017%0APlayers%20Championship&font=Oswald" group-title="Darts", Players Championship 17 | Players Championship [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=0ff8f5a2271d8a1dfeb399fd4f4d1926aaa12ef2&x-sign=ea57808011fd921dbf64ada7bd710c21&x-time=1779120960
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=6f982d627110da88518df34e2a6ea03bf7798889&x-sign=a86e9a98214c8e7ca3531c3e012f65ee&x-time=1779121920
 
