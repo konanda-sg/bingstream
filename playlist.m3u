@@ -3,15 +3,15 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:31:25 PM 18-05-2026
+#last update time: 12:46:28 PM 18-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=test%20only%0ABoxing&font=Oswald" group-title="Boxing", test only | Boxing [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779172288-Kv4cPTAAP5YTi-2ca70425aff7cd2b7d7b2fabb0679f708b7c1387-9baeb76ae40fb9ece5e4bf9d14cad47b
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779173191-Kv4cPTAAP5YTi-6892312b49ce6848cd409172f2b2b9ee5e8ecb23-34ab9478344ae5d93e8cf6c45d1084cc
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=test%20only%0ABoxing&font=Oswald" group-title="Boxing", test only | Boxing [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=2ca70425aff7cd2b7d7b2fabb0679f708b7c1387&x-sign=9de41ea1ef8d283f0c26c7ca1f6bb799&x-time=1779085860
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=6892312b49ce6848cd409172f2b2b9ee5e8ecb23&x-sign=7625d60ed63115019fb556f0e6be8890&x-time=1779086760
 
