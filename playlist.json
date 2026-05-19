@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "7:46:27 AM 19-05-2026"
+        "last_update_time": "8:01:29 AM 19-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,107 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779241591-Kv4cPTAAP5YTi-b0f5537061726ec4bf3d2221453be25bc5765e31-11d7b04190e03143d412fc515034a422"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779242494-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-cba100941b12f1650c106a4909906e35"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=b0f5537061726ec4bf3d2221453be25bc5765e31&x-sign=51d944dc5493f56b5d81d20e36f67b03&x-time=1779155160"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=5fd076b89c5fdd734517ec5ab683a5e4&x-time=1779156060"
+                }
+            ]
+        },
+        {
+            "Category": "PERODUA Malaysia Masters",
+            "League": "PERODUA Malaysia Masters",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 1 | PERODUA Malaysia Masters",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779242500-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-9d2bf0a8b574c668e3fbe606cf464293"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=09d2a5bd7547135e769d5d47389251bb&x-time=1779156060"
+                }
+            ]
+        },
+        {
+            "Category": "Badminton",
+            "League": "PERODUA Malaysia Masters",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 2 | PERODUA Malaysia Masters",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779242508-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-1677bc4283e779d12cbd000e480f5f74"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=2764e84bdf809642204b8bfac60ce5f0&x-time=1779156060"
+                }
+            ]
+        },
+        {
+            "Category": "Badminton",
+            "League": "PERODUA Malaysia Masters",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 3 | PERODUA Malaysia Masters",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779242515-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-630def8b3777451b13d373967cf4b16d"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=00d08837526531d5e1bab73ce8cfd9ee&x-time=1779156060"
+                }
+            ]
+        },
+        {
+            "Category": "Badminton",
+            "League": "PERODUA Malaysia Masters",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 4 | PERODUA Malaysia Masters",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0APERODUA%20Malaysia%20Masters&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779242523-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-84e1e4ce00940f4ba2e4cfea09dc65f7"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=7796333f0f42e282ec01cd7fffa3fcd3&x-time=1779156120"
                 }
             ]
         },
@@ -144,11 +240,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1050.png",
             "Match Title": "Real Espana VS CD Marathon | Liga Nacional",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Real%20Espana%0AVS%0ACD%20Marathon%0ALiga%20Nacional&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "8:15 AM 19-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/chunks.m3u8?is_vip=false&token=1779242530-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-a28720a3210cd7e9cf4daf61856a0f5e"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/chunks.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=e7d5fa5b1c213d2691730539e3202307&x-time=1779156120"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -168,12 +273,12 @@
         {
             "Category": "Football",
             "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Fluminense",
-            "Team 2 Name": "Bolívar",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/124.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3702.png",
-            "Match Title": "Fluminense VS Bolívar | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fluminense%0AVS%0ABol%C3%ADvar%0ACONMEBOL%20Libertadores&font=Oswald",
+            "Team 1 Name": "Coquimbo Unido",
+            "Team 2 Name": "Deportes Tolima",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2330.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1142.png",
+            "Match Title": "Coquimbo Unido VS Deportes Tolima | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Coquimbo%20Unido%0AVS%0ADeportes%20Tolima%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 20-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -183,12 +288,27 @@
         {
             "Category": "Football",
             "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Coquimbo Unido",
-            "Team 2 Name": "Deportes Tolima",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2330.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1142.png",
-            "Match Title": "Coquimbo Unido VS Deportes Tolima | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Coquimbo%20Unido%0AVS%0ADeportes%20Tolima%0ACONMEBOL%20Libertadores&font=Oswald",
+            "Team 1 Name": "Rosario Central",
+            "Team 2 Name": "UCV",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/437.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2840.png",
+            "Match Title": "Rosario Central VS UCV | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Rosario%20Central%0AVS%0AUCV%0ACONMEBOL%20Libertadores&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "4:00 AM 20-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "CONMEBOL Libertadores",
+            "Team 1 Name": "Fluminense",
+            "Team 2 Name": "Bolívar",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/124.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3702.png",
+            "Match Title": "Fluminense VS Bolívar | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fluminense%0AVS%0ABol%C3%ADvar%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 20-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -228,21 +348,6 @@
         {
             "Category": "Football",
             "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Rosario Central",
-            "Team 2 Name": "UCV",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/437.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2840.png",
-            "Match Title": "Rosario Central VS UCV | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Rosario%20Central%0AVS%0AUCV%0ACONMEBOL%20Libertadores&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "4:00 AM 20-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "CONMEBOL Libertadores",
             "Team 1 Name": "Santa Fe",
             "Team 2 Name": "Platense",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1139.png",
@@ -272,21 +377,6 @@
         },
         {
             "Category": "Football",
-            "League": "CONMEBOL Sudamericana",
-            "Team 1 Name": "Sao Paulo",
-            "Team 2 Name": "Millonarios",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/126.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1125.png",
-            "Match Title": "Sao Paulo VS Millonarios | CONMEBOL Sudamericana",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Sao%20Paulo%0AVS%0AMillonarios%0ACONMEBOL%20Sudamericana&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "6:30 AM 20-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
             "League": "CONMEBOL Libertadores",
             "Team 1 Name": "Boca Juniors",
             "Team 2 Name": "Cruzeiro",
@@ -303,12 +393,27 @@
         {
             "Category": "Football",
             "League": "CONMEBOL Sudamericana",
-            "Team 1 Name": "America de Cali",
-            "Team 2 Name": "Tigre",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1138.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/452.png",
-            "Match Title": "America de Cali VS Tigre | CONMEBOL Sudamericana",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=America%20de%20Cali%0AVS%0ATigre%0ACONMEBOL%20Sudamericana&font=Oswald",
+            "Team 1 Name": "Sao Paulo",
+            "Team 2 Name": "Millonarios",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/126.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1125.png",
+            "Match Title": "Sao Paulo VS Millonarios | CONMEBOL Sudamericana",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Sao%20Paulo%0AVS%0AMillonarios%0ACONMEBOL%20Sudamericana&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "6:30 AM 20-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "CONMEBOL Libertadores",
+            "Team 1 Name": "Independiente del Valle",
+            "Team 2 Name": "Libertad Asuncion",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1153.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1179.png",
+            "Match Title": "Independiente del Valle VS Libertad Asuncion | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20del%20Valle%0AVS%0ALibertad%20Asuncion%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "8:00 AM 20-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -332,13 +437,13 @@
         },
         {
             "Category": "Football",
-            "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Independiente del Valle",
-            "Team 2 Name": "Libertad Asuncion",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1153.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1179.png",
-            "Match Title": "Independiente del Valle VS Libertad Asuncion | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20del%20Valle%0AVS%0ALibertad%20Asuncion%0ACONMEBOL%20Libertadores&font=Oswald",
+            "League": "CONMEBOL Sudamericana",
+            "Team 1 Name": "America de Cali",
+            "Team 2 Name": "Tigre",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1138.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/452.png",
+            "Match Title": "America de Cali VS Tigre | CONMEBOL Sudamericana",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=America%20de%20Cali%0AVS%0ATigre%0ACONMEBOL%20Sudamericana&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "8:00 AM 20-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -356,6 +461,21 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Melbourne%20City%20W%0AVS%0ATokyo%20Verdy%20Beleza%20W%0AAFC%20Women's%20Champions%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 20-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "AFC Women's Champions League",
+            "Team 1 Name": "Naegohyang W",
+            "Team 2 Name": "Suwon FMC",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/26464.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/14379.png",
+            "Match Title": "Naegohyang W VS Suwon FMC | AFC Women's Champions League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Naegohyang%20W%0AVS%0ASuwon%20FMC%0AAFC%20Women's%20Champions%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "4:00 PM 20-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -472,46 +592,13 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 2 | PERODUA Malaysia Masters",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "8:00 AM 19-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779241599-Kv4cPTAAP5YTi-b0f5537061726ec4bf3d2221453be25bc5765e31-b87636dc14e241891d9fcd75062293a1"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=b0f5537061726ec4bf3d2221453be25bc5765e31&x-sign=5c3cd4e552ceca87b0e25efcf406dad4&x-time=1779155160"
-                }
-            ]
-        },
-        {
-            "Category": "Badminton",
-            "League": "PERODUA Malaysia Masters",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
             "Match Title": "Court 4 | PERODUA Malaysia Masters",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0APERODUA%20Malaysia%20Masters&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "8:00 AM 19-05-2026",
+            "Match Status": "Upcoming",
+            "Start Time": "8:00 AM 20-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779241606-Kv4cPTAAP5YTi-b0f5537061726ec4bf3d2221453be25bc5765e31-29b2520585133d5969f7c47981ffedfb"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=b0f5537061726ec4bf3d2221453be25bc5765e31&x-sign=a0b71d9cccbb75c78f8aa21b507be2e8&x-time=1779155160"
-                }
-            ]
+            "Stream URL": []
         },
         {
             "Category": "Badminton",
@@ -522,20 +609,26 @@
             "Team 2 Logo": "",
             "Match Title": "Court 3 | PERODUA Malaysia Masters",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "8:00 AM 19-05-2026",
+            "Match Status": "Upcoming",
+            "Start Time": "8:00 AM 20-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779241613-Kv4cPTAAP5YTi-b0f5537061726ec4bf3d2221453be25bc5765e31-0384f5511d55ca64df6724fdb7f9dc51"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=b0f5537061726ec4bf3d2221453be25bc5765e31&x-sign=e2626154bf79431a0c6251eed0c37393&x-time=1779155160"
-                }
-            ]
+            "Stream URL": []
+        },
+        {
+            "Category": "Badminton",
+            "League": "PERODUA Malaysia Masters",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 1 | PERODUA Malaysia Masters",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "8:00 AM 20-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
         }
     ]
 }
