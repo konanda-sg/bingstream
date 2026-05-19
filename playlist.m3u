@@ -3,65 +3,65 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:01:27 AM 19-05-2026
+#last update time: 10:16:30 AM 19-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ORIX%20Buffaloes%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", ORIX Buffaloes VS Hiroshima Toyo Carp | NPB Farm Leagues [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779249691-Kv4cPTAAP5YTi-b33137c89ce58c43a28f2f58dbd667faa69d5e11-4938b3a7ad5eb37aa7a784c99903c781
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779250594-Kv4cPTAAP5YTi-1fee778520dbb29ad4112be9db165389cff9faa6-4ba6dd655076caeb1ff25deca1061267
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ORIX%20Buffaloes%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", ORIX Buffaloes VS Hiroshima Toyo Carp | NPB Farm Leagues [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=b33137c89ce58c43a28f2f58dbd667faa69d5e11&x-sign=7ea8f711fed701cfb5edd481ec2fda90&x-time=1779163260
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=1fee778520dbb29ad4112be9db165389cff9faa6&x-sign=71501e12f82d2974cf0d67da553c40a1&x-time=1779164160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779249697-Kv4cPTAAP5YTi-b33137c89ce58c43a28f2f58dbd667faa69d5e11-8cef439598b69c9ddcbafdecac6a1637
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779250601-Kv4cPTAAP5YTi-1fee778520dbb29ad4112be9db165389cff9faa6-5d98615a6b8c8d2e8efda6a2e2c08def
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=b33137c89ce58c43a28f2f58dbd667faa69d5e11&x-sign=a6bee8a0e5b2c5b4d379914b482ee464&x-time=1779163260
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=1fee778520dbb29ad4112be9db165389cff9faa6&x-sign=d1861de0785686a1ccc1d6b7c2c925c2&x-time=1779164160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779249705-Kv4cPTAAP5YTi-b33137c89ce58c43a28f2f58dbd667faa69d5e11-ae8ecd96c91b6d52e596c1c1dc86795b
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779250609-Kv4cPTAAP5YTi-1fee778520dbb29ad4112be9db165389cff9faa6-dd1c2410f4df9fff8d304b3ae593f107
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=b33137c89ce58c43a28f2f58dbd667faa69d5e11&x-sign=ae7511f194d737879ff27a3424c7c07c&x-time=1779163260
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=1fee778520dbb29ad4112be9db165389cff9faa6&x-sign=495b26a1268c21715155c659797ea4c8&x-time=1779164160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 3 | PERODUA Malaysia Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779249712-Kv4cPTAAP5YTi-b33137c89ce58c43a28f2f58dbd667faa69d5e11-2b07a9fd2efaf8bac876c2db8b9d54a4
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779250617-Kv4cPTAAP5YTi-1fee778520dbb29ad4112be9db165389cff9faa6-d8f0c5391175deb332d02b78ea7c7d2c
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 3 | PERODUA Malaysia Masters [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=b33137c89ce58c43a28f2f58dbd667faa69d5e11&x-sign=6418a264ed39334fe04fdd9261aa985d&x-time=1779163260
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=1fee778520dbb29ad4112be9db165389cff9faa6&x-sign=d9df993ff7a5bf3fde64890120b5acfc&x-time=1779164160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 4 | PERODUA Malaysia Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779249718-Kv4cPTAAP5YTi-b33137c89ce58c43a28f2f58dbd667faa69d5e11-12420d97bedbb7f2385d11edd25a4fbd
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779250624-Kv4cPTAAP5YTi-1fee778520dbb29ad4112be9db165389cff9faa6-db39775ffdd53463ae61caa622dcde6b
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 4 | PERODUA Malaysia Masters [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=b33137c89ce58c43a28f2f58dbd667faa69d5e11&x-sign=2b8ac861db33f0074e117fadf8fb0063&x-time=1779163260
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=1fee778520dbb29ad4112be9db165389cff9faa6&x-sign=4ff8270b1e842d2c6eeb8dccd398141b&x-time=1779164220
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Real%20Espana%0AVS%0ACD%20Marathon%0ALiga%20Nacional&font=Oswald" group-title="Football", Real Espana VS CD Marathon | Liga Nacional [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/chunks.m3u8?is_vip=false&token=1779249726-Kv4cPTAAP5YTi-b33137c89ce58c43a28f2f58dbd667faa69d5e11-1b12b417be9fa433cf51430dd269a570
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/chunks.m3u8?is_vip=false&token=1779250631-Kv4cPTAAP5YTi-1fee778520dbb29ad4112be9db165389cff9faa6-4d8f5bb0d0ddb91c47455772da5b237b
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Real%20Espana%0AVS%0ACD%20Marathon%0ALiga%20Nacional&font=Oswald" group-title="Football", Real Espana VS CD Marathon | Liga Nacional [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/chunks.m3u8?is_vip=false&token=b33137c89ce58c43a28f2f58dbd667faa69d5e11&x-sign=0fb4bd8ec07e28ac55b3329496562858&x-time=1779163320
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/chunks.m3u8?is_vip=false&token=1fee778520dbb29ad4112be9db165389cff9faa6&x-sign=d36be19e92666f486326d16ef35634b0&x-time=1779164220
 
