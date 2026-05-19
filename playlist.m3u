@@ -3,55 +3,55 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 3:01:29 AM 20-05-2026
+#last update time: 3:16:31 AM 20-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bournemouth%0AVS%0AManchester%20City%0APremier%20League&font=Oswald" group-title="Premier League", Bournemouth VS Manchester City | Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779310893-Kv4cPTAAP5YTi-c85189bf159415d41641e48563f96571837327dd-68be83cb8f0f463cc3c29a4b7050f658
+https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779311795-Kv4cPTAAP5YTi-192828981f08176066ce64891ec831c2ad9c417e-c095e8314101efcf7b9749051c60d343
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bournemouth%0AVS%0AManchester%20City%0APremier%20League&font=Oswald" group-title="Premier League", Bournemouth VS Manchester City | Premier League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=c85189bf159415d41641e48563f96571837327dd&x-sign=513453844f58835a0f0b40e366a466d3&x-time=1779224460
+https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=192828981f08176066ce64891ec831c2ad9c417e&x-sign=4450494e8771db70f1bb1be969306d7e&x-time=1779225360
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bournemouth%0AVS%0AManchester%20City%0APremier%20League&font=Oswald" group-title="Premier League", Bournemouth VS Manchester City | Premier League [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/144254/chunks.m3u8?is_vip=false&token=c85189bf159415d41641e48563f96571837327dd&x-sign=e9e8b79446438f6a417b29c1acf1c7ac&x-time=1779224460
+https://livecdn-bp-iptv.rumsport7.live/live_abr/144254/chunks.m3u8?is_vip=false&token=192828981f08176066ce64891ec831c2ad9c417e&x-sign=20581dd9dafb29809746f56df905c893&x-time=1779225360
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bournemouth%0AVS%0AManchester%20City%0APremier%20League&font=Oswald" group-title="Premier League", Bournemouth VS Manchester City | Premier League [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/144254/chunks.m3u8?is_vip=false&token=1779310895-Kv4cPTAAP5YTi-c85189bf159415d41641e48563f96571837327dd-2085e7a2b6e0b478a3e00e4b69eba4ca
+https://livecdn-tc-iptv.rumsport10.live/live_abr/144254/chunks.m3u8?is_vip=false&token=1779311798-Kv4cPTAAP5YTi-192828981f08176066ce64891ec831c2ad9c417e-eec7e371fcf887583092c29a89aca03d
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Chelsea%0AVS%0ATottenham%0APremier%20League&font=Oswald" group-title="Premier League", Chelsea VS Tottenham | Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779310901-Kv4cPTAAP5YTi-c85189bf159415d41641e48563f96571837327dd-0a9560f8f1aa8d5163e86ea9badf0570
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779311804-Kv4cPTAAP5YTi-192828981f08176066ce64891ec831c2ad9c417e-67ade3ac5d3c6083844d417e5529b1d7
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Chelsea%0AVS%0ATottenham%0APremier%20League&font=Oswald" group-title="Premier League", Chelsea VS Tottenham | Premier League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=c85189bf159415d41641e48563f96571837327dd&x-sign=4e2e1b1a8898c4ba38131313052ea0df&x-time=1779224460
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=192828981f08176066ce64891ec831c2ad9c417e&x-sign=42c15f1918910a4e9bcfc575094cbcb8&x-time=1779225360
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Chelsea%0AVS%0ATottenham%0APremier%20League&font=Oswald" group-title="Premier League", Chelsea VS Tottenham | Premier League [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/144256/chunks.m3u8?is_vip=false&token=c85189bf159415d41641e48563f96571837327dd&x-sign=85e5d986df18e84677b6587850e85f99&x-time=1779224460
+https://livecdn-bp-iptv.rumsport7.live/live_abr/144256/chunks.m3u8?is_vip=false&token=192828981f08176066ce64891ec831c2ad9c417e&x-sign=944f14264bcf96fd05782a215ff705af&x-time=1779225360
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Chelsea%0AVS%0ATottenham%0APremier%20League&font=Oswald" group-title="Premier League", Chelsea VS Tottenham | Premier League [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/144261/chunks.m3u8?is_vip=false&token=1779310904-Kv4cPTAAP5YTi-c85189bf159415d41641e48563f96571837327dd-4c9843591d072d67775e50b30452f3a0
+https://livecdn-tc-iptv.rumsport10.live/live_abr/144261/chunks.m3u8?is_vip=false&token=1779311807-Kv4cPTAAP5YTi-192828981f08176066ce64891ec831c2ad9c417e-1e84fee426165d2ef98cec3d18776633
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Genk%0AVS%0AAntwerp%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Genk VS Antwerp | Jupiler Pro League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779310910-Kv4cPTAAP5YTi-c85189bf159415d41641e48563f96571837327dd-3ebd367aa291064d5ab4319ea525940b
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779311813-Kv4cPTAAP5YTi-192828981f08176066ce64891ec831c2ad9c417e-22fefd232e96ba011f7a8e3116a1e57e
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Genk%0AVS%0AAntwerp%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Genk VS Antwerp | Jupiler Pro League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=c85189bf159415d41641e48563f96571837327dd&x-sign=733b23761b35c21f802d24a322177305&x-time=1779224460
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=192828981f08176066ce64891ec831c2ad9c417e&x-sign=f8228edb1fb99cd96b7491d9e320a66a&x-time=1779225360
 
