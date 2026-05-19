@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:16:30 AM 19-05-2026"
+        "last_update_time": "10:31:33 AM 19-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779250594-Kv4cPTAAP5YTi-1fee778520dbb29ad4112be9db165389cff9faa6-4ba6dd655076caeb1ff25deca1061267"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779251496-Kv4cPTAAP5YTi-0d2ffe61bc7acc3dbd9e6703b41ce63908f89b9f-7f0d2c9a16dec58eddf247a4fbdf7ced"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=1fee778520dbb29ad4112be9db165389cff9faa6&x-sign=71501e12f82d2974cf0d67da553c40a1&x-time=1779164160"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=0d2ffe61bc7acc3dbd9e6703b41ce63908f89b9f&x-sign=f6d2863505821e3dfc107768a506c751&x-time=1779165060"
                 }
             ]
         },
@@ -46,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779250601-Kv4cPTAAP5YTi-1fee778520dbb29ad4112be9db165389cff9faa6-5d98615a6b8c8d2e8efda6a2e2c08def"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779251502-Kv4cPTAAP5YTi-0d2ffe61bc7acc3dbd9e6703b41ce63908f89b9f-f8b8414b45674ac6789d34a87d6a68d7"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=1fee778520dbb29ad4112be9db165389cff9faa6&x-sign=d1861de0785686a1ccc1d6b7c2c925c2&x-time=1779164160"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=0d2ffe61bc7acc3dbd9e6703b41ce63908f89b9f&x-sign=bc1f5f7faad9bcc5924184dc05504758&x-time=1779165060"
                 }
             ]
         },
@@ -70,11 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779250609-Kv4cPTAAP5YTi-1fee778520dbb29ad4112be9db165389cff9faa6-dd1c2410f4df9fff8d304b3ae593f107"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779251509-Kv4cPTAAP5YTi-0d2ffe61bc7acc3dbd9e6703b41ce63908f89b9f-56874519639d930ca75aea6a9d72043f"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=1fee778520dbb29ad4112be9db165389cff9faa6&x-sign=495b26a1268c21715155c659797ea4c8&x-time=1779164160"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=0d2ffe61bc7acc3dbd9e6703b41ce63908f89b9f&x-sign=221aea6a8c172acd0ac950f41602d4c0&x-time=1779165060"
                 }
             ]
         },
@@ -94,11 +94,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779250617-Kv4cPTAAP5YTi-1fee778520dbb29ad4112be9db165389cff9faa6-d8f0c5391175deb332d02b78ea7c7d2c"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779251520-Kv4cPTAAP5YTi-0d2ffe61bc7acc3dbd9e6703b41ce63908f89b9f-6935f9816f04141de2c5bbef5c50c120"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=1fee778520dbb29ad4112be9db165389cff9faa6&x-sign=d9df993ff7a5bf3fde64890120b5acfc&x-time=1779164160"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=0d2ffe61bc7acc3dbd9e6703b41ce63908f89b9f&x-sign=0c0c2cd5bd4d6d58a60e760b016bb389&x-time=1779165120"
                 }
             ]
         },
@@ -118,35 +118,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779250624-Kv4cPTAAP5YTi-1fee778520dbb29ad4112be9db165389cff9faa6-db39775ffdd53463ae61caa622dcde6b"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779251526-Kv4cPTAAP5YTi-0d2ffe61bc7acc3dbd9e6703b41ce63908f89b9f-5b82bbc69541daa60d4b74804c9e9430"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=1fee778520dbb29ad4112be9db165389cff9faa6&x-sign=4ff8270b1e842d2c6eeb8dccd398141b&x-time=1779164220"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Liga Nacional",
-            "Team 1 Name": "Real Espana",
-            "Team 2 Name": "CD Marathon",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1058.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1050.png",
-            "Match Title": "Real Espana VS CD Marathon | Liga Nacional",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Real%20Espana%0AVS%0ACD%20Marathon%0ALiga%20Nacional&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/chunks.m3u8?is_vip=false&token=1779250631-Kv4cPTAAP5YTi-1fee778520dbb29ad4112be9db165389cff9faa6-4d8f5bb0d0ddb91c47455772da5b237b"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/chunks.m3u8?is_vip=false&token=1fee778520dbb29ad4112be9db165389cff9faa6&x-sign=d36be19e92666f486326d16ef35634b0&x-time=1779164220"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=0d2ffe61bc7acc3dbd9e6703b41ce63908f89b9f&x-sign=e6a014775f060cdc39b5115e14f6f0b2&x-time=1779165120"
                 }
             ]
         },
