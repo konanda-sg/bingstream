@@ -3,30 +3,30 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:16:33 PM 19-05-2026
+#last update time: 10:31:28 PM 19-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%203%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 3 | Strasbourg Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1779293800-Kv4cPTAAP5YTi-a5add55fc4c4282df5a65228e5b16d9516b3fb18-6501ee167e0d186adaebeb83b5a4a29f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1779294692-Kv4cPTAAP5YTi-098140fbec9c46d51014b64500779cab615ff39f-eeb3ee06852c34a4931235e5641621e5
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%203%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 3 | Strasbourg Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/chunks.m3u8?is_vip=false&token=a5add55fc4c4282df5a65228e5b16d9516b3fb18&x-sign=728df2ba95fded2c2954066655ff4d66&x-time=1779207360
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/chunks.m3u8?is_vip=false&token=098140fbec9c46d51014b64500779cab615ff39f&x-sign=8c53639b219d4959699c64ae4bb908cf&x-time=1779208260
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Players%20Championship%2018%0APlayers%20Championship&font=Oswald" group-title="Darts", Players Championship 18 | Players Championship [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779293807-Kv4cPTAAP5YTi-a5add55fc4c4282df5a65228e5b16d9516b3fb18-d2dc7809e1676e223777e522c6adf784
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779294698-Kv4cPTAAP5YTi-098140fbec9c46d51014b64500779cab615ff39f-d2c93bd98bc564cc3a6e36e52f3b0b85
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Players%20Championship%2018%0APlayers%20Championship&font=Oswald" group-title="Darts", Players Championship 18 | Players Championship [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=a5add55fc4c4282df5a65228e5b16d9516b3fb18&x-sign=9211a3285ae5ea5afc2e201413a232f2&x-time=1779207360
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=098140fbec9c46d51014b64500779cab615ff39f&x-sign=2a5dc05c376f67b29d081cf9fe7a4c5f&x-time=1779208260
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Japan%20U17%20W%0AVS%0AUzbekistan%20U17%0AAFC%20U17%20Asian%20Cup&font=Oswald" group-title="AFC U17 Asian Cup", Japan U17 W VS Uzbekistan U17 | AFC U17 Asian Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779293814-Kv4cPTAAP5YTi-a5add55fc4c4282df5a65228e5b16d9516b3fb18-7d2817ca8dc0ff8c6ef8a49b2e55625c
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779294706-Kv4cPTAAP5YTi-098140fbec9c46d51014b64500779cab615ff39f-016721c4beef94d27dd43d2ef2b899fd
 
