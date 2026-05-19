@@ -3,40 +3,40 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 5:01:26 AM 20-05-2026
+#last update time: 5:16:32 AM 20-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=A.%20Italiano%0AVS%0ABarracas%20Central%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", A. Italiano VS Barracas Central | CONMEBOL Sudamericana [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779318090-Kv4cPTAAP5YTi-285d70372f189d0e2a3f9cb42789bfb7e6509ffc-4d489f2837d191984582f12280029bc3
+https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779318996-Kv4cPTAAP5YTi-41c958789629ac2b1bbfd910ed97cbdb49c6497b-ec109be31613b23f1befec58242c11bd
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atletico%20Torque%0AVS%0ADeportivo%20Riestra%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Atletico Torque VS Deportivo Riestra | CONMEBOL Sudamericana [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779318097-Kv4cPTAAP5YTi-285d70372f189d0e2a3f9cb42789bfb7e6509ffc-bb4c6e93b122c81f954a149eec097048
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779319002-Kv4cPTAAP5YTi-41c958789629ac2b1bbfd910ed97cbdb49c6497b-79365d3b7467e48ae2521163096f08f4
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Coquimbo%20Unido%0AVS%0ADeportes%20Tolima%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Coquimbo Unido VS Deportes Tolima | CONMEBOL Libertadores [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779318102-Kv4cPTAAP5YTi-285d70372f189d0e2a3f9cb42789bfb7e6509ffc-be84a7383c0db503d6b72b50956b2e73
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779319008-Kv4cPTAAP5YTi-41c958789629ac2b1bbfd910ed97cbdb49c6497b-cc42315a19c11c7ba18b5e4c5776c98f
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fluminense%0AVS%0ABol%C3%ADvar%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Fluminense VS Bolívar | CONMEBOL Libertadores [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779318109-Kv4cPTAAP5YTi-285d70372f189d0e2a3f9cb42789bfb7e6509ffc-c8013ca5b658f45a2e2e46e441375624
+https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779319014-Kv4cPTAAP5YTi-41c958789629ac2b1bbfd910ed97cbdb49c6497b-6cd9145add6da25451ffacdb51a18936
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fluminense%0AVS%0ABol%C3%ADvar%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Fluminense VS Bolívar | CONMEBOL Libertadores [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=285d70372f189d0e2a3f9cb42789bfb7e6509ffc&x-sign=7b40ea092ed1ee4c4853c1e72ae08856&x-time=1779231660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=41c958789629ac2b1bbfd910ed97cbdb49c6497b&x-sign=77ae0d0743a5ce09831681443f2d8560&x-time=1779232560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rosario%20Central%0AVS%0AUCV%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Rosario Central VS UCV | CONMEBOL Libertadores [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161357/chunks.m3u8?is_vip=false&token=1779318115-Kv4cPTAAP5YTi-285d70372f189d0e2a3f9cb42789bfb7e6509ffc-d0f6e0fe4a07dbfbbaf0418709638eba
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161357/chunks.m3u8?is_vip=false&token=1779319022-Kv4cPTAAP5YTi-41c958789629ac2b1bbfd910ed97cbdb49c6497b-e0325f1e4abfcb66213753872fab7043
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rosario%20Central%0AVS%0AUCV%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Rosario Central VS UCV | CONMEBOL Libertadores [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/chunks.m3u8?is_vip=false&token=285d70372f189d0e2a3f9cb42789bfb7e6509ffc&x-sign=69716029f070deda01166202341df88f&x-time=1779231660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/chunks.m3u8?is_vip=false&token=41c958789629ac2b1bbfd910ed97cbdb49c6497b&x-sign=f838e267a3afd86c001081c71e0abfd8&x-time=1779232620
 
