@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "7:31:28 AM 19-05-2026"
+        "last_update_time": "7:46:27 AM 19-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779240693-Kv4cPTAAP5YTi-3d26a682d613787816f3aa1caa5d77541cf3fb4a-1d42a4953e1ec5e9579fc3ff4617b098"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779241591-Kv4cPTAAP5YTi-b0f5537061726ec4bf3d2221453be25bc5765e31-11d7b04190e03143d412fc515034a422"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=3d26a682d613787816f3aa1caa5d77541cf3fb4a&x-sign=f9fea6e46d6f4f2a6a7ddfa552551c9e&x-time=1779154260"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=b0f5537061726ec4bf3d2221453be25bc5765e31&x-sign=51d944dc5493f56b5d81d20e36f67b03&x-time=1779155160"
                 }
             ]
         },
@@ -474,11 +474,20 @@
             "Team 2 Logo": "",
             "Match Title": "Court 2 | PERODUA Malaysia Masters",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "8:00 AM 19-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779241599-Kv4cPTAAP5YTi-b0f5537061726ec4bf3d2221453be25bc5765e31-b87636dc14e241891d9fcd75062293a1"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=b0f5537061726ec4bf3d2221453be25bc5765e31&x-sign=5c3cd4e552ceca87b0e25efcf406dad4&x-time=1779155160"
+                }
+            ]
         },
         {
             "Category": "Badminton",
@@ -489,11 +498,20 @@
             "Team 2 Logo": "",
             "Match Title": "Court 4 | PERODUA Malaysia Masters",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0APERODUA%20Malaysia%20Masters&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "8:00 AM 19-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779241606-Kv4cPTAAP5YTi-b0f5537061726ec4bf3d2221453be25bc5765e31-29b2520585133d5969f7c47981ffedfb"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=b0f5537061726ec4bf3d2221453be25bc5765e31&x-sign=a0b71d9cccbb75c78f8aa21b507be2e8&x-time=1779155160"
+                }
+            ]
         },
         {
             "Category": "Badminton",
@@ -504,11 +522,20 @@
             "Team 2 Logo": "",
             "Match Title": "Court 3 | PERODUA Malaysia Masters",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "8:00 AM 19-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779241613-Kv4cPTAAP5YTi-b0f5537061726ec4bf3d2221453be25bc5765e31-0384f5511d55ca64df6724fdb7f9dc51"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=b0f5537061726ec4bf3d2221453be25bc5765e31&x-sign=e2626154bf79431a0c6251eed0c37393&x-time=1779155160"
+                }
+            ]
         }
     ]
 }
