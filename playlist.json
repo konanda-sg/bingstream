@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "5:01:30 AM 21-05-2026"
+        "last_update_time": "5:16:30 AM 21-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779404494-Kv4cPTAAP5YTi-fb16359e8a785f354e06f88ff77e82125541c0ea-0b7557f5a70af9f0dbd3e1655a7a3e62"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779405394-Kv4cPTAAP5YTi-e927dc6c89238837efe338c08741c33623845629-f030b7e45da5d66511330dfb642aef09"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=fb16359e8a785f354e06f88ff77e82125541c0ea&x-sign=169cd53f51c0c0fab0fa2f4b0c9cd9b8&x-time=1779318060"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=e927dc6c89238837efe338c08741c33623845629&x-sign=444fc903dfffac97ecfa6831572466ae&x-time=1779318960"
                 }
             ]
         },
@@ -46,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1779404502-Kv4cPTAAP5YTi-fb16359e8a785f354e06f88ff77e82125541c0ea-88473851a9891ae113e2dc56c0688187"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1779405402-Kv4cPTAAP5YTi-e927dc6c89238837efe338c08741c33623845629-b3c1120c2632cb7fcf755c36de1227b1"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=fb16359e8a785f354e06f88ff77e82125541c0ea&x-sign=9e9867e98c91c01cfcdd93dd469707e8&x-time=1779318060"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=e927dc6c89238837efe338c08741c33623845629&x-sign=22ffb2d4947f3c4fa142620c1efac034&x-time=1779318960"
                 }
             ]
         },
@@ -70,11 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1779404510-Kv4cPTAAP5YTi-fb16359e8a785f354e06f88ff77e82125541c0ea-87aa3bdb992ce0a8970ed86408df2fbf"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1779405410-Kv4cPTAAP5YTi-e927dc6c89238837efe338c08741c33623845629-08c2fe1e8484e19299cbc72d6ac31863"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=fb16359e8a785f354e06f88ff77e82125541c0ea&x-sign=42d5813952d946addb33e036e7095378&x-time=1779318060"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=e927dc6c89238837efe338c08741c33623845629&x-sign=a3db14839a24bd147517322635129c22&x-time=1779318960"
                 }
             ]
         },
@@ -192,11 +192,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3003.png",
             "Match Title": "América W VS NJ/NY Gotham FC W | CONCACAF W Champions Cup",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Am%C3%A9rica%20W%0AVS%0ANJ%2FNY%20Gotham%20FC%20W%0ACONCACAF%20W%20Champions%20Cup&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "5:30 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779405416-Kv4cPTAAP5YTi-e927dc6c89238837efe338c08741c33623845629-bd0e4ea2aca60f3c20a8094996f68866"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=e927dc6c89238837efe338c08741c33623845629&x-sign=ac7ed6b7053b5929d6e3cb5dfb40fc6d&x-time=1779318960"
+                }
+            ]
         },
         {
             "Category": "Football",
