@@ -3,33 +3,9 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:31:47 PM 20-05-2026"
+        "last_update_time": "11:46:32 PM 20-05-2026"
     },
     "channels": [
-        {
-            "Category": "Auto Racing",
-            "League": "Auto Racing",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Auto racing | Auto Racing",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Auto%20racing%0AAuto%20Racing&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abrhd.m3u8?is_vip=false&token=1779384712-Kv4cPTAAP5YTi-6aefa94a3a137d6ef96c54e4c05d69102139c098-211a7dde429e0ce3d21cfc576ec28786"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=6aefa94a3a137d6ef96c54e4c05d69102139c098&x-sign=997bf3a3b824072f143d50ca88151c6e&x-time=1779298260"
-                }
-            ]
-        },
         {
             "Category": "Tennis",
             "League": "Strasbourg Open",
@@ -46,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779384717-Kv4cPTAAP5YTi-6aefa94a3a137d6ef96c54e4c05d69102139c098-093e531c72641f5dc330a6f0c7392dfd"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779385595-Kv4cPTAAP5YTi-93336ea1b84b629bba2dc0de254d1c65e3e52404-072b868004473edb8d171050afcf9e55"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=6aefa94a3a137d6ef96c54e4c05d69102139c098&x-sign=265a6ec05af7975788ea7659d5fad8b3&x-time=1779298260"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=93336ea1b84b629bba2dc0de254d1c65e3e52404&x-sign=1b91cb587d61d2707731b38b5d798ab9&x-time=1779299160"
                 }
             ]
         },
@@ -70,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1779384726-Kv4cPTAAP5YTi-6aefa94a3a137d6ef96c54e4c05d69102139c098-140614b04f8b389658265e15a7e132ab"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1779385602-Kv4cPTAAP5YTi-93336ea1b84b629bba2dc0de254d1c65e3e52404-c8a07f6a9fd14e4bf4b714f0229deec2"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=6aefa94a3a137d6ef96c54e4c05d69102139c098&x-sign=bb3361cc834dd43cc80e65563002e61b&x-time=1779298320"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=93336ea1b84b629bba2dc0de254d1c65e3e52404&x-sign=4ac5affd1ec3a141318d3accc3143578&x-time=1779299160"
                 }
             ]
         },
@@ -192,11 +168,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2929.png",
             "Match Title": "Al Khaleej Saihat VS Al-Ahli Jeddah | Pro League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Al%20Khaleej%20Saihat%0AVS%0AAl-Ahli%20Jeddah%0APro%20League&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "12:00 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779385608-Kv4cPTAAP5YTi-93336ea1b84b629bba2dc0de254d1c65e3e52404-678138da2ab662cad4dbd17c4945ca61"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=93336ea1b84b629bba2dc0de254d1c65e3e52404&x-sign=fb46988b0b8befef9b446f259504f74f&x-time=1779299160"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -207,11 +192,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1687.png",
             "Match Title": "Palermo VS Catanzaro | Serie B",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Palermo%0AVS%0ACatanzaro%0ASerie%20B&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "12:00 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1779385614-Kv4cPTAAP5YTi-93336ea1b84b629bba2dc0de254d1c65e3e52404-a629d4d755a7d11e21e3ede8e206c585"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=93336ea1b84b629bba2dc0de254d1c65e3e52404&x-sign=3a7b7f01e55beeff7f179f66fc185d43&x-time=1779299160"
+                }
+            ]
         },
         {
             "Category": "Football",
