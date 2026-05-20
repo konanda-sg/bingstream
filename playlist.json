@@ -3,29 +3,9 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "8:31:37 AM 20-05-2026"
+        "last_update_time": "8:46:28 AM 20-05-2026"
     },
     "channels": [
-        {
-            "Category": "Football",
-            "League": "CONMEBOL Sudamericana",
-            "Team 1 Name": "Sao Paulo",
-            "Team 2 Name": "Millonarios",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/126.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1125.png",
-            "Match Title": "Sao Paulo VS Millonarios | CONMEBOL Sudamericana",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Sao%20Paulo%0AVS%0AMillonarios%0ACONMEBOL%20Sudamericana&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=48184b14c617d5583c0add5f4ab32c0d95e42756&x-sign=88b48f4ac11b948f4b3e5269a3ea29ca&x-time=1779244260"
-                }
-            ]
-        },
         {
             "Category": "Football",
             "League": "CONMEBOL Libertadores",
@@ -42,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357/chunks.m3u8?is_vip=false&token=1779330706-Kv4cPTAAP5YTi-48184b14c617d5583c0add5f4ab32c0d95e42756-fe90795d3698081da0a19abe488beba2"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357/chunks.m3u8?is_vip=false&token=1779331592-Kv4cPTAAP5YTi-b0de0607deffcf6f3aec8847aa6920bb0ce1efaa-703b56def7b4445aff7337f4aaf9ce30"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/chunks.m3u8?is_vip=false&token=48184b14c617d5583c0add5f4ab32c0d95e42756&x-sign=04e908ea7eeccfda95ae358a7ad50db8&x-time=1779244260"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/chunks.m3u8?is_vip=false&token=b0de0607deffcf6f3aec8847aa6920bb0ce1efaa&x-sign=70902a1bb5aff429729c647b26e06a3c&x-time=1779245160"
                 }
             ]
         },
@@ -66,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779330715-Kv4cPTAAP5YTi-48184b14c617d5583c0add5f4ab32c0d95e42756-f49c0c9f0d8b6a369a1db5e011efe0f2"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779331599-Kv4cPTAAP5YTi-b0de0607deffcf6f3aec8847aa6920bb0ce1efaa-0f00ea2f186847503b796e0cf58b5677"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=48184b14c617d5583c0add5f4ab32c0d95e42756&x-sign=f5060716080001868f9a777f8b37344f&x-time=1779244260"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=b0de0607deffcf6f3aec8847aa6920bb0ce1efaa&x-sign=4712d9c0424bee39ae2d1e0c68fb1391&x-time=1779245160"
                 }
             ]
         },
@@ -90,11 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779330722-Kv4cPTAAP5YTi-48184b14c617d5583c0add5f4ab32c0d95e42756-a7614fe0b582e92937c72e8ac39a4cf7"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779331605-Kv4cPTAAP5YTi-b0de0607deffcf6f3aec8847aa6920bb0ce1efaa-b760923607994ccd76e19ac4a65e213e"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=48184b14c617d5583c0add5f4ab32c0d95e42756&x-sign=f9c26fb89bdef0270c3f77629f11a6bf&x-time=1779244320"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=b0de0607deffcf6f3aec8847aa6920bb0ce1efaa&x-sign=6ea44b401b07220291c761fc86f0a4db&x-time=1779245160"
                 }
             ]
         },
@@ -114,11 +94,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779330729-Kv4cPTAAP5YTi-48184b14c617d5583c0add5f4ab32c0d95e42756-2e9d51b8a5a2fe53aac02cf05d974982"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779331612-Kv4cPTAAP5YTi-b0de0607deffcf6f3aec8847aa6920bb0ce1efaa-09c4c2a237fe01d358c4d440beaaaa09"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=48184b14c617d5583c0add5f4ab32c0d95e42756&x-sign=a2c9b45583831c675fd9a385ab55dab3&x-time=1779244320"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=b0de0607deffcf6f3aec8847aa6920bb0ce1efaa&x-sign=6216acc514e379bc62a8e3f751664465&x-time=1779245160"
                 }
             ]
         },
@@ -138,11 +118,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779330736-Kv4cPTAAP5YTi-48184b14c617d5583c0add5f4ab32c0d95e42756-2a5ad8cf4e6cc5db13bd57bc800d61ed"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779331621-Kv4cPTAAP5YTi-b0de0607deffcf6f3aec8847aa6920bb0ce1efaa-a3ba3b95d97f76c18938f773e0711d3d"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=48184b14c617d5583c0add5f4ab32c0d95e42756&x-sign=06f5eb7ae4b820591b910237ef3e91b4&x-time=1779244320"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=b0de0607deffcf6f3aec8847aa6920bb0ce1efaa&x-sign=507561c616f274b82d3d06e2b91425d3&x-time=1779245220"
                 }
             ]
         },
@@ -162,11 +142,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779330746-Kv4cPTAAP5YTi-48184b14c617d5583c0add5f4ab32c0d95e42756-85226173d1bb693d5831100b515f732a"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779331628-Kv4cPTAAP5YTi-b0de0607deffcf6f3aec8847aa6920bb0ce1efaa-1ee1347760c50d0a4ad768015311bb47"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=48184b14c617d5583c0add5f4ab32c0d95e42756&x-sign=bbe78df53e0da301bb718bc903eafdac&x-time=1779244320"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=b0de0607deffcf6f3aec8847aa6920bb0ce1efaa&x-sign=7bad932793e9d523e69190667422792d&x-time=1779245220"
                 }
             ]
         },
@@ -186,11 +166,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274849/chunks.m3u8?is_vip=false&token=1779330753-Kv4cPTAAP5YTi-48184b14c617d5583c0add5f4ab32c0d95e42756-a6c133b3a6f329fa0f4e81bd9bc4de6b"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274849/chunks.m3u8?is_vip=false&token=1779331635-Kv4cPTAAP5YTi-b0de0607deffcf6f3aec8847aa6920bb0ce1efaa-18d3d539f1f38a71fe5b85546677cecc"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274849/chunks.m3u8?is_vip=false&token=48184b14c617d5583c0add5f4ab32c0d95e42756&x-sign=d4d48301eb8907c98a99eb108aef098b&x-time=1779244320"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274849/chunks.m3u8?is_vip=false&token=b0de0607deffcf6f3aec8847aa6920bb0ce1efaa&x-sign=bfd7f22e4bc02ca543a01bc76beefc87&x-time=1779245220"
                 }
             ]
         },
@@ -210,11 +190,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779330760-Kv4cPTAAP5YTi-48184b14c617d5583c0add5f4ab32c0d95e42756-30c1677a78e60846fe6c78b18c2e2858"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779331642-Kv4cPTAAP5YTi-b0de0607deffcf6f3aec8847aa6920bb0ce1efaa-23ac7376caeeb36dac9d6254c1e68633"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=48184b14c617d5583c0add5f4ab32c0d95e42756&x-sign=d988166f58f89418756d6e50d253c23d&x-time=1779244320"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=b0de0607deffcf6f3aec8847aa6920bb0ce1efaa&x-sign=7538071797fb4bdd89a15b470652faa7&x-time=1779245220"
                 }
             ]
         },
@@ -370,15 +350,15 @@
         },
         {
             "Category": "Football",
-            "League": "CONMEBOL Sudamericana",
-            "Team 1 Name": "Boston River",
-            "Team 2 Name": "O'Higgins",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2361.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2320.png",
-            "Match Title": "Boston River VS O'Higgins | CONMEBOL Sudamericana",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Boston%20River%0AVS%0AO'Higgins%0ACONMEBOL%20Sudamericana&font=Oswald",
+            "League": "Pro League",
+            "Team 1 Name": "Al Khaleej Saihat",
+            "Team 2 Name": "Al-Ahli Jeddah",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2928.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2929.png",
+            "Match Title": "Al Khaleej Saihat VS Al-Ahli Jeddah | Pro League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Al%20Khaleej%20Saihat%0AVS%0AAl-Ahli%20Jeddah%0APro%20League&font=Oswald",
             "Match Status": "Upcoming",
-            "Start Time": "4:00 AM 21-05-2026",
+            "Start Time": "12:00 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -392,6 +372,21 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2540.png",
             "Match Title": "Club Nacional VS Universitario | CONMEBOL Libertadores",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Club%20Nacional%0AVS%0AUniversitario%0ACONMEBOL%20Libertadores&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "4:00 AM 21-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "CONMEBOL Sudamericana",
+            "Team 1 Name": "Boston River",
+            "Team 2 Name": "O'Higgins",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2361.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2320.png",
+            "Match Title": "Boston River VS O'Higgins | CONMEBOL Sudamericana",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Boston%20River%0AVS%0AO'Higgins%0ACONMEBOL%20Sudamericana&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -461,12 +456,12 @@
         {
             "Category": "Football",
             "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Cusco",
-            "Team 2 Name": "Independiente Medellin",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10013.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1128.png",
-            "Match Title": "Cusco VS Independiente Medellin | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Cusco%0AVS%0AIndependiente%20Medellin%0ACONMEBOL%20Libertadores&font=Oswald",
+            "Team 1 Name": "Junior",
+            "Team 2 Name": "Sporting Cristal",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1135.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2546.png",
+            "Match Title": "Junior VS Sporting Cristal | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Junior%0AVS%0ASporting%20Cristal%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "8:00 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -476,12 +471,12 @@
         {
             "Category": "Football",
             "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Junior",
-            "Team 2 Name": "Sporting Cristal",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1135.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2546.png",
-            "Match Title": "Junior VS Sporting Cristal | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Junior%0AVS%0ASporting%20Cristal%0ACONMEBOL%20Libertadores&font=Oswald",
+            "Team 1 Name": "Cusco",
+            "Team 2 Name": "Independiente Medellin",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10013.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1128.png",
+            "Match Title": "Cusco VS Independiente Medellin | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Cusco%0AVS%0AIndependiente%20Medellin%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "8:00 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -664,21 +659,6 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=ES1.%20Giro%20d'Italia%2C%20Stage%2012%0AGiro%20d%E2%80%99Italia&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:45 PM 21-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Darts",
-            "League": "Premier League",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Night 16 | Premier League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Night%2016%0APremier%20League&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "12:00 AM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
