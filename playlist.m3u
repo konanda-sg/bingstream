@@ -3,30 +3,30 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 2:31:28 AM 21-05-2026
+#last update time: 2:46:26 AM 21-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=SC%20Freiburg%0AVS%0AAston%20Villa%0AUEFA%20Europa%20League&font=Oswald" group-title="UEFA Europa League", SC Freiburg VS Aston Villa | UEFA Europa League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=a0ec4eea27a02de850fb92da99797f6d1944b2be&x-sign=6a8269621012aca2afa3ae704c1bfe3a&x-time=1779309060
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=e5829b4c9287331e7bcf9f66f3a480528e3e76b8&x-sign=256d354f774752075d5d6e2ead1ef4f0&x-time=1779309960
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=SC%20Freiburg%0AVS%0AAston%20Villa%0AUEFA%20Europa%20League&font=Oswald" group-title="UEFA Europa League", SC Freiburg VS Aston Villa | UEFA Europa League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779395492-Kv4cPTAAP5YTi-a0ec4eea27a02de850fb92da99797f6d1944b2be-67b02ff611205301a706d0c3f676e42d
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779396390-Kv4cPTAAP5YTi-e5829b4c9287331e7bcf9f66f3a480528e3e76b8-010ee3875be3e373fc430743226bda9c
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=SC%20Freiburg%0AVS%0AAston%20Villa%0AUEFA%20Europa%20League&font=Oswald" group-title="UEFA Europa League", SC Freiburg VS Aston Villa | UEFA Europa League [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=a0ec4eea27a02de850fb92da99797f6d1944b2be&x-sign=36c65007e86171047acbfcc00794a6d4&x-time=1779309060
+https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=e5829b4c9287331e7bcf9f66f3a480528e3e76b8&x-sign=93f44662718caf3e0cc45cd7e7a290bd&x-time=1779309960
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Talleres%20Cordoba%0AVS%0AAtletico%20Tucuman%0ACopa%20Argentina&font=Oswald" group-title="Football", Talleres Cordoba VS Atletico Tucuman | Copa Argentina [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/161358_abrhd.m3u8?is_vip=false&token=a0ec4eea27a02de850fb92da99797f6d1944b2be&x-sign=a27445c28e7cc3dfb4a97663afb73cc6&x-time=1779309060
+https://livecdn-bp-iptv.rumsport7.live/live_abr/161358_abrhd.m3u8?is_vip=false&token=e5829b4c9287331e7bcf9f66f3a480528e3e76b8&x-sign=a4cf9b7525ed429e5febbea4fad5ca26&x-time=1779309960
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Talleres%20Cordoba%0AVS%0AAtletico%20Tucuman%0ACopa%20Argentina&font=Oswald" group-title="Football", Talleres Cordoba VS Atletico Tucuman | Copa Argentina [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161358_abrhd.m3u8?is_vip=false&token=1779395499-Kv4cPTAAP5YTi-a0ec4eea27a02de850fb92da99797f6d1944b2be-844773b856545853b9f335094d25028e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161358_abrhd.m3u8?is_vip=false&token=1779396397-Kv4cPTAAP5YTi-e5829b4c9287331e7bcf9f66f3a480528e3e76b8-5b694454920d2826d573f1ed91acd0c0
 
