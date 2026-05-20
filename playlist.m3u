@@ -3,85 +3,85 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:01:31 AM 20-05-2026
+#last update time: 10:16:31 AM 20-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779336094-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-efb98cb10e84091d31a60563a276378d
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779336995-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-115ba4b41321c060e200c5e10fa75964
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=d522eb662def6e55619d9b7b239bcc5b&x-time=1779249660
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=2c323c6341bdf1fdf2f3b08933657f18&x-time=1779250560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779336102-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-1b37434ff6933696c24a5f5f5ca8701a
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779337002-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-0ae3274be3156f1c455632b113ccfb97
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=601110ec1c34dc4613c8974feee4350e&x-time=1779249660
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=f09c6103196e63cc1218b796b90c7b07&x-time=1779250560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 3 | PERODUA Malaysia Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779336108-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-b6c45dd1eb821c39e02200f31ca2eb85
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779337010-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-0e7253e59d6955e154c1c6295d7e3583
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 3 | PERODUA Malaysia Masters [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=9b4b89e76310f1f40205d95c34f6bc7c&x-time=1779249660
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=6093ad81e0d9989e61456409238ca4a7&x-time=1779250560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 4 | PERODUA Malaysia Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779336118-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-c6ade1f913ece3896e51f7186027af26
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779337017-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-a06ef988c01170aeefeb5d676da06215
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 4 | PERODUA Malaysia Masters [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=fa571e97e0363b8fe4c9457004787d4e&x-time=1779249660
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=cc148380069f7c7dc29fcf858efa39af&x-time=1779250560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=America%20de%20Cali%0AVS%0ATigre%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", America de Cali VS Tigre | CONMEBOL Sudamericana [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779336124-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-460194988c8c93ed206710ac04819f4e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779337024-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-ee6c7fc45c866ffa86d3e2509306412d
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=America%20de%20Cali%0AVS%0ATigre%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", America de Cali VS Tigre | CONMEBOL Sudamericana [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=f97515ebb3c79ffe51712da2aff6381b&x-time=1779249720
+https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=12c6e10796730dd1487438b71246034b&x-time=1779250620
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20Cuenca%0AVS%0ADeportivo%20Recoleta%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Deportivo Cuenca VS Deportivo Recoleta | CONMEBOL Sudamericana [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779336133-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-0b657172eae8b2ba31cbebdd6a4b2283
+https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779337031-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-565cd18842160eee59b95bdf73ba278f
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20Cuenca%0AVS%0ADeportivo%20Recoleta%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Deportivo Cuenca VS Deportivo Recoleta | CONMEBOL Sudamericana [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=c34bff383e702640f297fc22936d3c20&x-time=1779249720
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20del%20Valle%0AVS%0ALibertad%20Asuncion%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Independiente del Valle VS Libertad Asuncion | CONMEBOL Libertadores [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779336140-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-66fbbf7d54023fa4772b2fef10a62bb0
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20del%20Valle%0AVS%0ALibertad%20Asuncion%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Independiente del Valle VS Libertad Asuncion | CONMEBOL Libertadores [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=985912ddbeb3cde4a792314f1bea15a0&x-time=1779249720
+https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=436ee957cece36c42909cc85e4222e66&x-time=1779250620
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ORIX%20Buffaloes%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", ORIX Buffaloes VS Hiroshima Toyo Carp | NPB Farm Leagues [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779336147-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-e0a91fdac92fd8c5e126171627e3302b
+https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779337039-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-6287faf711fe57b113be7279bdd019ad
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ORIX%20Buffaloes%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", ORIX Buffaloes VS Hiroshima Toyo Carp | NPB Farm Leagues [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=65fe59c37e79cea782708a822b376a26&x-time=1779249720
+https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=179c747e2f1f9fefe065d431148d28b2&x-time=1779250620
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20del%20Valle%0AVS%0ALibertad%20Asuncion%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Independiente del Valle VS Libertad Asuncion | CONMEBOL Libertadores [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779337047-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-f6af564401ce723e6f18f73881e56bec
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20del%20Valle%0AVS%0ALibertad%20Asuncion%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Independiente del Valle VS Libertad Asuncion | CONMEBOL Libertadores [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=01467f177f56ce663ac282af4237b528&x-time=1779250620
 

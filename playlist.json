@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:01:31 AM 20-05-2026"
+        "last_update_time": "10:16:31 AM 20-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779336094-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-efb98cb10e84091d31a60563a276378d"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779336995-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-115ba4b41321c060e200c5e10fa75964"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=d522eb662def6e55619d9b7b239bcc5b&x-time=1779249660"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=2c323c6341bdf1fdf2f3b08933657f18&x-time=1779250560"
                 }
             ]
         },
@@ -46,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779336102-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-1b37434ff6933696c24a5f5f5ca8701a"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779337002-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-0ae3274be3156f1c455632b113ccfb97"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=601110ec1c34dc4613c8974feee4350e&x-time=1779249660"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=f09c6103196e63cc1218b796b90c7b07&x-time=1779250560"
                 }
             ]
         },
@@ -70,11 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779336108-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-b6c45dd1eb821c39e02200f31ca2eb85"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779337010-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-0e7253e59d6955e154c1c6295d7e3583"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=9b4b89e76310f1f40205d95c34f6bc7c&x-time=1779249660"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=6093ad81e0d9989e61456409238ca4a7&x-time=1779250560"
                 }
             ]
         },
@@ -94,11 +94,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779336118-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-c6ade1f913ece3896e51f7186027af26"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779337017-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-a06ef988c01170aeefeb5d676da06215"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=fa571e97e0363b8fe4c9457004787d4e&x-time=1779249660"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=cc148380069f7c7dc29fcf858efa39af&x-time=1779250560"
                 }
             ]
         },
@@ -118,11 +118,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779336124-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-460194988c8c93ed206710ac04819f4e"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779337024-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-ee6c7fc45c866ffa86d3e2509306412d"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=f97515ebb3c79ffe51712da2aff6381b&x-time=1779249720"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=12c6e10796730dd1487438b71246034b&x-time=1779250620"
                 }
             ]
         },
@@ -142,35 +142,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779336133-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-0b657172eae8b2ba31cbebdd6a4b2283"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779337031-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-565cd18842160eee59b95bdf73ba278f"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=c34bff383e702640f297fc22936d3c20&x-time=1779249720"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Independiente del Valle",
-            "Team 2 Name": "Libertad Asuncion",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1153.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1179.png",
-            "Match Title": "Independiente del Valle VS Libertad Asuncion | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20del%20Valle%0AVS%0ALibertad%20Asuncion%0ACONMEBOL%20Libertadores&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779336140-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-66fbbf7d54023fa4772b2fef10a62bb0"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=985912ddbeb3cde4a792314f1bea15a0&x-time=1779249720"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=436ee957cece36c42909cc85e4222e66&x-time=1779250620"
                 }
             ]
         },
@@ -190,11 +166,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779336147-Kv4cPTAAP5YTi-9384771960d3f9fd9ec49da1dc82388410ddee11-e0a91fdac92fd8c5e126171627e3302b"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779337039-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-6287faf711fe57b113be7279bdd019ad"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=9384771960d3f9fd9ec49da1dc82388410ddee11&x-sign=65fe59c37e79cea782708a822b376a26&x-time=1779249720"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=179c747e2f1f9fefe065d431148d28b2&x-time=1779250620"
                 }
             ]
         },
@@ -305,6 +281,30 @@
         },
         {
             "Category": "Football",
+            "League": "CONMEBOL Libertadores",
+            "Team 1 Name": "Independiente del Valle",
+            "Team 2 Name": "Libertad Asuncion",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1153.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1179.png",
+            "Match Title": "Independiente del Valle VS Libertad Asuncion | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20del%20Valle%0AVS%0ALibertad%20Asuncion%0ACONMEBOL%20Libertadores&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "8:00 AM 20-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779337047-Kv4cPTAAP5YTi-bbb81821813c0af5fecbfed939c689ac57ea17e0-f6af564401ce723e6f18f73881e56bec"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=bbb81821813c0af5fecbfed939c689ac57ea17e0&x-sign=01467f177f56ce663ac282af4237b528&x-time=1779250620"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
             "League": "AFC Women's Champions League",
             "Team 1 Name": "Melbourne City W",
             "Team 2 Name": "Tokyo Verdy Beleza W",
@@ -350,13 +350,13 @@
         },
         {
             "Category": "Football",
-            "League": "Serie B",
-            "Team 1 Name": "Palermo",
-            "Team 2 Name": "Catanzaro",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/522.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1687.png",
-            "Match Title": "Palermo VS Catanzaro | Serie B",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Palermo%0AVS%0ACatanzaro%0ASerie%20B&font=Oswald",
+            "League": "Pro League",
+            "Team 1 Name": "Al Khaleej Saihat",
+            "Team 2 Name": "Al-Ahli Jeddah",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2928.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2929.png",
+            "Match Title": "Al Khaleej Saihat VS Al-Ahli Jeddah | Pro League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Al%20Khaleej%20Saihat%0AVS%0AAl-Ahli%20Jeddah%0APro%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "12:00 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -365,13 +365,13 @@
         },
         {
             "Category": "Football",
-            "League": "Pro League",
-            "Team 1 Name": "Al Khaleej Saihat",
-            "Team 2 Name": "Al-Ahli Jeddah",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2928.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2929.png",
-            "Match Title": "Al Khaleej Saihat VS Al-Ahli Jeddah | Pro League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Al%20Khaleej%20Saihat%0AVS%0AAl-Ahli%20Jeddah%0APro%20League&font=Oswald",
+            "League": "Serie B",
+            "Team 1 Name": "Palermo",
+            "Team 2 Name": "Catanzaro",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/522.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1687.png",
+            "Match Title": "Palermo VS Catanzaro | Serie B",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Palermo%0AVS%0ACatanzaro%0ASerie%20B&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "12:00 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -410,13 +410,13 @@
         },
         {
             "Category": "Football",
-            "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Club Nacional",
-            "Team 2 Name": "Universitario",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2356.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2540.png",
-            "Match Title": "Club Nacional VS Universitario | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Club%20Nacional%0AVS%0AUniversitario%0ACONMEBOL%20Libertadores&font=Oswald",
+            "League": "CONMEBOL Sudamericana",
+            "Team 1 Name": "Santos",
+            "Team 2 Name": "San Lorenzo",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/128.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/460.png",
+            "Match Title": "Santos VS San Lorenzo | CONMEBOL Sudamericana",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Santos%0AVS%0ASan%20Lorenzo%0ACONMEBOL%20Sudamericana&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -425,13 +425,13 @@
         },
         {
             "Category": "Football",
-            "League": "CONMEBOL Sudamericana",
-            "Team 1 Name": "Santos",
-            "Team 2 Name": "San Lorenzo",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/128.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/460.png",
-            "Match Title": "Santos VS San Lorenzo | CONMEBOL Sudamericana",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Santos%0AVS%0ASan%20Lorenzo%0ACONMEBOL%20Sudamericana&font=Oswald",
+            "League": "CONMEBOL Libertadores",
+            "Team 1 Name": "Club Nacional",
+            "Team 2 Name": "Universitario",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2356.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2540.png",
+            "Match Title": "Club Nacional VS Universitario | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Club%20Nacional%0AVS%0AUniversitario%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -471,6 +471,21 @@
         {
             "Category": "Football",
             "League": "CONMEBOL Sudamericana",
+            "Team 1 Name": "Gremio",
+            "Team 2 Name": "Palestino",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/130.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2318.png",
+            "Match Title": "Gremio VS Palestino | CONMEBOL Sudamericana",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Gremio%0AVS%0APalestino%0ACONMEBOL%20Sudamericana&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "6:00 AM 21-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "CONMEBOL Sudamericana",
             "Team 1 Name": "Independiente Petrolero",
             "Team 2 Name": "Botafogo",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/15702.png",
@@ -485,15 +500,15 @@
         },
         {
             "Category": "Football",
-            "League": "CONMEBOL Sudamericana",
-            "Team 1 Name": "Gremio",
-            "Team 2 Name": "Palestino",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/130.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2318.png",
-            "Match Title": "Gremio VS Palestino | CONMEBOL Sudamericana",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Gremio%0AVS%0APalestino%0ACONMEBOL%20Sudamericana&font=Oswald",
+            "League": "CONMEBOL Libertadores",
+            "Team 1 Name": "Palmeiras",
+            "Team 2 Name": "Cerro Porteno",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/121.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1176.png",
+            "Match Title": "Palmeiras VS Cerro Porteno | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Palmeiras%0AVS%0ACerro%20Porteno%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
-            "Start Time": "6:00 AM 21-05-2026",
+            "Start Time": "6:30 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -546,14 +561,14 @@
         {
             "Category": "Football",
             "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Palmeiras",
-            "Team 2 Name": "Cerro Porteno",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/121.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1176.png",
-            "Match Title": "Palmeiras VS Cerro Porteno | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Palmeiras%0AVS%0ACerro%20Porteno%0ACONMEBOL%20Libertadores&font=Oswald",
+            "Team 1 Name": "Junior",
+            "Team 2 Name": "Sporting Cristal",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1135.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2546.png",
+            "Match Title": "Junior VS Sporting Cristal | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Junior%0AVS%0ASporting%20Cristal%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
-            "Start Time": "6:30 AM 21-05-2026",
+            "Start Time": "8:00 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -567,21 +582,6 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1128.png",
             "Match Title": "Cusco VS Independiente Medellin | CONMEBOL Libertadores",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Cusco%0AVS%0AIndependiente%20Medellin%0ACONMEBOL%20Libertadores&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "8:00 AM 21-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Junior",
-            "Team 2 Name": "Sporting Cristal",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1135.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2546.png",
-            "Match Title": "Junior VS Sporting Cristal | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Junior%0AVS%0ASporting%20Cristal%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "8:00 AM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -666,12 +666,12 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Hokkaido Nippon-Ham Fighters",
-            "Team 2 Name": "Tohoku Rakuten Golden Eagles",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
-            "Match Title": "Hokkaido Nippon-Ham Fighters VS Tohoku Rakuten Golden Eagles | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0ATohoku%20Rakuten%20Golden%20Eagles%0ANPB&font=Oswald",
+            "Team 1 Name": "Hanshin Tigers",
+            "Team 2 Name": "Chunichi Dragons",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
+            "Match Title": "Hanshin Tigers VS Chunichi Dragons | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0AChunichi%20Dragons%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "3:00 PM 20-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -681,12 +681,12 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Saitama Seibu Lions",
-            "Team 2 Name": "Chiba Lotte Marines",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f21f7f743a49b135f1804b1df2d0e5d8.png",
-            "Match Title": "Saitama Seibu Lions VS Chiba Lotte Marines | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald",
+            "Team 1 Name": "Hokkaido Nippon-Ham Fighters",
+            "Team 2 Name": "Tohoku Rakuten Golden Eagles",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
+            "Match Title": "Hokkaido Nippon-Ham Fighters VS Tohoku Rakuten Golden Eagles | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0ATohoku%20Rakuten%20Golden%20Eagles%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "3:00 PM 20-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
