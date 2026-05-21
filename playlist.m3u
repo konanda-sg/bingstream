@@ -3,35 +3,35 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 8:46:32 PM 21-05-2026
+#last update time: 9:01:34 PM 21-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%205%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 5 | Strasbourg Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1779461195-Kv4cPTAAP5YTi-dabeb691514f77a488aad9b506d39d7d39d65b1d-8bf7751aed39c3d9fb6f35751738793f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1779462099-Kv4cPTAAP5YTi-eb960ec3a96165aeb651c58646ee6917880f44e9-727cb4e63e6e7db961deb69f9c33db0a
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%205%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 5 | Strasbourg Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=dabeb691514f77a488aad9b506d39d7d39d65b1d&x-sign=c47b68482542fe98763a446acfad5cce&x-time=1779374760
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=eb960ec3a96165aeb651c58646ee6917880f44e9&x-sign=0e82aed123c74795c2bdef00477b2d4e&x-time=1779375660
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1.%20Giro%20d'Italia%2C%20Stage%2012%0AGiro%20d%E2%80%99Italia&font=Oswald" group-title="Cycling", ES1. Giro d'Italia, Stage 12 | Giro d’Italia [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779461202-Kv4cPTAAP5YTi-dabeb691514f77a488aad9b506d39d7d39d65b1d-4ca6b9cbcf48937db73b0d00e46032bd
+https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779462107-Kv4cPTAAP5YTi-eb960ec3a96165aeb651c58646ee6917880f44e9-272c944a57ed6b799ba706d822ca15d6
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1.%20Giro%20d'Italia%2C%20Stage%2012%0AGiro%20d%E2%80%99Italia&font=Oswald" group-title="Cycling", ES1. Giro d'Italia, Stage 12 | Giro d’Italia [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=dabeb691514f77a488aad9b506d39d7d39d65b1d&x-sign=9eec8aa5eb5c2cc44bab939ad465c3bf&x-time=1779374760
+https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=eb960ec3a96165aeb651c58646ee6917880f44e9&x-sign=a8a4e117ac2c5c12428faeda0936f64e&x-time=1779375660
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U18%20Zalgiris%20Kaunas%0AVS%0AU18%20Next%20Gen%20Team%203SSB%0ANext%20Gen%20Euroleague&font=Oswald" group-title="Basketball", U18 Zalgiris Kaunas VS U18 Next Gen Team 3SSB | Next Gen Euroleague [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=1779461210-Kv4cPTAAP5YTi-dabeb691514f77a488aad9b506d39d7d39d65b1d-2c71eb5189441a4dbe69f3dfb9b80e0b
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=1779462115-Kv4cPTAAP5YTi-eb960ec3a96165aeb651c58646ee6917880f44e9-7f470292e85a9023d8375a6d4e145deb
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U18%20Zalgiris%20Kaunas%0AVS%0AU18%20Next%20Gen%20Team%203SSB%0ANext%20Gen%20Euroleague&font=Oswald" group-title="Basketball", U18 Zalgiris Kaunas VS U18 Next Gen Team 3SSB | Next Gen Euroleague [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=dabeb691514f77a488aad9b506d39d7d39d65b1d&x-sign=713456f69b5e691480d2a26e57bd17af&x-time=1779374760
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=eb960ec3a96165aeb651c58646ee6917880f44e9&x-sign=c485f6f4f7556d83f56151d92bd09872&x-time=1779375660
 
