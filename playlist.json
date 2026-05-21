@@ -3,33 +3,9 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "5:16:32 PM 21-05-2026"
+        "last_update_time": "5:31:30 PM 21-05-2026"
     },
     "channels": [
-        {
-            "Category": "Badminton",
-            "League": "PERODUA Malaysia Masters",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Court 1 | PERODUA Malaysia Masters",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779448596-Kv4cPTAAP5YTi-2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2-c6cba6ecebcd5dee0f5bc8a1bf6a4875"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2&x-sign=157c4315c1049df6fecdee560d443c15&x-time=1779362160"
-                }
-            ]
-        },
         {
             "Category": "Tennis",
             "League": "Strasbourg Open",
@@ -46,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1779448603-Kv4cPTAAP5YTi-2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2-35dd203594abdc495c38d5f6bbd471c0"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1779449493-Kv4cPTAAP5YTi-0372aa0cc207b1efc5b1565277d15fd3361ff8fa-dd92e4771b64940c1bd66e570419c102"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2&x-sign=05327ecbc55717518c4a63ca431e9661&x-time=1779362160"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=0372aa0cc207b1efc5b1565277d15fd3361ff8fa&x-sign=e8fd4c34c1129302eb05a7962b4c2311&x-time=1779363060"
                 }
             ]
         },
@@ -70,35 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779448609-Kv4cPTAAP5YTi-2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2-20f75b73dc6041fb81e04c49c1bbf82b"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779449500-Kv4cPTAAP5YTi-0372aa0cc207b1efc5b1565277d15fd3361ff8fa-96c4840903fd89dcc5f6c9c88b410968"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2&x-sign=24bbdc0adbf055f022fcbbe75d7b4893&x-time=1779362160"
-                }
-            ]
-        },
-        {
-            "Category": "Baseball",
-            "League": "NPB",
-            "Team 1 Name": "Hanshin Tigers",
-            "Team 2 Name": "Chunichi Dragons",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
-            "Match Title": "Hanshin Tigers VS Chunichi Dragons | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0AChunichi%20Dragons%0ANPB&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779448617-Kv4cPTAAP5YTi-2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2-b7aacd2561507163533a70c999765156"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2&x-sign=07b2a9905d504f03756566654c2f4f1d&x-time=1779362160"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=0372aa0cc207b1efc5b1565277d15fd3361ff8fa&x-sign=6b9698551d0f73b5f0f147b4c7f4642d&x-time=1779363060"
                 }
             ]
         },
@@ -118,11 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779448624-Kv4cPTAAP5YTi-2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2-6cc20d0dd9642e1f2448fc8251af89a6"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779449507-Kv4cPTAAP5YTi-0372aa0cc207b1efc5b1565277d15fd3361ff8fa-d411b22813aedb61c8d8e72e6c910e1b"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2&x-sign=b39eb79f6db287813d42f379d1ca329b&x-time=1779362220"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=0372aa0cc207b1efc5b1565277d15fd3361ff8fa&x-sign=ca613a8e22c0c27b97c57390291f8f67&x-time=1779363060"
                 }
             ]
         },
@@ -142,11 +94,35 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779448630-Kv4cPTAAP5YTi-2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2-4dc6295e890d64886d66e03903870e13"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779449513-Kv4cPTAAP5YTi-0372aa0cc207b1efc5b1565277d15fd3361ff8fa-782f77337984208f5c6a63ddecdf7755"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2&x-sign=cc4182fafe2cb0b9d06bc67135f42113&x-time=1779362220"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=0372aa0cc207b1efc5b1565277d15fd3361ff8fa&x-sign=4534fc211c272487b972784f172db9c9&x-time=1779363060"
+                }
+            ]
+        },
+        {
+            "Category": "Basketball",
+            "League": "Next Gen Euroleague",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "U18 Pole France INSEP Paris VS U18 Panathinaikos Athens | Next Gen Euroleague",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20Pole%20France%20INSEP%20Paris%0AVS%0AU18%20Panathinaikos%20Athens%0ANext%20Gen%20Euroleague&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=1779449520-Kv4cPTAAP5YTi-0372aa0cc207b1efc5b1565277d15fd3361ff8fa-35996d0615e2e1545139c01cb4834e33"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=0372aa0cc207b1efc5b1565277d15fd3361ff8fa&x-sign=21896a92b4f1a6304ea27e91f099ce09&x-time=1779363120"
                 }
             ]
         },
@@ -332,13 +308,13 @@
         },
         {
             "Category": "Football",
-            "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Deportivo La Guaira",
-            "Team 2 Name": "Independ. Rivadavia",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2813.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/473.png",
-            "Match Title": "Deportivo La Guaira VS Independ. Rivadavia | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20La%20Guaira%0AVS%0AIndepend.%20Rivadavia%0ACONMEBOL%20Libertadores&font=Oswald",
+            "League": "CONMEBOL Sudamericana",
+            "Team 1 Name": "Puerto Cabello",
+            "Team 2 Name": "Juventud",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2827.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2353.png",
+            "Match Title": "Puerto Cabello VS Juventud | CONMEBOL Sudamericana",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Puerto%20Cabello%0AVS%0AJuventud%0ACONMEBOL%20Sudamericana&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -347,13 +323,13 @@
         },
         {
             "Category": "Football",
-            "League": "CONMEBOL Sudamericana",
-            "Team 1 Name": "Puerto Cabello",
-            "Team 2 Name": "Juventud",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2827.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2353.png",
-            "Match Title": "Puerto Cabello VS Juventud | CONMEBOL Sudamericana",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Puerto%20Cabello%0AVS%0AJuventud%0ACONMEBOL%20Sudamericana&font=Oswald",
+            "League": "CONMEBOL Libertadores",
+            "Team 1 Name": "Deportivo La Guaira",
+            "Team 2 Name": "Independ. Rivadavia",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2813.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/473.png",
+            "Match Title": "Deportivo La Guaira VS Independ. Rivadavia | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20La%20Guaira%0AVS%0AIndepend.%20Rivadavia%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -467,21 +443,6 @@
         },
         {
             "Category": "Football",
-            "League": "AFL Premiership",
-            "Team 1 Name": "St. Kilda Saints",
-            "Team 2 Name": "",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/4f67e4875901b9fe51a6948425dd8530.png",
-            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-            "Match Title": "vs | AFL Premiership",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=vs%0AAFL%20Premiership&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "4:30 PM 22-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
             "League": "J1 League",
             "Team 1 Name": "Machida Zelvia",
             "Team 2 Name": "Urawa",
@@ -496,28 +457,19 @@
             "Stream URL": []
         },
         {
-            "Category": "Basketball",
-            "League": "Next Gen Euroleague",
-            "Team 1 Name": "",
+            "Category": "Football",
+            "League": "AFL Premiership",
+            "Team 1 Name": "St. Kilda Saints",
             "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "U18 Pole France INSEP Paris VS U18 Panathinaikos Athens | Next Gen Euroleague",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20Pole%20France%20INSEP%20Paris%0AVS%0AU18%20Panathinaikos%20Athens%0ANext%20Gen%20Euroleague&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "5:30 PM 21-05-2026",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/4f67e4875901b9fe51a6948425dd8530.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "vs | AFL Premiership",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=vs%0AAFL%20Premiership&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "4:30 PM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=1779448637-Kv4cPTAAP5YTi-2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2-3d9acc77862b2bcfb3e45fbae68d0ea1"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2&x-sign=9f7c82f94cd73b649ba6ff28f737d0f4&x-time=1779362220"
-                }
-            ]
+            "Stream URL": []
         },
         {
             "Category": "Basketball",
@@ -545,6 +497,21 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20Real%20Madrid%0AVS%0AU18%20Pole%20France%20INSEP%20Paris%0ANext%20Gen%20Euroleague&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "1:00 PM 22-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Basketball",
+            "League": "Next Gen Euroleague",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "U18 FC Barcelona VS U18 Zalgiris Kaunas | Next Gen Euroleague",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20FC%20Barcelona%0AVS%0AU18%20Zalgiris%20Kaunas%0ANext%20Gen%20Euroleague&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "3:15 PM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -700,6 +667,21 @@
             "Stream URL": []
         },
         {
+            "Category": "Darts",
+            "League": "International Darts Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "International Darts Open | International Darts Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "5:00 PM 22-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
             "Category": "Badminton",
             "League": "PERODUA Malaysia Masters",
             "Team 1 Name": "",
@@ -721,8 +703,8 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 3 | PERODUA Malaysia Masters",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald",
+            "Match Title": "Court 2 | PERODUA Malaysia Masters",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:30 AM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -736,8 +718,8 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 2 | PERODUA Malaysia Masters",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald",
+            "Match Title": "Court 3 | PERODUA Malaysia Masters",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:30 AM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
