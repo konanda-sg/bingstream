@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:31:29 PM 21-05-2026"
+        "last_update_time": "12:46:28 PM 21-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779431492-Kv4cPTAAP5YTi-d55f252cdb153d39f0cb20e13ed7eb83873ed79a-5af744df62e536018ac452958732ba37"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779432392-Kv4cPTAAP5YTi-0f02db230617f4de1064f25a8586b9147067d274-53c6bbd461f0572a05922b778e6f521a"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=d55f252cdb153d39f0cb20e13ed7eb83873ed79a&x-sign=fc4a16ab45cbbdfeac9b4c63eb92da74&x-time=1779345060"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=0f02db230617f4de1064f25a8586b9147067d274&x-sign=805bc0a4e1a81a201b14eca911b0f5f9&x-time=1779345960"
                 }
             ]
         },
@@ -46,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779431498-Kv4cPTAAP5YTi-d55f252cdb153d39f0cb20e13ed7eb83873ed79a-a3b720943a495471be90091b567a1233"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779432399-Kv4cPTAAP5YTi-0f02db230617f4de1064f25a8586b9147067d274-dc7cf1603ea11263bf953c99bf7392da"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=d55f252cdb153d39f0cb20e13ed7eb83873ed79a&x-sign=f06354abb43eb15e42d0710ba2f4eb79&x-time=1779345060"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=0f02db230617f4de1064f25a8586b9147067d274&x-sign=579006a877bdd18bd59321cabd76f90a&x-time=1779345960"
                 }
             ]
         },
@@ -70,11 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779431505-Kv4cPTAAP5YTi-d55f252cdb153d39f0cb20e13ed7eb83873ed79a-16ae10128667449bf0dcddf90bce3ad7"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779432405-Kv4cPTAAP5YTi-0f02db230617f4de1064f25a8586b9147067d274-04fd98c1ee3d278b222eb81f8ea6281a"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=d55f252cdb153d39f0cb20e13ed7eb83873ed79a&x-sign=3fc358d077ea327b8100d0bed3d33eea&x-time=1779345060"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=0f02db230617f4de1064f25a8586b9147067d274&x-sign=9b451f7b6c639407e1e2bc1e2cef91b6&x-time=1779345960"
                 }
             ]
         },
@@ -94,11 +94,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779431511-Kv4cPTAAP5YTi-d55f252cdb153d39f0cb20e13ed7eb83873ed79a-f2922bd934987344d5b5e0798b724f37"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779432411-Kv4cPTAAP5YTi-0f02db230617f4de1064f25a8586b9147067d274-1be0b4e29f529a3285f6b9abc79e1db9"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=d55f252cdb153d39f0cb20e13ed7eb83873ed79a&x-sign=a3c5fff08bb8c37fa052cfd046f28b2a&x-time=1779345060"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=0f02db230617f4de1064f25a8586b9147067d274&x-sign=3d0ded8679e8a997b6afaf2aab7f8569&x-time=1779345960"
                 }
             ]
         },
@@ -118,11 +118,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779431518-Kv4cPTAAP5YTi-d55f252cdb153d39f0cb20e13ed7eb83873ed79a-948e47834518a3c99c7c2fb2ff3f945d"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779432417-Kv4cPTAAP5YTi-0f02db230617f4de1064f25a8586b9147067d274-278a483bc1b3e37a4cea23e1bc5dbfa1"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=d55f252cdb153d39f0cb20e13ed7eb83873ed79a&x-sign=cfb017a873918d0f3151d24ab4e0d8cc&x-time=1779345060"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=0f02db230617f4de1064f25a8586b9147067d274&x-sign=8dc2c0dac476628e67aa6c65b19abfbb&x-time=1779345960"
                 }
             ]
         },
@@ -480,11 +480,20 @@
             "Team 2 Logo": "",
             "Match Title": "U18 Cedevita Olimpija Ljubljana vs. U18 Real Madrid | Next Gen Euroleague",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20Cedevita%20Olimpija%20Ljubljana%20vs.%20U18%20Real%20Madrid%0ANext%20Gen%20Euroleague&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "1:00 PM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779432423-Kv4cPTAAP5YTi-0f02db230617f4de1064f25a8586b9147067d274-8636ede1f38a5d7cbb80251e384cf8d9"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=0f02db230617f4de1064f25a8586b9147067d274&x-sign=5c66baa4891314d84254e8d16cce5c5d&x-time=1779346020"
+                }
+            ]
         },
         {
             "Category": "Basketball",
