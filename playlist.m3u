@@ -3,85 +3,85 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 2:16:32 AM 22-05-2026
+#last update time: 2:31:31 AM 22-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Night%2016%0APremier%20League&font=Oswald" group-title="Darts", Night 16 | Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779480996-Kv4cPTAAP5YTi-4f44f198c110ecb73c8bf02044037496427d6a16-2d28667ae32e19e6ab95936ef3ff8cec
+https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779481894-Kv4cPTAAP5YTi-128c2516c0ef632949cf3a65405b9ae9f48f993e-b2b3ecb62d226055ff74326a3ab49445
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Night%2016%0APremier%20League&font=Oswald" group-title="Darts", Night 16 | Premier League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=4f44f198c110ecb73c8bf02044037496427d6a16&x-sign=ccb45cf98a634915029f20e1d53dd093&x-time=1779394560
+https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=128c2516c0ef632949cf3a65405b9ae9f48f993e&x-sign=0942dfb6a89b0356880943a743bff0eb&x-time=1779395460
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=KV%20Mechelen%0AVS%0AClub%20Brugge%20KV%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", KV Mechelen VS Club Brugge KV | Jupiler Pro League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/138854_abrhd.m3u8?is_vip=false&token=4f44f198c110ecb73c8bf02044037496427d6a16&x-sign=ad7fdcc564033f4c6bdb99c8b682e820&x-time=1779394560
+https://livecdn-bp-iptv.rumsport7.live/live_abr/138854_abrhd.m3u8?is_vip=false&token=128c2516c0ef632949cf3a65405b9ae9f48f993e&x-sign=4d298a46b7f9dbed305a7353026ea68c&x-time=1779395460
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=KV%20Mechelen%0AVS%0AClub%20Brugge%20KV%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", KV Mechelen VS Club Brugge KV | Jupiler Pro League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/138854_abrhd.m3u8?is_vip=false&token=1779481003-Kv4cPTAAP5YTi-4f44f198c110ecb73c8bf02044037496427d6a16-36cb8cf0db51d3d4107ab3f7bda2d33c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/138854_abrhd.m3u8?is_vip=false&token=1779481903-Kv4cPTAAP5YTi-128c2516c0ef632949cf3a65405b9ae9f48f993e-61c6aec025e14d3de67d548b91f21eae
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gent%0AVS%0AUnion%20St.%20Gilloise%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Gent VS Union St. Gilloise | Jupiler Pro League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779481008-Kv4cPTAAP5YTi-4f44f198c110ecb73c8bf02044037496427d6a16-3fe1e97eeeee97748918615d4b6c08ea
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779481909-Kv4cPTAAP5YTi-128c2516c0ef632949cf3a65405b9ae9f48f993e-f95b0ea308cc9f4f937b99e229b67f0d
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gent%0AVS%0AUnion%20St.%20Gilloise%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Gent VS Union St. Gilloise | Jupiler Pro League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=4f44f198c110ecb73c8bf02044037496427d6a16&x-sign=6a413572231502124217ecf47b449538&x-time=1779394560
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=128c2516c0ef632949cf3a65405b9ae9f48f993e&x-sign=a830907d1756213ffa99532e28fb398d&x-time=1779395460
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Anderlecht%0AVS%0ASt.%20Truiden%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Anderlecht VS St. Truiden | Jupiler Pro League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779481014-Kv4cPTAAP5YTi-4f44f198c110ecb73c8bf02044037496427d6a16-4291f9b1f28a040f9aacb155a99a0330
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779481915-Kv4cPTAAP5YTi-128c2516c0ef632949cf3a65405b9ae9f48f993e-10310319214a1391e229580dd75e267a
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Anderlecht%0AVS%0ASt.%20Truiden%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Anderlecht VS St. Truiden | Jupiler Pro League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=4f44f198c110ecb73c8bf02044037496427d6a16&x-sign=452c3372855c186f49482cc1277a2007&x-time=1779394560
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=128c2516c0ef632949cf3a65405b9ae9f48f993e&x-sign=f244d198d49a46f598dff899d03bc0a6&x-time=1779395460
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Anderlecht%0AVS%0ASt.%20Truiden%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Anderlecht VS St. Truiden | Jupiler Pro League [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/138846_abrhd.m3u8?is_vip=false&token=4f44f198c110ecb73c8bf02044037496427d6a16&x-sign=8705138c4c78793d034d346a925b6cef&x-time=1779394560
+https://livecdn-bp-iptv.rumsport7.live/live_abr/138846_abrhd.m3u8?is_vip=false&token=128c2516c0ef632949cf3a65405b9ae9f48f993e&x-sign=48054aa9dd679650c668979042128345&x-time=1779395460
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=VfL%20Wolfsburg%0AVS%0ASC%20Paderborn%2007%0ABundesliga&font=Oswald" group-title="Football", VfL Wolfsburg VS SC Paderborn 07 | Bundesliga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779481021-Kv4cPTAAP5YTi-4f44f198c110ecb73c8bf02044037496427d6a16-5a80ef854ef6efa7f0731f750f7dc921
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779481924-Kv4cPTAAP5YTi-128c2516c0ef632949cf3a65405b9ae9f48f993e-3a1e19ee64e52a3adf708481be5717bf
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=VfL%20Wolfsburg%0AVS%0ASC%20Paderborn%2007%0ABundesliga&font=Oswald" group-title="Football", VfL Wolfsburg VS SC Paderborn 07 | Bundesliga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=4f44f198c110ecb73c8bf02044037496427d6a16&x-sign=4198e797734e8024efecdfb3bc7510e4&x-time=1779394620
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=128c2516c0ef632949cf3a65405b9ae9f48f993e&x-sign=b3e6627daac647dfbe6a3d962c626978&x-time=1779395520
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=VfL%20Wolfsburg%0AVS%0ASC%20Paderborn%2007%0ABundesliga&font=Oswald" group-title="Football", VfL Wolfsburg VS SC Paderborn 07 | Bundesliga [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/138851_abrhd.m3u8?is_vip=false&token=4f44f198c110ecb73c8bf02044037496427d6a16&x-sign=f0d82a3a799c0fa55f32630126636379&x-time=1779394620
+https://livecdn-bp-iptv.rumsport7.live/live_abr/138851_abrhd.m3u8?is_vip=false&token=128c2516c0ef632949cf3a65405b9ae9f48f993e&x-sign=49122ffc42fb693fed752f1bab3beab8&x-time=1779395520
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Partick%0AVS%0AST%20Mirren%0APremiership&font=Oswald" group-title="Football", Partick VS ST Mirren | Premiership [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/372_abrhd.m3u8?is_vip=false&token=4f44f198c110ecb73c8bf02044037496427d6a16&x-sign=3ad2b85f5e0182b6e70ee2b3698b556b&x-time=1779394620
+https://livecdn-bp-iptv.rumsport7.live/live_abr/372_abrhd.m3u8?is_vip=false&token=128c2516c0ef632949cf3a65405b9ae9f48f993e&x-sign=a080f0ba800463139125e8937990efef&x-time=1779395520
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Partick%0AVS%0AST%20Mirren%0APremiership&font=Oswald" group-title="Football", Partick VS ST Mirren | Premiership [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/372_abrhd.m3u8?is_vip=false&token=1779481031-Kv4cPTAAP5YTi-4f44f198c110ecb73c8bf02044037496427d6a16-778ef1071bb74d9282c30c58c9c9c908
+https://livecdn-tc-iptv.rumsport10.live/live_abr/372_abrhd.m3u8?is_vip=false&token=1779481933-Kv4cPTAAP5YTi-128c2516c0ef632949cf3a65405b9ae9f48f993e-2f0e8ec8d683a71344d7a277574a31bb
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Utrecht%0AVS%0AHeerenveen%0AEredivisie&font=Oswald" group-title="Football", Utrecht VS Heerenveen | Eredivisie [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=4f44f198c110ecb73c8bf02044037496427d6a16&x-sign=0a0c92012d0063b718bab334225d4e5d&x-time=1779394620
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=128c2516c0ef632949cf3a65405b9ae9f48f993e&x-sign=57669da5e9eec93a8c2e5dbea0fab6df&x-time=1779395520
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Utrecht%0AVS%0AHeerenveen%0AEredivisie&font=Oswald" group-title="Football", Utrecht VS Heerenveen | Eredivisie [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=1779481037-Kv4cPTAAP5YTi-4f44f198c110ecb73c8bf02044037496427d6a16-8e1eb52c37d868bff35632f5d1944fd0
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=1779481940-Kv4cPTAAP5YTi-128c2516c0ef632949cf3a65405b9ae9f48f993e-3a4586c7d5ea3f2ff3fab509eb281af0
 
