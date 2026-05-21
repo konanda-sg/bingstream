@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "5:01:31 PM 21-05-2026"
+        "last_update_time": "5:16:32 PM 21-05-2026"
     },
     "channels": [
         {
@@ -22,59 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779447694-Kv4cPTAAP5YTi-be953c82de5930f5ea1eeb06ca28ea80f1c8ff61-bc3cd1cf2a55800a22de7e72f4042a8e"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779448596-Kv4cPTAAP5YTi-2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2-c6cba6ecebcd5dee0f5bc8a1bf6a4875"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=be953c82de5930f5ea1eeb06ca28ea80f1c8ff61&x-sign=57e636f8f89b5683ca1ac6b54f66be65&x-time=1779361260"
-                }
-            ]
-        },
-        {
-            "Category": "Badminton",
-            "League": "PERODUA Malaysia Masters",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Court 2 | PERODUA Malaysia Masters",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779447702-Kv4cPTAAP5YTi-be953c82de5930f5ea1eeb06ca28ea80f1c8ff61-52ce3ea45b305794badec1269fc70c05"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=be953c82de5930f5ea1eeb06ca28ea80f1c8ff61&x-sign=fd8ed0555bdab7ca7c8cce758899cd5e&x-time=1779361260"
-                }
-            ]
-        },
-        {
-            "Category": "Badminton",
-            "League": "PERODUA Malaysia Masters",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Court 3 | PERODUA Malaysia Masters",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779447708-Kv4cPTAAP5YTi-be953c82de5930f5ea1eeb06ca28ea80f1c8ff61-ee2e784e4cf7f86f8b3af86ebf3c78e6"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=be953c82de5930f5ea1eeb06ca28ea80f1c8ff61&x-sign=a220afb9518e61c91908b8410f88f72e&x-time=1779361260"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2&x-sign=157c4315c1049df6fecdee560d443c15&x-time=1779362160"
                 }
             ]
         },
@@ -94,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1779447718-Kv4cPTAAP5YTi-be953c82de5930f5ea1eeb06ca28ea80f1c8ff61-0662eab0b18671fb2b9b36cfe57e6981"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1779448603-Kv4cPTAAP5YTi-2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2-35dd203594abdc495c38d5f6bbd471c0"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=be953c82de5930f5ea1eeb06ca28ea80f1c8ff61&x-sign=792e7e5c0abb301b7495ce1ec5c5c2cc&x-time=1779361320"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2&x-sign=05327ecbc55717518c4a63ca431e9661&x-time=1779362160"
                 }
             ]
         },
@@ -118,11 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779447726-Kv4cPTAAP5YTi-be953c82de5930f5ea1eeb06ca28ea80f1c8ff61-851b10ea3ac365e85f993d898f600d89"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779448609-Kv4cPTAAP5YTi-2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2-20f75b73dc6041fb81e04c49c1bbf82b"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=be953c82de5930f5ea1eeb06ca28ea80f1c8ff61&x-sign=b2443204955af02275145c5d61b552bb&x-time=1779361320"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2&x-sign=24bbdc0adbf055f022fcbbe75d7b4893&x-time=1779362160"
                 }
             ]
         },
@@ -142,35 +94,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779447733-Kv4cPTAAP5YTi-be953c82de5930f5ea1eeb06ca28ea80f1c8ff61-6ef3aeaa634b4fd2825bbb8c01ba3c43"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779448617-Kv4cPTAAP5YTi-2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2-b7aacd2561507163533a70c999765156"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=be953c82de5930f5ea1eeb06ca28ea80f1c8ff61&x-sign=13e19202c6851297a74b1f2fb7e8d519&x-time=1779361320"
-                }
-            ]
-        },
-        {
-            "Category": "Basketball",
-            "League": "Next Gen Euroleague",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "U18 FC Barcelona VS U18 Crvena Zvezda Belgrade | Next Gen Euroleague",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20FC%20Barcelona%0AVS%0AU18%20Crvena%20Zvezda%20Belgrade%0ANext%20Gen%20Euroleague&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=1779447741-Kv4cPTAAP5YTi-be953c82de5930f5ea1eeb06ca28ea80f1c8ff61-46ab03a67c38a823680d64a645ca00ac"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=be953c82de5930f5ea1eeb06ca28ea80f1c8ff61&x-sign=54400cffa7056950389612b945d76f0b&x-time=1779361320"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2&x-sign=07b2a9905d504f03756566654c2f4f1d&x-time=1779362160"
                 }
             ]
         },
@@ -190,11 +118,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779447748-Kv4cPTAAP5YTi-be953c82de5930f5ea1eeb06ca28ea80f1c8ff61-db5bdb9547ac4fda980a04789f16390c"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779448624-Kv4cPTAAP5YTi-2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2-6cc20d0dd9642e1f2448fc8251af89a6"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=be953c82de5930f5ea1eeb06ca28ea80f1c8ff61&x-sign=7f7463de07fbb592be0fe015bc2806af&x-time=1779361320"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2&x-sign=b39eb79f6db287813d42f379d1ca329b&x-time=1779362220"
                 }
             ]
         },
@@ -214,11 +142,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779447755-Kv4cPTAAP5YTi-be953c82de5930f5ea1eeb06ca28ea80f1c8ff61-eb70dd7367ff049fd406bb2e7b40c575"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779448630-Kv4cPTAAP5YTi-2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2-4dc6295e890d64886d66e03903870e13"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=be953c82de5930f5ea1eeb06ca28ea80f1c8ff61&x-sign=6f94f8d94d0df4076bbbbd6794354898&x-time=1779361320"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2&x-sign=cc4182fafe2cb0b9d06bc67135f42113&x-time=1779362220"
                 }
             ]
         },
@@ -576,11 +504,20 @@
             "Team 2 Logo": "",
             "Match Title": "U18 Pole France INSEP Paris VS U18 Panathinaikos Athens | Next Gen Euroleague",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20Pole%20France%20INSEP%20Paris%0AVS%0AU18%20Panathinaikos%20Athens%0ANext%20Gen%20Euroleague&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "5:30 PM 21-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=1779448637-Kv4cPTAAP5YTi-2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2-3d9acc77862b2bcfb3e45fbae68d0ea1"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=2d8dff6ff6819483ad4d4c0dd6cef17d68106aa2&x-sign=9f7c82f94cd73b649ba6ff28f737d0f4&x-time=1779362220"
+                }
+            ]
         },
         {
             "Category": "Basketball",
