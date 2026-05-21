@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:16:30 AM 22-05-2026"
+        "last_update_time": "12:31:31 AM 22-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779473794-Kv4cPTAAP5YTi-8826d97b7864e3dec43fee9f32c18dc6eab13901-e1ecfbd37f48b57773f034c8d70c5ce3"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779474695-Kv4cPTAAP5YTi-aff2e6ce4059cb791ff9034c17d56633a9b43592-87ca06be182781355f5556d48c14aadd"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=8826d97b7864e3dec43fee9f32c18dc6eab13901&x-sign=432fe07cd0baf5b1769177ec49d7b356&x-time=1779387360"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=aff2e6ce4059cb791ff9034c17d56633a9b43592&x-sign=d546bedb9d55ff7caa9e2d2d81cc4644&x-time=1779388260"
                 }
             ]
         },
@@ -46,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1779473800-Kv4cPTAAP5YTi-8826d97b7864e3dec43fee9f32c18dc6eab13901-053a925475a7a158cf68abe6b92c15ae"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1779474702-Kv4cPTAAP5YTi-aff2e6ce4059cb791ff9034c17d56633a9b43592-3bab1df4e89fcc7c0de1c13ceed9e5c5"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=8826d97b7864e3dec43fee9f32c18dc6eab13901&x-sign=7a499a4e2310e0c21b062d83a86cc197&x-time=1779387360"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=aff2e6ce4059cb791ff9034c17d56633a9b43592&x-sign=88e8181eb4970618121a6361efe63546&x-time=1779388260"
                 }
             ]
         },
@@ -70,11 +70,107 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779473808-Kv4cPTAAP5YTi-8826d97b7864e3dec43fee9f32c18dc6eab13901-5a0a782e8bc3e10ee101f857399a081a"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779474709-Kv4cPTAAP5YTi-aff2e6ce4059cb791ff9034c17d56633a9b43592-5631c57e84fdd73113758a17c30fffa0"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=8826d97b7864e3dec43fee9f32c18dc6eab13901&x-sign=1e46139e5f64193cab41ac9d1ed98008&x-time=1779387360"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=aff2e6ce4059cb791ff9034c17d56633a9b43592&x-sign=9d9795df647fb8e6368078c9775aba0c&x-time=1779388260"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Jupiler Pro League",
+            "Team 1 Name": "KV Mechelen",
+            "Team 2 Name": "Club Brugge KV",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/266.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/569.png",
+            "Match Title": "KV Mechelen VS Club Brugge KV | Jupiler Pro League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=KV%20Mechelen%0AVS%0AClub%20Brugge%20KV%0AJupiler%20Pro%20League&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779474716-Kv4cPTAAP5YTi-aff2e6ce4059cb791ff9034c17d56633a9b43592-9d6e24da7a61b2ac220a247d1b7ff72f"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=aff2e6ce4059cb791ff9034c17d56633a9b43592&x-sign=5bb1084cfa5cb439b97a5c181b598dfd&x-time=1779388260"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Jupiler Pro League",
+            "Team 1 Name": "Gent",
+            "Team 2 Name": "Union St. Gilloise",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/631.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1393.png",
+            "Match Title": "Gent VS Union St. Gilloise | Jupiler Pro League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Gent%0AVS%0AUnion%20St.%20Gilloise%0AJupiler%20Pro%20League&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779474725-Kv4cPTAAP5YTi-aff2e6ce4059cb791ff9034c17d56633a9b43592-54d92d1dc189e9951561656efb7996fd"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=aff2e6ce4059cb791ff9034c17d56633a9b43592&x-sign=1a4a2affcc488fa85a1369b7cdde0667&x-time=1779388320"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Jupiler Pro League",
+            "Team 1 Name": "Anderlecht",
+            "Team 2 Name": "St. Truiden",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/554.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/735.png",
+            "Match Title": "Anderlecht VS St. Truiden | Jupiler Pro League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Anderlecht%0AVS%0ASt.%20Truiden%0AJupiler%20Pro%20League&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779474731-Kv4cPTAAP5YTi-aff2e6ce4059cb791ff9034c17d56633a9b43592-ce77654f07bd2613cd4862a948cdc68f"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=aff2e6ce4059cb791ff9034c17d56633a9b43592&x-sign=28f67a0b36f07cb87aa41cff71fa2add&x-time=1779388320"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Bundesliga",
+            "Team 1 Name": "VfL Wolfsburg",
+            "Team 2 Name": "SC Paderborn 07",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/161.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/185.png",
+            "Match Title": "VfL Wolfsburg VS SC Paderborn 07 | Bundesliga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=VfL%20Wolfsburg%0AVS%0ASC%20Paderborn%2007%0ABundesliga&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779474738-Kv4cPTAAP5YTi-aff2e6ce4059cb791ff9034c17d56633a9b43592-b7ccf814991e4da83969daa8500d667d"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=aff2e6ce4059cb791ff9034c17d56633a9b43592&x-sign=54241cd9cbc4b8cbd93f0607f1cd8701&x-time=1779388320"
                 }
             ]
         },
@@ -185,102 +281,6 @@
         },
         {
             "Category": "Football",
-            "League": "Jupiler Pro League",
-            "Team 1 Name": "KV Mechelen",
-            "Team 2 Name": "Club Brugge KV",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/266.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/569.png",
-            "Match Title": "KV Mechelen VS Club Brugge KV | Jupiler Pro League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=KV%20Mechelen%0AVS%0AClub%20Brugge%20KV%0AJupiler%20Pro%20League&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "12:30 AM 22-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779473815-Kv4cPTAAP5YTi-8826d97b7864e3dec43fee9f32c18dc6eab13901-e793e2b2971138fb5dbacd302d1fcebe"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=8826d97b7864e3dec43fee9f32c18dc6eab13901&x-sign=c0a400c652a1ca1fdcfe454c460d4c28&x-time=1779387360"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Bundesliga",
-            "Team 1 Name": "VfL Wolfsburg",
-            "Team 2 Name": "SC Paderborn 07",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/161.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/185.png",
-            "Match Title": "VfL Wolfsburg VS SC Paderborn 07 | Bundesliga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=VfL%20Wolfsburg%0AVS%0ASC%20Paderborn%2007%0ABundesliga&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "12:30 AM 22-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779473822-Kv4cPTAAP5YTi-8826d97b7864e3dec43fee9f32c18dc6eab13901-a85c8244780eb07006897d2adf1e7788"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=8826d97b7864e3dec43fee9f32c18dc6eab13901&x-sign=e23dd26107c1067391abc8b2f981adb4&x-time=1779387420"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Jupiler Pro League",
-            "Team 1 Name": "Anderlecht",
-            "Team 2 Name": "St. Truiden",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/554.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/735.png",
-            "Match Title": "Anderlecht VS St. Truiden | Jupiler Pro League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Anderlecht%0AVS%0ASt.%20Truiden%0AJupiler%20Pro%20League&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "12:30 AM 22-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779473829-Kv4cPTAAP5YTi-8826d97b7864e3dec43fee9f32c18dc6eab13901-5f0205056f77c724b64d2ef89cfcf337"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=8826d97b7864e3dec43fee9f32c18dc6eab13901&x-sign=fee5bc5cde69286ff42def67f69eca55&x-time=1779387420"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "Jupiler Pro League",
-            "Team 1 Name": "Gent",
-            "Team 2 Name": "Union St. Gilloise",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/631.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1393.png",
-            "Match Title": "Gent VS Union St. Gilloise | Jupiler Pro League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Gent%0AVS%0AUnion%20St.%20Gilloise%0AJupiler%20Pro%20League&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "12:30 AM 22-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779473835-Kv4cPTAAP5YTi-8826d97b7864e3dec43fee9f32c18dc6eab13901-d9ea2db1d42d8fca3bff64123af782cb"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=8826d97b7864e3dec43fee9f32c18dc6eab13901&x-sign=ec0735f2a735bc5b489e6f1760610652&x-time=1779387420"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "League": "Eredivisie",
             "Team 1 Name": "Utrecht",
             "Team 2 Name": "Heerenveen",
@@ -311,13 +311,13 @@
         },
         {
             "Category": "Football",
-            "League": "CONMEBOL Sudamericana",
-            "Team 1 Name": "Puerto Cabello",
-            "Team 2 Name": "Juventud",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2827.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2353.png",
-            "Match Title": "Puerto Cabello VS Juventud | CONMEBOL Sudamericana",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Puerto%20Cabello%0AVS%0AJuventud%0ACONMEBOL%20Sudamericana&font=Oswald",
+            "League": "CONMEBOL Libertadores",
+            "Team 1 Name": "Deportivo La Guaira",
+            "Team 2 Name": "Independ. Rivadavia",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2813.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/473.png",
+            "Match Title": "Deportivo La Guaira VS Independ. Rivadavia | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20La%20Guaira%0AVS%0AIndepend.%20Rivadavia%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -326,13 +326,13 @@
         },
         {
             "Category": "Football",
-            "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Deportivo La Guaira",
-            "Team 2 Name": "Independ. Rivadavia",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2813.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/473.png",
-            "Match Title": "Deportivo La Guaira VS Independ. Rivadavia | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20La%20Guaira%0AVS%0AIndepend.%20Rivadavia%0ACONMEBOL%20Libertadores&font=Oswald",
+            "League": "CONMEBOL Sudamericana",
+            "Team 1 Name": "Puerto Cabello",
+            "Team 2 Name": "Juventud",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2827.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2353.png",
+            "Match Title": "Puerto Cabello VS Juventud | CONMEBOL Sudamericana",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Puerto%20Cabello%0AVS%0AJuventud%0ACONMEBOL%20Sudamericana&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:00 AM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -372,12 +372,12 @@
         {
             "Category": "Football",
             "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "U. Catolica",
-            "Team 2 Name": "Barcelona SC",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2994.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1152.png",
-            "Match Title": "U. Catolica VS Barcelona SC | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U.%20Catolica%0AVS%0ABarcelona%20SC%0ACONMEBOL%20Libertadores&font=Oswald",
+            "Team 1 Name": "Penarol",
+            "Team 2 Name": "Corinthians",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2348.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/131.png",
+            "Match Title": "Penarol VS Corinthians | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Penarol%0AVS%0ACorinthians%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "6:30 AM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -387,12 +387,12 @@
         {
             "Category": "Football",
             "League": "CONMEBOL Libertadores",
-            "Team 1 Name": "Penarol",
-            "Team 2 Name": "Corinthians",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2348.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/131.png",
-            "Match Title": "Penarol VS Corinthians | CONMEBOL Libertadores",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Penarol%0AVS%0ACorinthians%0ACONMEBOL%20Libertadores&font=Oswald",
+            "Team 1 Name": "U. Catolica",
+            "Team 2 Name": "Barcelona SC",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2994.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1152.png",
+            "Match Title": "U. Catolica VS Barcelona SC | CONMEBOL Libertadores",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U.%20Catolica%0AVS%0ABarcelona%20SC%0ACONMEBOL%20Libertadores&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "6:30 AM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -470,6 +470,36 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=vs%0AAFL%20Premiership&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:30 PM 22-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Tennis",
+            "League": "WTA 250",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Rabat (Day 5) | WTA 250",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Rabat%20(Day%205)%0AWTA%20250&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "6:00 PM 22-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Tennis",
+            "League": "Strasbourg Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Day 6 | Strasbourg Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%206%0AStrasbourg%20Open&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "6:30 PM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -610,6 +640,21 @@
             "Stream URL": []
         },
         {
+            "Category": "MMA",
+            "League": "ONE Friday Fights",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "ONE Friday Fights 155 | ONE Friday Fights",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=ONE%20Friday%20Fights%20155%0AONE%20Friday%20Fights&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "7:30 PM 22-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
             "Category": "Rugby",
             "League": "Super Rugby Pacific",
             "Team 1 Name": "Crusaders",
@@ -691,8 +736,8 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 3 | PERODUA Malaysia Masters",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald",
+            "Match Title": "Court 1 | PERODUA Malaysia Masters",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:30 AM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -706,8 +751,8 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 1 | PERODUA Malaysia Masters",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald",
+            "Match Title": "Court 3 | PERODUA Malaysia Masters",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:30 AM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
