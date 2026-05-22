@@ -3,33 +3,9 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "2:46:28 PM 22-05-2026"
+        "last_update_time": "3:01:32 PM 22-05-2026"
     },
     "channels": [
-        {
-            "Category": "Rugby",
-            "League": "Super Rugby Pacific",
-            "Team 1 Name": "Crusaders",
-            "Team 2 Name": "Chiefs",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/0b7a2ebc0b5a26f1da805460555bfbd2.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/8a8541c9ba8bb5e28961fda5c905baf4.jpg",
-            "Match Title": "Crusaders VS Chiefs | Super Rugby Pacific",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Crusaders%0AVS%0AChiefs%0ASuper%20Rugby%20Pacific&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779525992-Kv4cPTAAP5YTi-00ecde33b3dfb1b097dc5bc9f57558eae5593d19-b12b45a64264b1e451b4e988bfe2a7bb"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=00ecde33b3dfb1b097dc5bc9f57558eae5593d19&x-sign=e1cee329561a96800d8ae750912ea068&x-time=1779439560"
-                }
-            ]
-        },
         {
             "Category": "Basketball",
             "League": "Next Gen Euroleague",
@@ -46,11 +22,107 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=1779525998-Kv4cPTAAP5YTi-00ecde33b3dfb1b097dc5bc9f57558eae5593d19-d4f5eae56fb2bca1c8e8515387d2d654"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=1779526895-Kv4cPTAAP5YTi-21c035d5ad9b67238c8a55633db61508249afd93-d2c7a2046cf3a104ace47037ee63c065"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=00ecde33b3dfb1b097dc5bc9f57558eae5593d19&x-sign=b011da081d8c9cce92bbb517db9968e1&x-time=1779439560"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=21c035d5ad9b67238c8a55633db61508249afd93&x-sign=9cbfe19f404aa226368d5d4fa48b6d30&x-time=1779440460"
+                }
+            ]
+        },
+        {
+            "Category": "Super Rugby Pacific",
+            "League": "Super Rugby Pacific",
+            "Team 1 Name": "Waratahs",
+            "Team 2 Name": "ACT Brumbies",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/386cc98af10c58c60774777107d31d6a.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/de141590ab6211432e403658dffeff4a.png",
+            "Match Title": "Waratahs VS ACT Brumbies | Super Rugby Pacific",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Waratahs%0AVS%0AACT%20Brumbies%0ASuper%20Rugby%20Pacific&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779526903-Kv4cPTAAP5YTi-21c035d5ad9b67238c8a55633db61508249afd93-9a62a667fc808c709dea8f3592e2e4e4"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=21c035d5ad9b67238c8a55633db61508249afd93&x-sign=a4c07d9a96fc2150e6ec8af57bae60c2&x-time=1779440460"
+                }
+            ]
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
+            "Team 1 Name": "Tohoku Rakuten Golden Eagles",
+            "Team 2 Name": "Chiba Lotte Marines",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f21f7f743a49b135f1804b1df2d0e5d8.png",
+            "Match Title": "Tohoku Rakuten Golden Eagles VS Chiba Lotte Marines | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tohoku%20Rakuten%20Golden%20Eagles%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779526912-Kv4cPTAAP5YTi-21c035d5ad9b67238c8a55633db61508249afd93-daa7f7459d81297e441052ee33c37ea2"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=21c035d5ad9b67238c8a55633db61508249afd93&x-sign=9013d83ccdc2fd99d0cd1e13eb1b1de1&x-time=1779440460"
+                }
+            ]
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
+            "Team 1 Name": "Yomiuri Giants",
+            "Team 2 Name": "Hanshin Tigers",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9f2a207ed77e5f3e2f438e501a13c005.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
+            "Match Title": "Yomiuri Giants VS Hanshin Tigers | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0AHanshin%20Tigers%0ANPB&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779526919-Kv4cPTAAP5YTi-21c035d5ad9b67238c8a55633db61508249afd93-8f99f9e24b50a8771dfdd5e9e0536184"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=21c035d5ad9b67238c8a55633db61508249afd93&x-sign=a519d86fad3e491569d7ca7bc1d60ba8&x-time=1779440520"
+                }
+            ]
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
+            "Team 1 Name": "Fukuoka SoftBank Hawks",
+            "Team 2 Name": "Hokkaido Nippon-Ham Fighters",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
+            "Match Title": "Fukuoka SoftBank Hawks VS Hokkaido Nippon-Ham Fighters | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AHokkaido%20Nippon-Ham%20Fighters%0ANPB&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779526925-Kv4cPTAAP5YTi-21c035d5ad9b67238c8a55633db61508249afd93-90dd14b9dceaf89ddbcf2f5b89eba0ce"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=21c035d5ad9b67238c8a55633db61508249afd93&x-sign=6c4d7872eafcb2d2987c4335dda73411&x-time=1779440520"
                 }
             ]
         },
@@ -295,6 +367,36 @@
             "Stream URL": []
         },
         {
+            "Category": "Football",
+            "League": "A-League",
+            "Team 1 Name": "Auckland",
+            "Team 2 Name": "Sydney",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/24608.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/943.png",
+            "Match Title": "Auckland VS Sydney | A-League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Auckland%0AVS%0ASydney%0AA-League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "2:10 PM 23-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "J1 League",
+            "Team 1 Name": "Kashima",
+            "Team 2 Name": "FC Tokyo",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/290.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/292.png",
+            "Match Title": "Kashima VS FC Tokyo | J1 League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Kashima%0AVS%0AFC%20Tokyo%0AJ1%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "2:30 PM 23-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
             "Category": "Tennis",
             "League": "WTA 250",
             "Team 1 Name": "",
@@ -333,11 +435,20 @@
             "Team 2 Logo": "",
             "Match Title": "U18 FC Barcelona VS U18 Zalgiris Kaunas | Next Gen Euroleague",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20FC%20Barcelona%0AVS%0AU18%20Zalgiris%20Kaunas%0ANext%20Gen%20Euroleague&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "3:15 PM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=1779526933-Kv4cPTAAP5YTi-21c035d5ad9b67238c8a55633db61508249afd93-980491a02ee16e55dd123b4e78ab8c69"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=21c035d5ad9b67238c8a55633db61508249afd93&x-sign=9f4fc46ef8452a17eece335bc82c686c&x-time=1779440520"
+                }
+            ]
         },
         {
             "Category": "Basketball",
@@ -372,50 +483,17 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Yomiuri Giants",
-            "Team 2 Name": "Hanshin Tigers",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9f2a207ed77e5f3e2f438e501a13c005.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
-            "Match Title": "Yomiuri Giants VS Hanshin Tigers | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0AHanshin%20Tigers%0ANPB&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "3:00 PM 22-05-2026",
+            "Team 1 Name": "YOKOHAMA DeNA BAYSTARS",
+            "Team 2 Name": "Tokyo Yakult Swallows",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e3e7ae8a15936419522e36aac0f7faea.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
+            "Match Title": "YOKOHAMA DeNA BAYSTARS VS Tokyo Yakult Swallows | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=YOKOHAMA%20DeNA%20BAYSTARS%0AVS%0ATokyo%20Yakult%20Swallows%0ANPB&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779526005-Kv4cPTAAP5YTi-00ecde33b3dfb1b097dc5bc9f57558eae5593d19-adac0e125c6b1c90a41fe5cd089355c2"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=00ecde33b3dfb1b097dc5bc9f57558eae5593d19&x-sign=17cb31525a56a70b56dc204e7acbe482&x-time=1779439560"
-                }
-            ]
-        },
-        {
-            "Category": "Baseball",
-            "League": "NPB",
-            "Team 1 Name": "Tohoku Rakuten Golden Eagles",
-            "Team 2 Name": "Chiba Lotte Marines",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/f21f7f743a49b135f1804b1df2d0e5d8.png",
-            "Match Title": "Tohoku Rakuten Golden Eagles VS Chiba Lotte Marines | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tohoku%20Rakuten%20Golden%20Eagles%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "3:00 PM 22-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779526011-Kv4cPTAAP5YTi-00ecde33b3dfb1b097dc5bc9f57558eae5593d19-6413003fe377b6ed618c213e7f07994c"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=00ecde33b3dfb1b097dc5bc9f57558eae5593d19&x-sign=86eef1cc4ff9d350ed94a87b9a691add&x-time=1779439560"
-                }
-            ]
+            "Stream URL": []
         },
         {
             "Category": "Baseball",
@@ -426,20 +504,11 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
             "Match Title": "Fukuoka SoftBank Hawks VS Hokkaido Nippon-Ham Fighters | NPB",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AHokkaido%20Nippon-Ham%20Fighters%0ANPB&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "3:00 PM 22-05-2026",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779526017-Kv4cPTAAP5YTi-00ecde33b3dfb1b097dc5bc9f57558eae5593d19-ca670ced392cb25dd02d1cb347f8bc10"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=00ecde33b3dfb1b097dc5bc9f57558eae5593d19&x-sign=aa8c10ad8aed1361c5006e7c02f3c499&x-time=1779439560"
-                }
-            ]
+            "Stream URL": []
         },
         {
             "Category": "Auto Racing",
@@ -530,30 +599,6 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
-        },
-        {
-            "Category": "Rugby",
-            "League": "Super Rugby Pacific",
-            "Team 1 Name": "Waratahs",
-            "Team 2 Name": "",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/386cc98af10c58c60774777107d31d6a.png",
-            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-            "Match Title": "vs | Super Rugby Pacific",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=vs%0ASuper%20Rugby%20Pacific&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "3:00 PM 22-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779526023-Kv4cPTAAP5YTi-00ecde33b3dfb1b097dc5bc9f57558eae5593d19-6e5870c638518fe206f8c04d44cbe00e"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=00ecde33b3dfb1b097dc5bc9f57558eae5593d19&x-sign=4d087474817b873caa2560104d44303e&x-time=1779439620"
-                }
-            ]
         },
         {
             "Category": "Rugby",
