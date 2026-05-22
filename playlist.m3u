@@ -3,50 +3,55 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 3:31:33 PM 22-05-2026
+#last update time: 3:46:35 PM 22-05-2026
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Waratahs%0AVS%0AACT%20Brumbies%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Super Rugby Pacific", Waratahs VS ACT Brumbies | Super Rugby Pacific
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Waratahs%0AVS%0AACT%20Brumbies%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Super Rugby Pacific", Waratahs VS ACT Brumbies | Super Rugby Pacific [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1779527793-Kv4cPTAAP5YTi-d5eacdc3d68fa1a447d64a70b20eb0efd41aed1c-fb0b7416c8644989169c3f2655e667ba
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112915_abrhd.m3u8?is_vip=false&token=1779529598-Kv4cPTAAP5YTi-0d57f1453614b1d38066ba0d69ccaffe4fa5ef04-3ab4dd83decaca74a1e3efe6cdcdd0a8
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Waratahs%0AVS%0AACT%20Brumbies%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Super Rugby Pacific", Waratahs VS ACT Brumbies | Super Rugby Pacific [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112915_abrhd.m3u8?is_vip=false&token=0d57f1453614b1d38066ba0d69ccaffe4fa5ef04&x-sign=116451c14ab4deb1b64479b97d03ea62&x-time=1779443160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tohoku%20Rakuten%20Golden%20Eagles%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald" group-title="Baseball", Tohoku Rakuten Golden Eagles VS Chiba Lotte Marines | NPB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779528705-Kv4cPTAAP5YTi-b5694e85d5e9fffde1b7903a1deaef94c34a0c32-8cc59126d392faf398f453e20ac466bd
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779529605-Kv4cPTAAP5YTi-0d57f1453614b1d38066ba0d69ccaffe4fa5ef04-e6d1a188543468d6efcf702524a473d4
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tohoku%20Rakuten%20Golden%20Eagles%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald" group-title="Baseball", Tohoku Rakuten Golden Eagles VS Chiba Lotte Marines | NPB [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=b5694e85d5e9fffde1b7903a1deaef94c34a0c32&x-sign=775d54337851f58a1a204e21ab423554&x-time=1779442260
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=0d57f1453614b1d38066ba0d69ccaffe4fa5ef04&x-sign=5039bd67dca5d8bc90e3ab7b34b9ae60&x-time=1779443160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0AHanshin%20Tigers%0ANPB&font=Oswald" group-title="Baseball", Yomiuri Giants VS Hanshin Tigers | NPB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779528711-Kv4cPTAAP5YTi-b5694e85d5e9fffde1b7903a1deaef94c34a0c32-ab50a0fb22af114b3a65d2a1a164f535
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779529611-Kv4cPTAAP5YTi-0d57f1453614b1d38066ba0d69ccaffe4fa5ef04-426aa169e5dd4cc74eea7c55e77e4e5a
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0AHanshin%20Tigers%0ANPB&font=Oswald" group-title="Baseball", Yomiuri Giants VS Hanshin Tigers | NPB [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=b5694e85d5e9fffde1b7903a1deaef94c34a0c32&x-sign=90faa2e98aa4f56118c3076737235687&x-time=1779442260
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=0d57f1453614b1d38066ba0d69ccaffe4fa5ef04&x-sign=3ad7a538e709a64e7440e72f18da07bc&x-time=1779443160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AHokkaido%20Nippon-Ham%20Fighters%0ANPB&font=Oswald" group-title="Baseball", Fukuoka SoftBank Hawks VS Hokkaido Nippon-Ham Fighters | NPB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779528718-Kv4cPTAAP5YTi-b5694e85d5e9fffde1b7903a1deaef94c34a0c32-461f9b1acdaaffa4ea67f26cabbf9fb5
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779529618-Kv4cPTAAP5YTi-0d57f1453614b1d38066ba0d69ccaffe4fa5ef04-ece119482b1aa71fc85c980ee548a1be
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AHokkaido%20Nippon-Ham%20Fighters%0ANPB&font=Oswald" group-title="Baseball", Fukuoka SoftBank Hawks VS Hokkaido Nippon-Ham Fighters | NPB [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=b5694e85d5e9fffde1b7903a1deaef94c34a0c32&x-sign=08c7d340459739c99e5ef822031ddc6e&x-time=1779442260
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=0d57f1453614b1d38066ba0d69ccaffe4fa5ef04&x-sign=51ed2ef12ce186f6c4f2b7b284c1cc89&x-time=1779443160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U18%20Next%20Gen%20Team%203SSB%0AVS%0AU18%20Crvena%20Zvezda%20Belgrade%0ANext%20Gen%20Euroleague&font=Oswald" group-title="Basketball", U18 Next Gen Team 3SSB VS U18 Crvena Zvezda Belgrade | Next Gen Euroleague [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779528724-Kv4cPTAAP5YTi-b5694e85d5e9fffde1b7903a1deaef94c34a0c32-e283a53c86180b17d726bfb25cbbce10
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=1779529624-Kv4cPTAAP5YTi-0d57f1453614b1d38066ba0d69ccaffe4fa5ef04-8d430f8bd22138bd87786fd37d2a843b
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U18%20Next%20Gen%20Team%203SSB%0AVS%0AU18%20Crvena%20Zvezda%20Belgrade%0ANext%20Gen%20Euroleague&font=Oswald" group-title="Basketball", U18 Next Gen Team 3SSB VS U18 Crvena Zvezda Belgrade | Next Gen Euroleague [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=b5694e85d5e9fffde1b7903a1deaef94c34a0c32&x-sign=b35d63a901c2c1452f801f5fa7863dd3&x-time=1779442320
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=0d57f1453614b1d38066ba0d69ccaffe4fa5ef04&x-sign=5e276b6a8b566a9685d8558f285c534a&x-time=1779443220
 
