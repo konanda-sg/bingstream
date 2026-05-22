@@ -3,33 +3,9 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "3:01:32 PM 22-05-2026"
+        "last_update_time": "3:16:29 PM 22-05-2026"
     },
     "channels": [
-        {
-            "Category": "Basketball",
-            "League": "Next Gen Euroleague",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "U18 Real Madrid VS U18 Pole France INSEP Paris | Next Gen Euroleague",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20Real%20Madrid%0AVS%0AU18%20Pole%20France%20INSEP%20Paris%0ANext%20Gen%20Euroleague&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=1779526895-Kv4cPTAAP5YTi-21c035d5ad9b67238c8a55633db61508249afd93-d2c7a2046cf3a104ace47037ee63c065"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=21c035d5ad9b67238c8a55633db61508249afd93&x-sign=9cbfe19f404aa226368d5d4fa48b6d30&x-time=1779440460"
-                }
-            ]
-        },
         {
             "Category": "Super Rugby Pacific",
             "League": "Super Rugby Pacific",
@@ -46,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779526903-Kv4cPTAAP5YTi-21c035d5ad9b67238c8a55633db61508249afd93-9a62a667fc808c709dea8f3592e2e4e4"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1779527793-Kv4cPTAAP5YTi-d5eacdc3d68fa1a447d64a70b20eb0efd41aed1c-fb0b7416c8644989169c3f2655e667ba"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=21c035d5ad9b67238c8a55633db61508249afd93&x-sign=a4c07d9a96fc2150e6ec8af57bae60c2&x-time=1779440460"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=d5eacdc3d68fa1a447d64a70b20eb0efd41aed1c&x-sign=fdc36277f8d0679a7384924dd8e1d99a&x-time=1779441360"
                 }
             ]
         },
@@ -70,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779526912-Kv4cPTAAP5YTi-21c035d5ad9b67238c8a55633db61508249afd93-daa7f7459d81297e441052ee33c37ea2"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779527801-Kv4cPTAAP5YTi-d5eacdc3d68fa1a447d64a70b20eb0efd41aed1c-60dfe014a27ef95610940b2a028930ba"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=21c035d5ad9b67238c8a55633db61508249afd93&x-sign=9013d83ccdc2fd99d0cd1e13eb1b1de1&x-time=1779440460"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=d5eacdc3d68fa1a447d64a70b20eb0efd41aed1c&x-sign=28bbfb807c8b5b1cadc61f3888b7447f&x-time=1779441360"
                 }
             ]
         },
@@ -94,11 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779526919-Kv4cPTAAP5YTi-21c035d5ad9b67238c8a55633db61508249afd93-8f99f9e24b50a8771dfdd5e9e0536184"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779527809-Kv4cPTAAP5YTi-d5eacdc3d68fa1a447d64a70b20eb0efd41aed1c-a879b5a6d251cf17c9ecc675aab6615e"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=21c035d5ad9b67238c8a55633db61508249afd93&x-sign=a519d86fad3e491569d7ca7bc1d60ba8&x-time=1779440520"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=d5eacdc3d68fa1a447d64a70b20eb0efd41aed1c&x-sign=99b5c6502ac84fe4775f97fa8d58f1d5&x-time=1779441360"
                 }
             ]
         },
@@ -118,11 +94,35 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779526925-Kv4cPTAAP5YTi-21c035d5ad9b67238c8a55633db61508249afd93-90dd14b9dceaf89ddbcf2f5b89eba0ce"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779527816-Kv4cPTAAP5YTi-d5eacdc3d68fa1a447d64a70b20eb0efd41aed1c-4baa9ce61fba6e50814190730214130c"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=21c035d5ad9b67238c8a55633db61508249afd93&x-sign=6c4d7872eafcb2d2987c4335dda73411&x-time=1779440520"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=d5eacdc3d68fa1a447d64a70b20eb0efd41aed1c&x-sign=ac10fa2475991939730db4685c4162fa&x-time=1779441360"
+                }
+            ]
+        },
+        {
+            "Category": "Basketball",
+            "League": "Next Gen Euroleague",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "U18 FC Barcelona VS U18 Zalgiris Kaunas | Next Gen Euroleague",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20FC%20Barcelona%0AVS%0AU18%20Zalgiris%20Kaunas%0ANext%20Gen%20Euroleague&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=1779526933-Kv4cPTAAP5YTi-21c035d5ad9b67238c8a55633db61508249afd93-980491a02ee16e55dd123b4e78ab8c69"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=21c035d5ad9b67238c8a55633db61508249afd93&x-sign=9f4fc46ef8452a17eece335bc82c686c&x-time=1779440520"
                 }
             ]
         },
@@ -233,13 +233,13 @@
         },
         {
             "Category": "Football",
-            "League": "AFL Premiership",
-            "Team 1 Name": "St. Kilda Saints",
-            "Team 2 Name": "",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/4f67e4875901b9fe51a6948425dd8530.png",
-            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-            "Match Title": "vs | AFL Premiership",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=vs%0AAFL%20Premiership&font=Oswald",
+            "League": "J1 League",
+            "Team 1 Name": "Machida Zelvia",
+            "Team 2 Name": "Urawa",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/303.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/287.png",
+            "Match Title": "Machida Zelvia VS Urawa | J1 League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Machida%20Zelvia%0AVS%0AUrawa%0AJ1%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:30 PM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -248,13 +248,13 @@
         },
         {
             "Category": "Football",
-            "League": "J1 League",
-            "Team 1 Name": "Machida Zelvia",
-            "Team 2 Name": "Urawa",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/303.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/287.png",
-            "Match Title": "Machida Zelvia VS Urawa | J1 League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Machida%20Zelvia%0AVS%0AUrawa%0AJ1%20League&font=Oswald",
+            "League": "AFL Premiership",
+            "Team 1 Name": "St. Kilda Saints",
+            "Team 2 Name": "",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/4f67e4875901b9fe51a6948425dd8530.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "vs | AFL Premiership",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=vs%0AAFL%20Premiership&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:30 PM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -397,6 +397,21 @@
             "Stream URL": []
         },
         {
+            "Category": "Football",
+            "League": "J1 League",
+            "Team 1 Name": "Kashiwa Reysol",
+            "Team 2 Name": "JEF United Chiba",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/281.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/301.png",
+            "Match Title": "Kashiwa Reysol VS JEF United Chiba | J1 League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Kashiwa%20Reysol%0AVS%0AJEF%20United%20Chiba%0AJ1%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "3:00 PM 23-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
             "Category": "Tennis",
             "League": "WTA 250",
             "Team 1 Name": "",
@@ -433,30 +448,6 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "U18 FC Barcelona VS U18 Zalgiris Kaunas | Next Gen Euroleague",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20FC%20Barcelona%0AVS%0AU18%20Zalgiris%20Kaunas%0ANext%20Gen%20Euroleague&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "3:15 PM 22-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=1779526933-Kv4cPTAAP5YTi-21c035d5ad9b67238c8a55633db61508249afd93-980491a02ee16e55dd123b4e78ab8c69"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68897_abrhd.m3u8?is_vip=false&token=21c035d5ad9b67238c8a55633db61508249afd93&x-sign=9f4fc46ef8452a17eece335bc82c686c&x-time=1779440520"
-                }
-            ]
-        },
-        {
-            "Category": "Basketball",
-            "League": "Next Gen Euroleague",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
             "Match Title": "U18 Panathinaikos Athens VS U18 Cedevita Olimpija Ljubljana | Next Gen Euroleague",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20Panathinaikos%20Athens%0AVS%0AU18%20Cedevita%20Olimpija%20Ljubljana%0ANext%20Gen%20Euroleague&font=Oswald",
             "Match Status": "Upcoming",
@@ -481,16 +472,16 @@
             "Stream URL": []
         },
         {
-            "Category": "Baseball",
-            "League": "NPB",
-            "Team 1 Name": "YOKOHAMA DeNA BAYSTARS",
-            "Team 2 Name": "Tokyo Yakult Swallows",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e3e7ae8a15936419522e36aac0f7faea.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
-            "Match Title": "YOKOHAMA DeNA BAYSTARS VS Tokyo Yakult Swallows | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=YOKOHAMA%20DeNA%20BAYSTARS%0AVS%0ATokyo%20Yakult%20Swallows%0ANPB&font=Oswald",
+            "Category": "Basketball",
+            "League": "Next Gen Euroleague",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "U18 Pole France INSEP Paris VS U18 Cedevita Olimpija Ljubljana | Next Gen Euroleague",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20Pole%20France%20INSEP%20Paris%0AVS%0AU18%20Cedevita%20Olimpija%20Ljubljana%0ANext%20Gen%20Euroleague&font=Oswald",
             "Match Status": "Upcoming",
-            "Start Time": "11:00 AM 23-05-2026",
+            "Start Time": "1:00 PM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -504,6 +495,21 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
             "Match Title": "Fukuoka SoftBank Hawks VS Hokkaido Nippon-Ham Fighters | NPB",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AHokkaido%20Nippon-Ham%20Fighters%0ANPB&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 23-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
+            "Team 1 Name": "YOKOHAMA DeNA BAYSTARS",
+            "Team 2 Name": "Tokyo Yakult Swallows",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e3e7ae8a15936419522e36aac0f7faea.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
+            "Match Title": "YOKOHAMA DeNA BAYSTARS VS Tokyo Yakult Swallows | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=YOKOHAMA%20DeNA%20BAYSTARS%0AVS%0ATokyo%20Yakult%20Swallows%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
