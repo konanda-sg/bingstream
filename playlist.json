@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:31:27 AM 23-05-2026"
+        "last_update_time": "12:46:33 AM 23-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1779561090-Kv4cPTAAP5YTi-f21708e5367b9fe283c58453ee7ed49df691891a-7c5759ae589947a599072dd150e14e5a"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1779561996-Kv4cPTAAP5YTi-803f28f297415f70f54b957fc43ec361abda1de3-7ecb89f23cf03887a099a8e3125538f4"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=f21708e5367b9fe283c58453ee7ed49df691891a&x-sign=cb14b2df4da47d7ba9be29d6c7cc6939&x-time=1779474660"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=803f28f297415f70f54b957fc43ec361abda1de3&x-sign=64944d7265b38e9c6bc891439c59f5c2&x-time=1779475560"
                 }
             ]
         },
@@ -46,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68905_abrhd.m3u8?is_vip=false&token=f21708e5367b9fe283c58453ee7ed49df691891a&x-sign=54176e421136547e51e3fad041406ba8&x-time=1779474660"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68905_abrhd.m3u8?is_vip=false&token=803f28f297415f70f54b957fc43ec361abda1de3&x-sign=0e60e690c23b8222bfd9aa62ddb139d5&x-time=1779475560"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905_abrhd.m3u8?is_vip=false&token=1779561097-Kv4cPTAAP5YTi-f21708e5367b9fe283c58453ee7ed49df691891a-39bf9f73c558254829477aa2a0efbf71"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905_abrhd.m3u8?is_vip=false&token=1779562005-Kv4cPTAAP5YTi-803f28f297415f70f54b957fc43ec361abda1de3-c00d325f720b5ae4419b1f58d9ae35a0"
                 }
             ]
         },
@@ -70,11 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779561102-Kv4cPTAAP5YTi-f21708e5367b9fe283c58453ee7ed49df691891a-ccd92deedb5eb0664424b6385c82639b"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779562011-Kv4cPTAAP5YTi-803f28f297415f70f54b957fc43ec361abda1de3-609215dbe0a1e9f6c6a40e8de881d19a"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=f21708e5367b9fe283c58453ee7ed49df691891a&x-sign=a6015065fb192a1094079e18f4e3cfd5&x-time=1779474660"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=803f28f297415f70f54b957fc43ec361abda1de3&x-sign=f48ee4d3ef128beb38787638413baf9f&x-time=1779475560"
                 }
             ]
         },
@@ -94,11 +94,35 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abrhd.m3u8?is_vip=false&token=1779561107-Kv4cPTAAP5YTi-f21708e5367b9fe283c58453ee7ed49df691891a-746fb9ce9d790fc476843c93d3150720"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abrhd.m3u8?is_vip=false&token=1779562017-Kv4cPTAAP5YTi-803f28f297415f70f54b957fc43ec361abda1de3-234c998a3c047338c28fc84bd9e04ea8"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=f21708e5367b9fe283c58453ee7ed49df691891a&x-sign=cdc5168846ef0ec15a90ba7764fbb35b&x-time=1779474660"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=803f28f297415f70f54b957fc43ec361abda1de3&x-sign=26f0bf9e490082ab5bde0afd881f1fe1&x-time=1779475560"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Serie A",
+            "Team 1 Name": "Fiorentina",
+            "Team 2 Name": "Atalanta",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/502.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/499.png",
+            "Match Title": "Fiorentina VS Atalanta | Serie A",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fiorentina%0AVS%0AAtalanta%0ASerie%20A&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779562023-Kv4cPTAAP5YTi-803f28f297415f70f54b957fc43ec361abda1de3-36a76aaa997088a5e8f739a3603414a5"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=803f28f297415f70f54b957fc43ec361abda1de3&x-sign=4b5b8273f278e9ea0e69e93d7f73cdb3&x-time=1779475620"
                 }
             ]
         },
@@ -209,30 +233,6 @@
         },
         {
             "Category": "Football",
-            "League": "Serie A",
-            "Team 1 Name": "Fiorentina",
-            "Team 2 Name": "Atalanta",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/502.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/499.png",
-            "Match Title": "Fiorentina VS Atalanta | Serie A",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fiorentina%0AVS%0AAtalanta%0ASerie%20A&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "12:45 AM 23-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779561113-Kv4cPTAAP5YTi-f21708e5367b9fe283c58453ee7ed49df691891a-75b9d0afe1bf13780302ec16fc84592e"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=f21708e5367b9fe283c58453ee7ed49df691891a&x-sign=36fb880d756427dbb20e03841bc06f9b&x-time=1779474660"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "League": "Coupe de France",
             "Team 1 Name": "Lens",
             "Team 2 Name": "Nice",
@@ -240,8 +240,40 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/84.png",
             "Match Title": "Lens VS Nice | Coupe de France",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Lens%0AVS%0ANice%0ACoupe%20de%20France&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "1:00 AM 23-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779562030-Kv4cPTAAP5YTi-803f28f297415f70f54b957fc43ec361abda1de3-b990aafa998d77dbdfabc3a915b0266b"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/952_abrhd.m3u8?is_vip=false&token=1779562032-Kv4cPTAAP5YTi-803f28f297415f70f54b957fc43ec361abda1de3-50007d2a31898035db08e83b007e0306"
+                },
+                {
+                    "server_name": "Server 3",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=803f28f297415f70f54b957fc43ec361abda1de3&x-sign=7a145a6ceed8120a8962f11aa7f1a391&x-time=1779475620"
+                },
+                {
+                    "server_name": "Server 4",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/952_abrhd.m3u8?is_vip=false&token=803f28f297415f70f54b957fc43ec361abda1de3&x-sign=1655cdc8ab8bae7622b1032ad0163ea5&x-time=1779475620"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "J1 League",
+            "Team 1 Name": "Avispa Fukuoka",
+            "Team 2 Name": "Vissel Kobe",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/316.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/289.png",
+            "Match Title": "Avispa Fukuoka VS Vissel Kobe | J1 League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Avispa%20Fukuoka%0AVS%0AVissel%20Kobe%0AJ1%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -255,21 +287,6 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/288.png",
             "Match Title": "Sanfrecce Hiroshima VS Nagoya Grampus | J1 League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Sanfrecce%20Hiroshima%0AVS%0ANagoya%20Grampus%0AJ1%20League&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "11:00 AM 23-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "J1 League",
-            "Team 1 Name": "Avispa Fukuoka",
-            "Team 2 Name": "Vissel Kobe",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/316.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/289.png",
-            "Match Title": "Avispa Fukuoka VS Vissel Kobe | J1 League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Avispa%20Fukuoka%0AVS%0AVissel%20Kobe%0AJ1%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -412,16 +429,16 @@
             "Stream URL": []
         },
         {
-            "Category": "Baseball",
-            "League": "NPB",
-            "Team 1 Name": "YOKOHAMA DeNA BAYSTARS",
-            "Team 2 Name": "Tokyo Yakult Swallows",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e3e7ae8a15936419522e36aac0f7faea.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
-            "Match Title": "YOKOHAMA DeNA BAYSTARS VS Tokyo Yakult Swallows | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=YOKOHAMA%20DeNA%20BAYSTARS%0AVS%0ATokyo%20Yakult%20Swallows%0ANPB&font=Oswald",
+            "Category": "Basketball",
+            "League": "Next Gen Euroleague",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "U18 Real Madrid VS U18 Panathinaikos Athens | Next Gen Euroleague",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20Real%20Madrid%0AVS%0AU18%20Panathinaikos%20Athens%0ANext%20Gen%20Euroleague&font=Oswald",
             "Match Status": "Upcoming",
-            "Start Time": "11:00 AM 23-05-2026",
+            "Start Time": "5:30 PM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -435,6 +452,21 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
             "Match Title": "Fukuoka SoftBank Hawks VS Hokkaido Nippon-Ham Fighters | NPB",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AHokkaido%20Nippon-Ham%20Fighters%0ANPB&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 23-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
+            "Team 1 Name": "YOKOHAMA DeNA BAYSTARS",
+            "Team 2 Name": "Tokyo Yakult Swallows",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e3e7ae8a15936419522e36aac0f7faea.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
+            "Match Title": "YOKOHAMA DeNA BAYSTARS VS Tokyo Yakult Swallows | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=YOKOHAMA%20DeNA%20BAYSTARS%0AVS%0ATokyo%20Yakult%20Swallows%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -525,11 +557,20 @@
             "Team 2 Logo": "",
             "Match Title": "WOW FC 30 | MMA",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=WOW%20FC%2030%0AMMA&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "1:00 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=1779562039-Kv4cPTAAP5YTi-803f28f297415f70f54b957fc43ec361abda1de3-52f0d05df0f0b0157369f3d6671242f7"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=803f28f297415f70f54b957fc43ec361abda1de3&x-sign=ed1aaf43171984204fa8e7f4ca950982&x-time=1779475620"
+                }
+            ]
         },
         {
             "Category": "Rugby",
@@ -628,8 +669,8 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 2 | PERODUA Malaysia Masters",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald",
+            "Match Title": "Court 1 | PERODUA Malaysia Masters",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:30 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -643,8 +684,8 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 1 | PERODUA Malaysia Masters",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald",
+            "Match Title": "Court 2 | PERODUA Malaysia Masters",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:30 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
