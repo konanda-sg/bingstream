@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "9:01:27 AM 22-05-2026"
+        "last_update_time": "9:16:26 AM 22-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779505290-Kv4cPTAAP5YTi-924a8561427b1db2fe17c0fe727b4adb9beb811c-71fa57f25f2f7b3c33d300702dcb3bb9"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779506190-Kv4cPTAAP5YTi-ca8a544c9134819c39bd0b27a9abdeace97d0699-48b44f73b48415e03301e3ad61cf5be4"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=924a8561427b1db2fe17c0fe727b4adb9beb811c&x-sign=1aeb247f5ea04153d3afac595d5487a9&x-time=1779418860"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=ca8a544c9134819c39bd0b27a9abdeace97d0699&x-sign=9c66f67f571305e3fdf355a5bd5c1e1e&x-time=1779419760"
                 }
             ]
         },
@@ -46,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779505297-Kv4cPTAAP5YTi-924a8561427b1db2fe17c0fe727b4adb9beb811c-a7b2ed30009495e565f5d0a9fc7bcb3d"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779506197-Kv4cPTAAP5YTi-ca8a544c9134819c39bd0b27a9abdeace97d0699-7d52a2f5d7156828e56123892da25946"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=924a8561427b1db2fe17c0fe727b4adb9beb811c&x-sign=dfd7016aed66f0fceee9082325f391d2&x-time=1779418860"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ca8a544c9134819c39bd0b27a9abdeace97d0699&x-sign=b9f79d0ccb89dfad173597fa9e55b2e8&x-time=1779419760"
                 }
             ]
         },
@@ -70,35 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779505305-Kv4cPTAAP5YTi-924a8561427b1db2fe17c0fe727b4adb9beb811c-6b3b2cb7342341ba6c696afdbbd94b2a"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779506203-Kv4cPTAAP5YTi-ca8a544c9134819c39bd0b27a9abdeace97d0699-03e52e095f9e8dcbe73ae9c7cb02b75c"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=924a8561427b1db2fe17c0fe727b4adb9beb811c&x-sign=58c7538b2180c940b1081a31f66466e9&x-time=1779418860"
-                }
-            ]
-        },
-        {
-            "Category": "Auto Racing",
-            "League": "Super Formula",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Suzuka - Free Practice 1 | Super Formula",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Suzuka%20-%20Free%20Practice%201%0ASuper%20Formula&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779505312-Kv4cPTAAP5YTi-924a8561427b1db2fe17c0fe727b4adb9beb811c-107fd07d07e0b844e4958a3a78837d3f"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=924a8561427b1db2fe17c0fe727b4adb9beb811c&x-sign=4e98b1687177eede495bc3e0643e5baa&x-time=1779418860"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=ca8a544c9134819c39bd0b27a9abdeace97d0699&x-sign=09fd6c06f535f460acfa900d9e35be7a&x-time=1779419760"
                 }
             ]
         },
@@ -118,11 +94,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=1779505318-Kv4cPTAAP5YTi-924a8561427b1db2fe17c0fe727b4adb9beb811c-fb326365018b2828f2f39dbd9e776b4f"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=1779506209-Kv4cPTAAP5YTi-ca8a544c9134819c39bd0b27a9abdeace97d0699-196eadb2d14a438a0cf1d01d1fd591f7"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=924a8561427b1db2fe17c0fe727b4adb9beb811c&x-sign=724fac59096bcc4239a3ec1add0af77a&x-time=1779418920"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=ca8a544c9134819c39bd0b27a9abdeace97d0699&x-sign=ea5defc235b84b5d31fc9dab08029d76&x-time=1779419760"
                 }
             ]
         },
@@ -142,11 +118,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=1779505325-Kv4cPTAAP5YTi-924a8561427b1db2fe17c0fe727b4adb9beb811c-15475c5de1ddc2b31be0e32d4f6bdb8e"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=1779506216-Kv4cPTAAP5YTi-ca8a544c9134819c39bd0b27a9abdeace97d0699-4bdfc30c64b98faca5905a017031d677"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=924a8561427b1db2fe17c0fe727b4adb9beb811c&x-sign=6e6589313b9ce6c3cc632c3eb8a3315b&x-time=1779418920"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=ca8a544c9134819c39bd0b27a9abdeace97d0699&x-sign=6ba1b9fc3d924f9216152f35c2da9fab&x-time=1779419760"
                 }
             ]
         },
@@ -257,13 +233,13 @@
         },
         {
             "Category": "Football",
-            "League": "AFL Premiership",
-            "Team 1 Name": "St. Kilda Saints",
-            "Team 2 Name": "",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/4f67e4875901b9fe51a6948425dd8530.png",
-            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-            "Match Title": "vs | AFL Premiership",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=vs%0AAFL%20Premiership&font=Oswald",
+            "League": "J1 League",
+            "Team 1 Name": "Machida Zelvia",
+            "Team 2 Name": "Urawa",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/303.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/287.png",
+            "Match Title": "Machida Zelvia VS Urawa | J1 League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Machida%20Zelvia%0AVS%0AUrawa%0AJ1%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:30 PM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -272,13 +248,13 @@
         },
         {
             "Category": "Football",
-            "League": "J1 League",
-            "Team 1 Name": "Machida Zelvia",
-            "Team 2 Name": "Urawa",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/303.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/287.png",
-            "Match Title": "Machida Zelvia VS Urawa | J1 League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Machida%20Zelvia%0AVS%0AUrawa%0AJ1%20League&font=Oswald",
+            "League": "AFL Premiership",
+            "Team 1 Name": "St. Kilda Saints",
+            "Team 2 Name": "",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/4f67e4875901b9fe51a6948425dd8530.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "vs | AFL Premiership",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=vs%0AAFL%20Premiership&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "4:30 PM 22-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -502,6 +478,30 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
+            "Match Title": "Suzuka - Free Practice 1 | Super Formula",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Suzuka%20-%20Free%20Practice%201%0ASuper%20Formula&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "7:45 AM 22-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779506222-Kv4cPTAAP5YTi-ca8a544c9134819c39bd0b27a9abdeace97d0699-36d8e1c845ae33edce9b6d6bcc8e6427"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=ca8a544c9134819c39bd0b27a9abdeace97d0699&x-sign=08af04a9c4de7a8b4a35a8a0b053401b&x-time=1779419820"
+                }
+            ]
+        },
+        {
+            "Category": "Auto Racing",
+            "League": "Super Formula",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
             "Match Title": "Suzuka - Free Practice 2 | Super Formula",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Suzuka%20-%20Free%20Practice%202%0ASuper%20Formula&font=Oswald",
             "Match Status": "Upcoming",
@@ -521,21 +521,6 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=BAUHAUS%20Royal%20Rally%20of%20Scandinavia%3A%20Stage%201%0AERC&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:30 PM 22-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Auto Racing",
-            "League": "Super Formula",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Suzuka - Qualifying 1 | Super Formula",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Suzuka%20-%20Qualifying%201%0ASuper%20Formula&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "6:15 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
