@@ -3,33 +3,9 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "5:46:31 PM 22-05-2026"
+        "last_update_time": "6:01:31 PM 22-05-2026"
     },
     "channels": [
-        {
-            "Category": "Super Rugby Pacific",
-            "League": "Super Rugby Pacific",
-            "Team 1 Name": "Waratahs",
-            "Team 2 Name": "ACT Brumbies",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/386cc98af10c58c60774777107d31d6a.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/de141590ab6211432e403658dffeff4a.png",
-            "Match Title": "Waratahs VS ACT Brumbies | Super Rugby Pacific",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Waratahs%0AVS%0AACT%20Brumbies%0ASuper%20Rugby%20Pacific&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112915_abrhd.m3u8?is_vip=false&token=1779536796-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-20b8a7467eae4aa5eb7916fd97651851"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112915_abrhd.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=ff580b1db50bd8317ac9849003be3471&x-time=1779450360"
-                }
-            ]
-        },
         {
             "Category": "Baseball",
             "League": "NPB",
@@ -46,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779536802-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-14c292b242daa675c306d118dd1926a5"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779537695-Kv4cPTAAP5YTi-2163dc275a60b473aa2513df68bc9b7d41dff31b-943f2c3334af91578f99e57317001061"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=3d026c2692f981db2c386dc3fe98de0a&x-time=1779450360"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=2163dc275a60b473aa2513df68bc9b7d41dff31b&x-sign=587c0222894d55e9b56aff4083029b52&x-time=1779451260"
                 }
             ]
         },
@@ -70,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779536810-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-400a442f87b3b41c7d31ad7b87ebd3bd"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779537701-Kv4cPTAAP5YTi-2163dc275a60b473aa2513df68bc9b7d41dff31b-be8a5211fc232974b1f08af29fcdf4d0"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=d057b3997c4c65319dd1eb9c3c621ac1&x-time=1779450360"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=2163dc275a60b473aa2513df68bc9b7d41dff31b&x-sign=c6754b41f4469abf1d7af4164b87dbb3&x-time=1779451260"
                 }
             ]
         },
@@ -94,11 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779536816-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-b88ec6bdacb83b29d9e05483f02f11af"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779537708-Kv4cPTAAP5YTi-2163dc275a60b473aa2513df68bc9b7d41dff31b-31e9f6e60c6900c65da44e6e85e9557a"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=ad03b4178573ca083c99fb855020bf67&x-time=1779450360"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=2163dc275a60b473aa2513df68bc9b7d41dff31b&x-sign=700d4c29ee2132abb8239bde41c555fa&x-time=1779451260"
                 }
             ]
         },
@@ -118,11 +94,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779536824-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-043c53f82e486a30478fdbdf2411f942"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779537715-Kv4cPTAAP5YTi-2163dc275a60b473aa2513df68bc9b7d41dff31b-829d93286e49313b8da4655fa177e96d"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=1acfbb9bf9c8f980336c9c790968c22f&x-time=1779450420"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=2163dc275a60b473aa2513df68bc9b7d41dff31b&x-sign=1ab51ae3273faffa97b184961c291521&x-time=1779451260"
                 }
             ]
         },
@@ -142,11 +118,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419_abrhd.m3u8?is_vip=false&token=1779536830-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-ce9a8cb1dd7ca17f5d6a6376218b6ec2"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419_abrhd.m3u8?is_vip=false&token=1779537721-Kv4cPTAAP5YTi-2163dc275a60b473aa2513df68bc9b7d41dff31b-1fafab9bc5045157f4c1b50e87b9fbc1"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419_abrhd.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=14a1bdb6d341ed90ea0149473ade78dd&x-time=1779450420"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419_abrhd.m3u8?is_vip=false&token=2163dc275a60b473aa2513df68bc9b7d41dff31b&x-sign=7f4c4c1511d5d0e7a1693d2746ba9dae&x-time=1779451320"
                 }
             ]
         },
@@ -166,11 +142,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779536836-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-a2b77737e4d75dcb7020b0da8755bfb6"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779537729-Kv4cPTAAP5YTi-2163dc275a60b473aa2513df68bc9b7d41dff31b-457aa4a9080199342eaf4e40a05f9bd7"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=d6d46443ad9fb19d49da254635c776bc&x-time=1779450420"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=2163dc275a60b473aa2513df68bc9b7d41dff31b&x-sign=01c839e8223d5030c15e18404a4e845e&x-time=1779451320"
                 }
             ]
         },
@@ -190,11 +166,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779536842-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-0b4267030441188fe19f08b470b04875"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779537736-Kv4cPTAAP5YTi-2163dc275a60b473aa2513df68bc9b7d41dff31b-a807ccd9129504daa668051d6af22e6c"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=ce94f058c30ae261eb55ccce4a1cbf8d&x-time=1779450420"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=2163dc275a60b473aa2513df68bc9b7d41dff31b&x-sign=ae6e9d4f3f35942ca4e1b304f4ec0b9d&x-time=1779451320"
                 }
             ]
         },
@@ -214,11 +190,35 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779536848-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-3b5f036666820b60bfee768d94d39025"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779537742-Kv4cPTAAP5YTi-2163dc275a60b473aa2513df68bc9b7d41dff31b-4625e2360a5908df873f761078b1650d"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=16f929abe750a43e2fe7efc887872ce5&x-time=1779450420"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=2163dc275a60b473aa2513df68bc9b7d41dff31b&x-sign=039cfe8f7e07f67c462f8e40390a317d&x-time=1779451320"
+                }
+            ]
+        },
+        {
+            "Category": "Tennis",
+            "League": "WTA 250",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Rabat (Day 5) | WTA 250",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Rabat%20(Day%205)%0AWTA%20250&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779537749-Kv4cPTAAP5YTi-2163dc275a60b473aa2513df68bc9b7d41dff31b-5f81f79899f52cdc791912a059038243"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=2163dc275a60b473aa2513df68bc9b7d41dff31b&x-sign=05979ad04853dd41cc53454cec0ca666&x-time=1779451320"
                 }
             ]
         },
@@ -390,12 +390,12 @@
         {
             "Category": "Football",
             "League": "J1 League",
-            "Team 1 Name": "Sanfrecce Hiroshima",
-            "Team 2 Name": "Nagoya Grampus",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/282.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/288.png",
-            "Match Title": "Sanfrecce Hiroshima VS Nagoya Grampus | J1 League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Sanfrecce%20Hiroshima%0AVS%0ANagoya%20Grampus%0AJ1%20League&font=Oswald",
+            "Team 1 Name": "Avispa Fukuoka",
+            "Team 2 Name": "Vissel Kobe",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/316.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/289.png",
+            "Match Title": "Avispa Fukuoka VS Vissel Kobe | J1 League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Avispa%20Fukuoka%0AVS%0AVissel%20Kobe%0AJ1%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -405,12 +405,12 @@
         {
             "Category": "Football",
             "League": "J1 League",
-            "Team 1 Name": "Avispa Fukuoka",
-            "Team 2 Name": "Vissel Kobe",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/316.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/289.png",
-            "Match Title": "Avispa Fukuoka VS Vissel Kobe | J1 League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Avispa%20Fukuoka%0AVS%0AVissel%20Kobe%0AJ1%20League&font=Oswald",
+            "Team 1 Name": "Sanfrecce Hiroshima",
+            "Team 2 Name": "Nagoya Grampus",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/282.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/288.png",
+            "Match Title": "Sanfrecce Hiroshima VS Nagoya Grampus | J1 League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Sanfrecce%20Hiroshima%0AVS%0ANagoya%20Grampus%0AJ1%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -479,30 +479,6 @@
         },
         {
             "Category": "Tennis",
-            "League": "WTA 250",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Rabat (Day 5) | WTA 250",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Rabat%20(Day%205)%0AWTA%20250&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "6:00 PM 22-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779536855-Kv4cPTAAP5YTi-bce093c9dc1c93ee90e7a00524b0afacd23b5592-dc06a95aa1d54aa184aa88a854c6a0c4"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=bce093c9dc1c93ee90e7a00524b0afacd23b5592&x-sign=8747d73b2bd07a88de488f8f0017a7d2&x-time=1779450420"
-                }
-            ]
-        },
-        {
-            "Category": "Tennis",
             "League": "Strasbourg Open",
             "Team 1 Name": "",
             "Team 2 Name": "",
@@ -547,16 +523,16 @@
             "Stream URL": []
         },
         {
-            "Category": "Baseball",
-            "League": "NPB",
-            "Team 1 Name": "YOKOHAMA DeNA BAYSTARS",
-            "Team 2 Name": "Tokyo Yakult Swallows",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e3e7ae8a15936419522e36aac0f7faea.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
-            "Match Title": "YOKOHAMA DeNA BAYSTARS VS Tokyo Yakult Swallows | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=YOKOHAMA%20DeNA%20BAYSTARS%0AVS%0ATokyo%20Yakult%20Swallows%0ANPB&font=Oswald",
+            "Category": "Basketball",
+            "League": "Next Gen Euroleague",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "U18 Crvena Zvezda Belgrade VS U18 Zalgiris Kaunas | Next Gen Euroleague",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=U18%20Crvena%20Zvezda%20Belgrade%0AVS%0AU18%20Zalgiris%20Kaunas%0ANext%20Gen%20Euroleague&font=Oswald",
             "Match Status": "Upcoming",
-            "Start Time": "11:00 AM 23-05-2026",
+            "Start Time": "3:15 PM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -570,6 +546,21 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
             "Match Title": "Fukuoka SoftBank Hawks VS Hokkaido Nippon-Ham Fighters | NPB",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AHokkaido%20Nippon-Ham%20Fighters%0ANPB&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 23-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Baseball",
+            "League": "NPB",
+            "Team 1 Name": "YOKOHAMA DeNA BAYSTARS",
+            "Team 2 Name": "Tokyo Yakult Swallows",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e3e7ae8a15936419522e36aac0f7faea.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
+            "Match Title": "YOKOHAMA DeNA BAYSTARS VS Tokyo Yakult Swallows | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=YOKOHAMA%20DeNA%20BAYSTARS%0AVS%0ATokyo%20Yakult%20Swallows%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
