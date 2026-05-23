@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:31:25 AM 24-05-2026"
+        "last_update_time": "12:46:28 AM 24-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=5962566e8234c14f22c0684b844fc60f879617d3&x-sign=5b379dba30ccd8403ce8e680516003b2&x-time=1779561060"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=e493835f7bfb810839ae917e87d075645ae9c76c&x-sign=e50f0429861544f29b45b12811ec8cb6&x-time=1779561960"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779647489-Kv4cPTAAP5YTi-5962566e8234c14f22c0684b844fc60f879617d3-8e6425dc493233a381fcc9f3d61c8d30"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779648393-Kv4cPTAAP5YTi-e493835f7bfb810839ae917e87d075645ae9c76c-21c5f170c933adce32d16e989602784e"
                 }
             ]
         },
@@ -46,7 +46,7 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=5962566e8234c14f22c0684b844fc60f879617d3&x-sign=0599e1200b13bae38a8e5bd0b17750e6&x-time=1779561060"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=e493835f7bfb810839ae917e87d075645ae9c76c&x-sign=27cc3d06fe62a5e8e77586a5a7ed79f9&x-time=1779561960"
                 }
             ]
         },
@@ -66,7 +66,55 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=5962566e8234c14f22c0684b844fc60f879617d3&x-sign=aa3d604176e25965ddf628811bf49db8&x-time=1779561060"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=e493835f7bfb810839ae917e87d075645ae9c76c&x-sign=b211c1cc3a820619700057b1377babc7&x-time=1779561960"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Serie A",
+            "Team 1 Name": "Lazio",
+            "Team 2 Name": "Pisa",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/487.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/801.png",
+            "Match Title": "Lazio VS Pisa | Serie A",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Lazio%0AVS%0APisa%0ASerie%20A&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=e493835f7bfb810839ae917e87d075645ae9c76c&x-sign=013c33e40a5b35f2c34d09daf5287fb8&x-time=1779561960"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779648410-Kv4cPTAAP5YTi-e493835f7bfb810839ae917e87d075645ae9c76c-b60487b7b7179a0bdcf93ec93c31c31f"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "Jupiler Pro League",
+            "Team 1 Name": "OH Leuven",
+            "Team 2 Name": "Genk",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/260.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/742.png",
+            "Match Title": "OH Leuven VS Genk | Jupiler Pro League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=OH%20Leuven%0AVS%0AGenk%0AJupiler%20Pro%20League&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779648415-Kv4cPTAAP5YTi-e493835f7bfb810839ae917e87d075645ae9c76c-da95184f3cc1021a2461610b6837788d"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=e493835f7bfb810839ae917e87d075645ae9c76c&x-sign=9b78166b9168e02b0b2d65532250a3a4&x-time=1779561960"
                 }
             ]
         },
@@ -79,11 +127,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/529.png",
             "Match Title": "Valencia VS Barcelona | La Liga",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Valencia%0AVS%0ABarcelona%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "1:00 AM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=e493835f7bfb810839ae917e87d075645ae9c76c&x-sign=0020a698213a6be54cfd3432c0751cdb&x-time=1779562020"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=1779648422-Kv4cPTAAP5YTi-e493835f7bfb810839ae917e87d075645ae9c76c-73b888c025af5c391cad680c54f20cc1"
+                }
+            ]
         },
         {
             "Category": "La Liga",
@@ -94,11 +151,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/531.png",
             "Match Title": "Real Madrid VS Athletic Club | La Liga",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Real%20Madrid%0AVS%0AAthletic%20Club%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "1:00 AM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779648427-Kv4cPTAAP5YTi-e493835f7bfb810839ae917e87d075645ae9c76c-01e0346cba3429e0e331b1823f3a2b0d"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=e493835f7bfb810839ae917e87d075645ae9c76c&x-sign=03810afa7f6b35f9db67d082391f959c&x-time=1779562020"
+                }
+            ]
         },
         {
             "Category": "Premier League",
@@ -177,49 +243,97 @@
         },
         {
             "Category": "Football",
-            "League": "Serie A",
-            "Team 1 Name": "Lazio",
-            "Team 2 Name": "Pisa",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/487.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/801.png",
-            "Match Title": "Lazio VS Pisa | Serie A",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Lazio%0AVS%0APisa%0ASerie%20A&font=Oswald",
+            "League": "La Liga",
+            "Team 1 Name": "Alaves",
+            "Team 2 Name": "Rayo Vallecano",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/542.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/728.png",
+            "Match Title": "Alaves VS Rayo Vallecano | La Liga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Alaves%0AVS%0ARayo%20Vallecano%0ALa%20Liga&font=Oswald",
             "Match Status": "Live",
-            "Start Time": "12:45 AM 24-05-2026",
+            "Start Time": "1:00 AM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=5962566e8234c14f22c0684b844fc60f879617d3&x-sign=56a046de2424ff51093d4fde0f11a0fc&x-time=1779561060"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779648434-Kv4cPTAAP5YTi-e493835f7bfb810839ae917e87d075645ae9c76c-577193981ec960adf9993522bacaec97"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779647503-Kv4cPTAAP5YTi-5962566e8234c14f22c0684b844fc60f879617d3-38599605e09ffbea1fbe49e129baaff4"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=e493835f7bfb810839ae917e87d075645ae9c76c&x-sign=c0dc5d46778ab6631b3c5fcae12a1550&x-time=1779562020"
                 }
             ]
         },
         {
             "Category": "Football",
-            "League": "Jupiler Pro League",
-            "Team 1 Name": "OH Leuven",
-            "Team 2 Name": "Genk",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/260.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/742.png",
-            "Match Title": "OH Leuven VS Genk | Jupiler Pro League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=OH%20Leuven%0AVS%0AGenk%0AJupiler%20Pro%20League&font=Oswald",
+            "League": "La Liga",
+            "Team 1 Name": "Real Betis",
+            "Team 2 Name": "Levante",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/543.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/539.png",
+            "Match Title": "Real Betis VS Levante | La Liga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Real%20Betis%0AVS%0ALevante%0ALa%20Liga&font=Oswald",
             "Match Status": "Live",
-            "Start Time": "12:45 AM 24-05-2026",
+            "Start Time": "1:00 AM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779647507-Kv4cPTAAP5YTi-5962566e8234c14f22c0684b844fc60f879617d3-dcef940e46d8739c3e8550e0a40971f7"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779648441-Kv4cPTAAP5YTi-e493835f7bfb810839ae917e87d075645ae9c76c-7f5affa069f05c9bd264fbd960266735"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=5962566e8234c14f22c0684b844fc60f879617d3&x-sign=c06b77b5895cf2c08ed2095fa36ad048&x-time=1779561060"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=e493835f7bfb810839ae917e87d075645ae9c76c&x-sign=d2573649714d5ec19e3951106652aad2&x-time=1779562020"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "La Liga",
+            "Team 1 Name": "Girona",
+            "Team 2 Name": "Elche",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/547.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/797.png",
+            "Match Title": "Girona VS Elche | La Liga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Girona%0AVS%0AElche%0ALa%20Liga&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "1:00 AM 24-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779648450-Kv4cPTAAP5YTi-e493835f7bfb810839ae917e87d075645ae9c76c-febb185b1f05ef79f3df22d684ebf361"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=e493835f7bfb810839ae917e87d075645ae9c76c&x-sign=19ca7b710f40104aecc75df368ad1a44&x-time=1779562020"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "League": "La Liga",
+            "Team 1 Name": "Getafe",
+            "Team 2 Name": "Osasuna",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/546.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/727.png",
+            "Match Title": "Getafe VS Osasuna | La Liga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Getafe%0AVS%0AOsasuna%0ALa%20Liga&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "1:00 AM 24-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=e493835f7bfb810839ae917e87d075645ae9c76c&x-sign=1bda797545b2b5c915ce183e15e26f8e&x-time=1779562020"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779648459-Kv4cPTAAP5YTi-e493835f7bfb810839ae917e87d075645ae9c76c-3920aea05599478d9ef73236c181e4fb"
                 }
             ]
         },
@@ -232,41 +346,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/548.png",
             "Match Title": "Espanyol VS Real Sociedad | La Liga",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Espanyol%0AVS%0AReal%20Sociedad%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "1:00 AM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Getafe",
-            "Team 2 Name": "Osasuna",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/546.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/727.png",
-            "Match Title": "Getafe VS Osasuna | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Getafe%0AVS%0AOsasuna%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "1:00 AM 24-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Girona",
-            "Team 2 Name": "Elche",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/547.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/797.png",
-            "Match Title": "Girona VS Elche | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Girona%0AVS%0AElche%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "1:00 AM 24-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779648465-Kv4cPTAAP5YTi-e493835f7bfb810839ae917e87d075645ae9c76c-f5e5e4ffebcbb15124075a6aa1a4e709"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=e493835f7bfb810839ae917e87d075645ae9c76c&x-sign=e2b2528b08ef359321c0aab7b2deac06&x-time=1779562020"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -277,41 +370,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/536.png",
             "Match Title": "Celta Vigo VS Sevilla | La Liga",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Celta%20Vigo%0AVS%0ASevilla%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "1:00 AM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Real Betis",
-            "Team 2 Name": "Levante",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/543.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/539.png",
-            "Match Title": "Real Betis VS Levante | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Real%20Betis%0AVS%0ALevante%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "1:00 AM 24-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Alaves",
-            "Team 2 Name": "Rayo Vallecano",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/542.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/728.png",
-            "Match Title": "Alaves VS Rayo Vallecano | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Alaves%0AVS%0ARayo%20Vallecano%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "1:00 AM 24-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779648472-Kv4cPTAAP5YTi-e493835f7bfb810839ae917e87d075645ae9c76c-ae9d31b3c3e57c6c23195afa58421bd6"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=e493835f7bfb810839ae917e87d075645ae9c76c&x-sign=fa60e0ba020962c8883e05c24d2dc1ba&x-time=1779562020"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -322,11 +394,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/718.png",
             "Match Title": "Mallorca VS Oviedo | La Liga",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Mallorca%0AVS%0AOviedo%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "1:00 AM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779648478-Kv4cPTAAP5YTi-e493835f7bfb810839ae917e87d075645ae9c76c-7ca5dddcbc7b91025cd80c36fde4e67f"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=e493835f7bfb810839ae917e87d075645ae9c76c&x-sign=4141b6e45a1cfddfb2061c08d864aa3c&x-time=1779562020"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -376,12 +457,12 @@
         {
             "Category": "Football",
             "League": "J1 League",
-            "Team 1 Name": "Tokyo Verdy",
-            "Team 2 Name": "Yokohama F. Marinos",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/306.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/296.png",
-            "Match Title": "Tokyo Verdy VS Yokohama F. Marinos | J1 League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Verdy%0AVS%0AYokohama%20F.%20Marinos%0AJ1%20League&font=Oswald",
+            "Team 1 Name": "Mito Hollyhock",
+            "Team 2 Name": "Kawasaki Frontale",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/305.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/294.png",
+            "Match Title": "Mito Hollyhock VS Kawasaki Frontale | J1 League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Mito%20Hollyhock%0AVS%0AKawasaki%20Frontale%0AJ1%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -391,12 +472,12 @@
         {
             "Category": "Football",
             "League": "J1 League",
-            "Team 1 Name": "Mito Hollyhock",
-            "Team 2 Name": "Kawasaki Frontale",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/305.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/294.png",
-            "Match Title": "Mito Hollyhock VS Kawasaki Frontale | J1 League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Mito%20Hollyhock%0AVS%0AKawasaki%20Frontale%0AJ1%20League&font=Oswald",
+            "Team 1 Name": "Tokyo Verdy",
+            "Team 2 Name": "Yokohama F. Marinos",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/306.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/296.png",
+            "Match Title": "Tokyo Verdy VS Yokohama F. Marinos | J1 League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Verdy%0AVS%0AYokohama%20F.%20Marinos%0AJ1%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -451,6 +532,21 @@
         {
             "Category": "Football",
             "League": "Premier League",
+            "Team 1 Name": "Fulham",
+            "Team 2 Name": "Newcastle",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/36.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/0abaa93e6dc3fa76b7d34f7edcfb686b.png",
+            "Match Title": "Fulham VS Newcastle | Premier League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fulham%0AVS%0ANewcastle%0APremier%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "9:00 PM 24-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "Premier League",
             "Team 1 Name": "Brighton",
             "Team 2 Name": "Manchester United",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/51.png",
@@ -496,21 +592,6 @@
         {
             "Category": "Football",
             "League": "Premier League",
-            "Team 1 Name": "Fulham",
-            "Team 2 Name": "Newcastle",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/36.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/0abaa93e6dc3fa76b7d34f7edcfb686b.png",
-            "Match Title": "Fulham VS Newcastle | Premier League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fulham%0AVS%0ANewcastle%0APremier%20League&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "9:00 PM 24-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "Premier League",
             "Team 1 Name": "Liverpool",
             "Team 2 Name": "Brentford",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/40.png",
@@ -525,13 +606,13 @@
         },
         {
             "Category": "Football",
-            "League": "Eredivisie",
-            "Team 1 Name": "Ajax",
-            "Team 2 Name": "Utrecht",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/194.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/207.png",
-            "Match Title": "Ajax VS Utrecht | Eredivisie",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Ajax%0AVS%0AUtrecht%0AEredivisie&font=Oswald",
+            "League": "Serie A",
+            "Team 1 Name": "Napoli",
+            "Team 2 Name": "Udinese",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/492.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/494.png",
+            "Match Title": "Napoli VS Udinese | Serie A",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Napoli%0AVS%0AUdinese%0ASerie%20A&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -555,13 +636,13 @@
         },
         {
             "Category": "Football",
-            "League": "Serie A",
-            "Team 1 Name": "Napoli",
-            "Team 2 Name": "Udinese",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/492.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/494.png",
-            "Match Title": "Napoli VS Udinese | Serie A",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Napoli%0AVS%0AUdinese%0ASerie%20A&font=Oswald",
+            "League": "Eredivisie",
+            "Team 1 Name": "Ajax",
+            "Team 2 Name": "Utrecht",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/194.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/207.png",
+            "Match Title": "Ajax VS Utrecht | Eredivisie",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Ajax%0AVS%0AUtrecht%0AEredivisie&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -579,6 +660,36 @@
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Sporting%20CP%0AVS%0ATorreense%0ATa%C3%A7a%20de%20Portugal&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "10:15 PM 24-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "Jupiler Pro League",
+            "Team 1 Name": "St. Truiden",
+            "Team 2 Name": "KV Mechelen",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/735.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/266.png",
+            "Match Title": "St. Truiden VS KV Mechelen | Jupiler Pro League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=St.%20Truiden%0AVS%0AKV%20Mechelen%0AJupiler%20Pro%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "10:30 PM 24-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "Canadian Premier League",
+            "Team 1 Name": "Atlético Ottawa",
+            "Team 2 Name": "Forge",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10169.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3830.png",
+            "Match Title": "Atlético Ottawa VS Forge | Canadian Premier League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Atl%C3%A9tico%20Ottawa%0AVS%0AForge%0ACanadian%20Premier%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "12:00 AM 25-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
