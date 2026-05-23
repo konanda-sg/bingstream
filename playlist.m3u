@@ -3,80 +3,80 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:01:31 PM 23-05-2026
+#last update time: 11:16:28 PM 23-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bologna%0AVS%0AInter%0ASerie%20A&font=Oswald" group-title="Serie A", Bologna VS Inter | Serie A [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779642094-Kv4cPTAAP5YTi-12866e50962ee5c95c03e3f2c58d3c0c044a7365-88babfcad2946ec8c5989b81f9b2757d
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779642991-Kv4cPTAAP5YTi-30ae76179bd7dca9934fe4457709c059332de96f-fd0d2a3f412fca066863fccbcb642550
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bologna%0AVS%0AInter%0ASerie%20A&font=Oswald" group-title="Serie A", Bologna VS Inter | Serie A [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=12866e50962ee5c95c03e3f2c58d3c0c044a7365&x-sign=353147f0d68651e759409fdcd58a2814&x-time=1779555660
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=c73c72c41f91bcc8a65545ea4d1cd7ce&x-time=1779556560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gornik%20Zabrze%0AVS%0ARadomiak%20Radom%0AEkstraklasa&font=Oswald" group-title="Football", Gornik Zabrze VS Radomiak Radom | Ekstraklasa [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274843_abrhd.m3u8?is_vip=false&token=1779642101-Kv4cPTAAP5YTi-12866e50962ee5c95c03e3f2c58d3c0c044a7365-c881acd704d9c902e01280e5de3faa32
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274843_abrhd.m3u8?is_vip=false&token=1779642997-Kv4cPTAAP5YTi-30ae76179bd7dca9934fe4457709c059332de96f-cf1d78dda19c5a2b8773a5bbed6364a3
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gornik%20Zabrze%0AVS%0ARadomiak%20Radom%0AEkstraklasa&font=Oswald" group-title="Football", Gornik Zabrze VS Radomiak Radom | Ekstraklasa [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274843_abrhd.m3u8?is_vip=false&token=12866e50962ee5c95c03e3f2c58d3c0c044a7365&x-sign=990be099d121f1deb70b966a799a6b6a&x-time=1779555660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274843_abrhd.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=2320c5e094d4efce4afbea5f7c5f2a3a&x-time=1779556560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lech%20Poznan%0AVS%0AWisla%20Plock%0AEkstraklasa&font=Oswald" group-title="Football", Lech Poznan VS Wisla Plock | Ekstraklasa [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274845_abrhd.m3u8?is_vip=false&token=1779642107-Kv4cPTAAP5YTi-12866e50962ee5c95c03e3f2c58d3c0c044a7365-4fedd33a7bac6ec79aedac2161a7be8d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274845_abrhd.m3u8?is_vip=false&token=1779643002-Kv4cPTAAP5YTi-30ae76179bd7dca9934fe4457709c059332de96f-9088e6f20bd5b04287e2e4a8cfbf9dd8
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lech%20Poznan%0AVS%0AWisla%20Plock%0AEkstraklasa&font=Oswald" group-title="Football", Lech Poznan VS Wisla Plock | Ekstraklasa [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274845_abrhd.m3u8?is_vip=false&token=12866e50962ee5c95c03e3f2c58d3c0c044a7365&x-sign=3bae74cdc27501731e5d1b8f3d7e7f28&x-time=1779555660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274845_abrhd.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=d79fda6889638ad97ad97525945c5caf&x-time=1779556560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Legia%20Warszawa%0AVS%0AMotor%20Lublin%0AEkstraklasa&font=Oswald" group-title="Football", Legia Warszawa VS Motor Lublin | Ekstraklasa [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=1779642115-Kv4cPTAAP5YTi-12866e50962ee5c95c03e3f2c58d3c0c044a7365-2af0743132e97afb4bae3f89c8d90041
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=1779643008-Kv4cPTAAP5YTi-30ae76179bd7dca9934fe4457709c059332de96f-7dfad22049892cf6c48deffab6b4c076
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Legia%20Warszawa%0AVS%0AMotor%20Lublin%0AEkstraklasa&font=Oswald" group-title="Football", Legia Warszawa VS Motor Lublin | Ekstraklasa [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=12866e50962ee5c95c03e3f2c58d3c0c044a7365&x-sign=0075e803a8722d44d1ff7f095fe690e1&x-time=1779555660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=6cd7d033f0df80e68babfd16e41324d4&x-time=1779556560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rak%C3%B3w%20Cz%C4%99stochowa%0AVS%0AArka%20Gdynia%0AEkstraklasa&font=Oswald" group-title="Ekstraklasa", Raków Częstochowa VS Arka Gdynia | Ekstraklasa [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274842_abrhd.m3u8?is_vip=false&token=1779642122-Kv4cPTAAP5YTi-12866e50962ee5c95c03e3f2c58d3c0c044a7365-8b6a156be17a18db98c3115aa8aa842c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274842_abrhd.m3u8?is_vip=false&token=1779643014-Kv4cPTAAP5YTi-30ae76179bd7dca9934fe4457709c059332de96f-4e68d727bbab6a5d79f1655be654bcbf
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rak%C3%B3w%20Cz%C4%99stochowa%0AVS%0AArka%20Gdynia%0AEkstraklasa&font=Oswald" group-title="Ekstraklasa", Raków Częstochowa VS Arka Gdynia | Ekstraklasa [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274842_abrhd.m3u8?is_vip=false&token=12866e50962ee5c95c03e3f2c58d3c0c044a7365&x-sign=d9b5600906af273f359866278899fb3e&x-time=1779555720
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274842_abrhd.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=a8ff636df61a6cfdace4c4d43223586b&x-time=1779556560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=APFC%3A%20IFL%201%0AMMA&font=Oswald" group-title="MMA", APFC: IFL 1 | MMA [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=1779642129-Kv4cPTAAP5YTi-12866e50962ee5c95c03e3f2c58d3c0c044a7365-342bd7283b5c20715e40fcfee4fbc932
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=1779643019-Kv4cPTAAP5YTi-30ae76179bd7dca9934fe4457709c059332de96f-28ca02685845ca697a74b1de4f7c9f57
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=APFC%3A%20IFL%201%0AMMA&font=Oswald" group-title="MMA", APFC: IFL 1 | MMA [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=12866e50962ee5c95c03e3f2c58d3c0c044a7365&x-sign=01a53a079df448ee4162726b901c01b3&x-time=1779555720
+https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=7079cc61dd76a1c471411ef65ebb3dfe&x-time=1779556620
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%20W%0AVS%0ALyon%20W%0AUEFA%20Champions%20League%20Women&font=Oswald" group-title="Football", Barcelona W VS Lyon W | UEFA Champions League Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779642136-Kv4cPTAAP5YTi-12866e50962ee5c95c03e3f2c58d3c0c044a7365-40c70429828772b9bbdcbd6f358fa6b1
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779643025-Kv4cPTAAP5YTi-30ae76179bd7dca9934fe4457709c059332de96f-9742d4d7db394f6701bb0743ec321038
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%20W%0AVS%0ALyon%20W%0AUEFA%20Champions%20League%20Women&font=Oswald" group-title="Football", Barcelona W VS Lyon W | UEFA Champions League Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=12866e50962ee5c95c03e3f2c58d3c0c044a7365&x-sign=dbad42927a4aff00d6662a1c1f37b47f&x-time=1779555720
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=4e46726631dc682989a80c968755c760&x-time=1779556620
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=12866e50962ee5c95c03e3f2c58d3c0c044a7365&x-sign=9f51542fc5b9dd6c6979614b6bed1b1d&x-time=1779555720
+https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=d120f6e7c989739437874d199e5fa0bd&x-time=1779556620
 
