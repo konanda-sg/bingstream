@@ -3,40 +3,40 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:46:30 PM 23-05-2026
+#last update time: 12:01:26 AM 24-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bologna%0AVS%0AInter%0ASerie%20A&font=Oswald" group-title="Serie A", Bologna VS Inter | Serie A [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779644793-Kv4cPTAAP5YTi-3fbff9deb730b98f06b447ed9cf20d7c60c61390-4faed5bd04627d8b718f44ea636d4a9b
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779645689-Kv4cPTAAP5YTi-7fcc9979c3e6756400a9b6cac880f628fa78f094-eb6ba67e2d6a6974eb040c6db5f02c10
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bologna%0AVS%0AInter%0ASerie%20A&font=Oswald" group-title="Serie A", Bologna VS Inter | Serie A [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=3fbff9deb730b98f06b447ed9cf20d7c60c61390&x-sign=a2d708dcd80f8d0a6a63c03d5933c300&x-time=1779558360
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%20W%0AVS%0ALyon%20W%0AUEFA%20Champions%20League%20Women&font=Oswald" group-title="Football", Barcelona W VS Lyon W | UEFA Champions League Women [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779644799-Kv4cPTAAP5YTi-3fbff9deb730b98f06b447ed9cf20d7c60c61390-9fbd7df7b16169ecfe59d76354495cc0
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%20W%0AVS%0ALyon%20W%0AUEFA%20Champions%20League%20Women&font=Oswald" group-title="Football", Barcelona W VS Lyon W | UEFA Champions League Women [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=3fbff9deb730b98f06b447ed9cf20d7c60c61390&x-sign=6c01d030c2f41e0d6dc0861d5698b5b3&x-time=1779558360
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=3fbff9deb730b98f06b447ed9cf20d7c60c61390&x-sign=5a9053c60504be2517cf471da078af44&x-time=1779558360
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=7fcc9979c3e6756400a9b6cac880f628fa78f094&x-sign=7527e36d70418aa7934f4e0b9c9518f3&x-time=1779559260
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bayern%20M%C3%BCnchen%0AVS%0AVfB%20Stuttgart%0ADFB%20Pokal&font=Oswald" group-title="DFB Pokal", Bayern München VS VfB Stuttgart | DFB Pokal [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=3fbff9deb730b98f06b447ed9cf20d7c60c61390&x-sign=d68ea2c7c2e93234628bde7f10658549&x-time=1779558360
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=7fcc9979c3e6756400a9b6cac880f628fa78f094&x-sign=1bea4ee573afdbc49434bba7e82b0180&x-time=1779559260
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bayern%20M%C3%BCnchen%0AVS%0AVfB%20Stuttgart%0ADFB%20Pokal&font=Oswald" group-title="DFB Pokal", Bayern München VS VfB Stuttgart | DFB Pokal [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779644811-Kv4cPTAAP5YTi-3fbff9deb730b98f06b447ed9cf20d7c60c61390-ca2a8b28cad70ee02d497d68983179fd
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779645695-Kv4cPTAAP5YTi-7fcc9979c3e6756400a9b6cac880f628fa78f094-32427f875a14445763e503d8c21c7bf5
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%20W%0AVS%0ALyon%20W%0AUEFA%20Champions%20League%20Women&font=Oswald" group-title="Football", Barcelona W VS Lyon W | UEFA Champions League Women [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779645700-Kv4cPTAAP5YTi-7fcc9979c3e6756400a9b6cac880f628fa78f094-5c1c609ef5f3c75280af504c85028194
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%20W%0AVS%0ALyon%20W%0AUEFA%20Champions%20League%20Women&font=Oswald" group-title="Football", Barcelona W VS Lyon W | UEFA Champions League Women [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=7fcc9979c3e6756400a9b6cac880f628fa78f094&x-sign=e784feed553d7a03b737166e657f4fd8&x-time=1779559260
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=7fcc9979c3e6756400a9b6cac880f628fa78f094&x-sign=260484ac3d62d0ed1c4151f3a8aff90c&x-time=1779559260
 

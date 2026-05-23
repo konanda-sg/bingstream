@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:46:30 PM 23-05-2026"
+        "last_update_time": "12:01:26 AM 24-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,35 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779644793-Kv4cPTAAP5YTi-3fbff9deb730b98f06b447ed9cf20d7c60c61390-4faed5bd04627d8b718f44ea636d4a9b"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779645689-Kv4cPTAAP5YTi-7fcc9979c3e6756400a9b6cac880f628fa78f094-eb6ba67e2d6a6974eb040c6db5f02c10"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=3fbff9deb730b98f06b447ed9cf20d7c60c61390&x-sign=a2d708dcd80f8d0a6a63c03d5933c300&x-time=1779558360"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=7fcc9979c3e6756400a9b6cac880f628fa78f094&x-sign=7527e36d70418aa7934f4e0b9c9518f3&x-time=1779559260"
+                }
+            ]
+        },
+        {
+            "Category": "DFB Pokal",
+            "League": "DFB Pokal",
+            "Team 1 Name": "Bayern München",
+            "Team 2 Name": "VfB Stuttgart",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/157.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/172.png",
+            "Match Title": "Bayern München VS VfB Stuttgart | DFB Pokal",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Bayern%20M%C3%BCnchen%0AVS%0AVfB%20Stuttgart%0ADFB%20Pokal&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=7fcc9979c3e6756400a9b6cac880f628fa78f094&x-sign=1bea4ee573afdbc49434bba7e82b0180&x-time=1779559260"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779645695-Kv4cPTAAP5YTi-7fcc9979c3e6756400a9b6cac880f628fa78f094-32427f875a14445763e503d8c21c7bf5"
                 }
             ]
         },
@@ -46,11 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779644799-Kv4cPTAAP5YTi-3fbff9deb730b98f06b447ed9cf20d7c60c61390-9fbd7df7b16169ecfe59d76354495cc0"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779645700-Kv4cPTAAP5YTi-7fcc9979c3e6756400a9b6cac880f628fa78f094-5c1c609ef5f3c75280af504c85028194"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=3fbff9deb730b98f06b447ed9cf20d7c60c61390&x-sign=6c01d030c2f41e0d6dc0861d5698b5b3&x-time=1779558360"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=7fcc9979c3e6756400a9b6cac880f628fa78f094&x-sign=e784feed553d7a03b737166e657f4fd8&x-time=1779559260"
                 }
             ]
         },
@@ -70,31 +94,7 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=3fbff9deb730b98f06b447ed9cf20d7c60c61390&x-sign=5a9053c60504be2517cf471da078af44&x-time=1779558360"
-                }
-            ]
-        },
-        {
-            "Category": "DFB Pokal",
-            "League": "DFB Pokal",
-            "Team 1 Name": "Bayern München",
-            "Team 2 Name": "VfB Stuttgart",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/157.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/172.png",
-            "Match Title": "Bayern München VS VfB Stuttgart | DFB Pokal",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Bayern%20M%C3%BCnchen%0AVS%0AVfB%20Stuttgart%0ADFB%20Pokal&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "12:00 AM 24-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=3fbff9deb730b98f06b447ed9cf20d7c60c61390&x-sign=d68ea2c7c2e93234628bde7f10658549&x-time=1779558360"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779644811-Kv4cPTAAP5YTi-3fbff9deb730b98f06b447ed9cf20d7c60c61390-ca2a8b28cad70ee02d497d68983179fd"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=7fcc9979c3e6756400a9b6cac880f628fa78f094&x-sign=260484ac3d62d0ed1c4151f3a8aff90c&x-time=1779559260"
                 }
             ]
         },
@@ -190,6 +190,21 @@
         },
         {
             "Category": "Football",
+            "League": "Premier League",
+            "Team 1 Name": "Nottingham Forest",
+            "Team 2 Name": "Bournemouth",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/65.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/35.png",
+            "Match Title": "Nottingham Forest VS Bournemouth | Premier League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Nottingham%20Forest%0AVS%0ABournemouth%0APremier%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "9:00 PM 24-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
             "League": "Serie A",
             "Team 1 Name": "Lazio",
             "Team 2 Name": "Pisa",
@@ -221,6 +236,21 @@
         {
             "Category": "Football",
             "League": "La Liga",
+            "Team 1 Name": "Espanyol",
+            "Team 2 Name": "Real Sociedad",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/540.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/548.png",
+            "Match Title": "Espanyol VS Real Sociedad | La Liga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Espanyol%0AVS%0AReal%20Sociedad%0ALa%20Liga&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "1:00 AM 24-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "La Liga",
             "Team 1 Name": "Getafe",
             "Team 2 Name": "Osasuna",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/546.png",
@@ -242,21 +272,6 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/797.png",
             "Match Title": "Girona VS Elche | La Liga",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Girona%0AVS%0AElche%0ALa%20Liga&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "1:00 AM 24-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Espanyol",
-            "Team 2 Name": "Real Sociedad",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/540.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/548.png",
-            "Match Title": "Espanyol VS Real Sociedad | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Espanyol%0AVS%0AReal%20Sociedad%0ALa%20Liga&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "1:00 AM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -520,15 +535,15 @@
         },
         {
             "Category": "Football",
-            "League": "Premier League",
-            "Team 1 Name": "Nottingham Forest",
-            "Team 2 Name": "Bournemouth",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/65.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/35.png",
-            "Match Title": "Nottingham Forest VS Bournemouth | Premier League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Nottingham%20Forest%0AVS%0ABournemouth%0APremier%20League&font=Oswald",
+            "League": "Eredivisie",
+            "Team 1 Name": "Ajax",
+            "Team 2 Name": "Utrecht",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/194.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/207.png",
+            "Match Title": "Ajax VS Utrecht | Eredivisie",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Ajax%0AVS%0AUtrecht%0AEredivisie&font=Oswald",
             "Match Status": "Upcoming",
-            "Start Time": "9:00 PM 24-05-2026",
+            "Start Time": "10:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -565,15 +580,15 @@
         },
         {
             "Category": "Football",
-            "League": "Eredivisie",
-            "Team 1 Name": "Ajax",
-            "Team 2 Name": "Utrecht",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/194.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/207.png",
-            "Match Title": "Ajax VS Utrecht | Eredivisie",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Ajax%0AVS%0AUtrecht%0AEredivisie&font=Oswald",
+            "League": "Taça de Portugal",
+            "Team 1 Name": "Sporting CP",
+            "Team 2 Name": "Torreense",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/228.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4799.png",
+            "Match Title": "Sporting CP VS Torreense | Taça de Portugal",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Sporting%20CP%0AVS%0ATorreense%0ATa%C3%A7a%20de%20Portugal&font=Oswald",
             "Match Status": "Upcoming",
-            "Start Time": "10:00 PM 24-05-2026",
+            "Start Time": "10:15 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
