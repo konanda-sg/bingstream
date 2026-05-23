@@ -3,25 +3,35 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 6:01:30 AM 23-05-2026
+#last update time: 6:16:29 AM 23-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Jones%0AVS%0AGualtieri%0AGolden%20Boy%20Promotions&font=Oswald" group-title="Boxing", Jones VS Gualtieri | Golden Boy Promotions [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779580893-Kv4cPTAAP5YTi-ed46a7750a7e15683e512f76310c9f202d91c3cd-ab3d8447e4066514ff76eb3f3bac1ff0
+https://livecdn-tc-iptv.rumsport10.live/live_abr/138848_abrhd.m3u8?is_vip=false&token=1779581792-Kv4cPTAAP5YTi-afceb11fbdca2618139047f73c7f61e56eb3d73b-7aa8dcebe5162a2f9db7745540df2c27
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Jones%0AVS%0AGualtieri%0AGolden%20Boy%20Promotions&font=Oswald" group-title="Boxing", Jones VS Gualtieri | Golden Boy Promotions [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=ed46a7750a7e15683e512f76310c9f202d91c3cd&x-sign=9dca1c5fcc063ddf2062ba8601934294&x-time=1779494460
+https://livecdn-bp-iptv.rumsport7.live/live_abr/138848_abrhd.m3u8?is_vip=false&token=afceb11fbdca2618139047f73c7f61e56eb3d73b&x-sign=26f279f76cdd2305dff543b20b8de333&x-time=1779495360
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Jones%0AVS%0AGualtieri%0AGolden%20Boy%20Promotions&font=Oswald" group-title="Boxing", Jones VS Gualtieri | Golden Boy Promotions [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779581794-Kv4cPTAAP5YTi-afceb11fbdca2618139047f73c7f61e56eb3d73b-e033157c8cb1dc3232f459a372cda5ea
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Jones%0AVS%0AGualtieri%0AGolden%20Boy%20Promotions&font=Oswald" group-title="Boxing", Jones VS Gualtieri | Golden Boy Promotions [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=afceb11fbdca2618139047f73c7f61e56eb3d73b&x-sign=b894b5ac807260cc0ce0c22d3be3b68c&x-time=1779495360
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Suzuka%20-%20Qualifying%201%0ASuper%20Formula&font=Oswald" group-title="Auto Racing", Suzuka - Qualifying 1 | Super Formula [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779580900-Kv4cPTAAP5YTi-ed46a7750a7e15683e512f76310c9f202d91c3cd-308f31c2eb782382ac99bd0c511d8e6b
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779581800-Kv4cPTAAP5YTi-afceb11fbdca2618139047f73c7f61e56eb3d73b-f4d3f66b1e865f53f1570a68822b81e3
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Suzuka%20-%20Qualifying%201%0ASuper%20Formula&font=Oswald" group-title="Auto Racing", Suzuka - Qualifying 1 | Super Formula [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ed46a7750a7e15683e512f76310c9f202d91c3cd&x-sign=6f7f965d03a45349a77a1da1a3ebbc3f&x-time=1779494460
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=afceb11fbdca2618139047f73c7f61e56eb3d73b&x-sign=40b9180780d59b3f88da447c331cf80e&x-time=1779495360
 
