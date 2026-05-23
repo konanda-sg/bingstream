@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:16:28 PM 23-05-2026"
+        "last_update_time": "11:31:26 PM 23-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779642991-Kv4cPTAAP5YTi-30ae76179bd7dca9934fe4457709c059332de96f-fd0d2a3f412fca066863fccbcb642550"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779643889-Kv4cPTAAP5YTi-3e97b61996d5db6ad3e7c77ffb1c9a8686dc13ef-c54b48e5d35e7f333194c02fe7010e0c"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=c73c72c41f91bcc8a65545ea4d1cd7ce&x-time=1779556560"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=3e97b61996d5db6ad3e7c77ffb1c9a8686dc13ef&x-sign=3a92c070a78ed84abfd07533cef285fa&x-time=1779557460"
                 }
             ]
         },
@@ -46,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274843_abrhd.m3u8?is_vip=false&token=1779642997-Kv4cPTAAP5YTi-30ae76179bd7dca9934fe4457709c059332de96f-cf1d78dda19c5a2b8773a5bbed6364a3"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274843_abrhd.m3u8?is_vip=false&token=1779643894-Kv4cPTAAP5YTi-3e97b61996d5db6ad3e7c77ffb1c9a8686dc13ef-246029e6b6bcbcd09a9d8358b13cd88d"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274843_abrhd.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=2320c5e094d4efce4afbea5f7c5f2a3a&x-time=1779556560"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274843_abrhd.m3u8?is_vip=false&token=3e97b61996d5db6ad3e7c77ffb1c9a8686dc13ef&x-sign=1ad72d76d8f5a36241845efbbd2a4b0c&x-time=1779557460"
                 }
             ]
         },
@@ -70,11 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274845_abrhd.m3u8?is_vip=false&token=1779643002-Kv4cPTAAP5YTi-30ae76179bd7dca9934fe4457709c059332de96f-9088e6f20bd5b04287e2e4a8cfbf9dd8"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274845_abrhd.m3u8?is_vip=false&token=1779643899-Kv4cPTAAP5YTi-3e97b61996d5db6ad3e7c77ffb1c9a8686dc13ef-67efd4e4d9d6514ef4edf9d9b0987ec4"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274845_abrhd.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=d79fda6889638ad97ad97525945c5caf&x-time=1779556560"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274845_abrhd.m3u8?is_vip=false&token=3e97b61996d5db6ad3e7c77ffb1c9a8686dc13ef&x-sign=32499fbe5fc8ad00fee72fecb4f9855f&x-time=1779557460"
                 }
             ]
         },
@@ -94,11 +94,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=1779643008-Kv4cPTAAP5YTi-30ae76179bd7dca9934fe4457709c059332de96f-7dfad22049892cf6c48deffab6b4c076"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=1779643905-Kv4cPTAAP5YTi-3e97b61996d5db6ad3e7c77ffb1c9a8686dc13ef-614de423e8f67f5ad7a2e30d545f5b4b"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=6cd7d033f0df80e68babfd16e41324d4&x-time=1779556560"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=3e97b61996d5db6ad3e7c77ffb1c9a8686dc13ef&x-sign=8ecb24bc7902397241277e23b804c8f4&x-time=1779557460"
                 }
             ]
         },
@@ -118,11 +118,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274842_abrhd.m3u8?is_vip=false&token=1779643014-Kv4cPTAAP5YTi-30ae76179bd7dca9934fe4457709c059332de96f-4e68d727bbab6a5d79f1655be654bcbf"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274842_abrhd.m3u8?is_vip=false&token=1779643910-Kv4cPTAAP5YTi-3e97b61996d5db6ad3e7c77ffb1c9a8686dc13ef-18d7e16aeb673cdf69faa4b32197b02a"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274842_abrhd.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=a8ff636df61a6cfdace4c4d43223586b&x-time=1779556560"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274842_abrhd.m3u8?is_vip=false&token=3e97b61996d5db6ad3e7c77ffb1c9a8686dc13ef&x-sign=c40bf0ba276b9ab331b45e5dfe0d67e4&x-time=1779557460"
                 }
             ]
         },
@@ -166,11 +166,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779643025-Kv4cPTAAP5YTi-30ae76179bd7dca9934fe4457709c059332de96f-9742d4d7db394f6701bb0743ec321038"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779643922-Kv4cPTAAP5YTi-3e97b61996d5db6ad3e7c77ffb1c9a8686dc13ef-32c7d0c7317b555a55178500bac49713"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=4e46726631dc682989a80c968755c760&x-time=1779556620"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=3e97b61996d5db6ad3e7c77ffb1c9a8686dc13ef&x-sign=1397fc174007978afcc94c56718eb46d&x-time=1779557520"
                 }
             ]
         },
@@ -190,7 +190,7 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=30ae76179bd7dca9934fe4457709c059332de96f&x-sign=d120f6e7c989739437874d199e5fa0bd&x-time=1779556620"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=3e97b61996d5db6ad3e7c77ffb1c9a8686dc13ef&x-sign=5186410770599106f7c9737a7ef8d210&x-time=1779557520"
                 }
             ]
         },
