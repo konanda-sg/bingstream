@@ -3,20 +3,45 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:16:31 AM 24-05-2026
+#last update time: 12:31:25 AM 24-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bayern%20M%C3%BCnchen%0AVS%0AVfB%20Stuttgart%0ADFB%20Pokal&font=Oswald" group-title="DFB Pokal", Bayern München VS VfB Stuttgart | DFB Pokal [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=16c9f886c322ac5075ea56736281c101e238ab18&x-sign=f7d02bd63e3ffef89f8a99079ba2283a&x-time=1779560160
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=5962566e8234c14f22c0684b844fc60f879617d3&x-sign=5b379dba30ccd8403ce8e680516003b2&x-time=1779561060
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bayern%20M%C3%BCnchen%0AVS%0AVfB%20Stuttgart%0ADFB%20Pokal&font=Oswald" group-title="DFB Pokal", Bayern München VS VfB Stuttgart | DFB Pokal [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779646595-Kv4cPTAAP5YTi-16c9f886c322ac5075ea56736281c101e238ab18-d189a7833dc76a93d807afcd9a3c9be3
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779647489-Kv4cPTAAP5YTi-5962566e8234c14f22c0684b844fc60f879617d3-8e6425dc493233a381fcc9f3d61c8d30
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=16c9f886c322ac5075ea56736281c101e238ab18&x-sign=05a1fdee37ae3cc21a316532c46bedcc&x-time=1779560160
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=5962566e8234c14f22c0684b844fc60f879617d3&x-sign=0599e1200b13bae38a8e5bd0b17750e6&x-time=1779561060
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Montreal%2C%20Canada%0AFIA%20Formula%202%20Championship&font=Oswald" group-title="FIA Formula 2 Championship", Montreal, Canada | FIA Formula 2 Championship [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=5962566e8234c14f22c0684b844fc60f879617d3&x-sign=aa3d604176e25965ddf628811bf49db8&x-time=1779561060
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lazio%0AVS%0APisa%0ASerie%20A&font=Oswald" group-title="Football", Lazio VS Pisa | Serie A [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=5962566e8234c14f22c0684b844fc60f879617d3&x-sign=56a046de2424ff51093d4fde0f11a0fc&x-time=1779561060
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lazio%0AVS%0APisa%0ASerie%20A&font=Oswald" group-title="Football", Lazio VS Pisa | Serie A [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779647503-Kv4cPTAAP5YTi-5962566e8234c14f22c0684b844fc60f879617d3-38599605e09ffbea1fbe49e129baaff4
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=OH%20Leuven%0AVS%0AGenk%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", OH Leuven VS Genk | Jupiler Pro League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779647507-Kv4cPTAAP5YTi-5962566e8234c14f22c0684b844fc60f879617d3-dcef940e46d8739c3e8550e0a40971f7
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=OH%20Leuven%0AVS%0AGenk%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", OH Leuven VS Genk | Jupiler Pro League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=5962566e8234c14f22c0684b844fc60f879617d3&x-sign=c06b77b5895cf2c08ed2095fa36ad048&x-time=1779561060
 
