@@ -3,45 +3,45 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:16:27 AM 23-05-2026
+#last update time: 10:31:29 AM 23-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Moana Pasifika VS Queensland Reds | Super Rugby Pacific [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1779596191-Kv4cPTAAP5YTi-ac8c58a93f1829bef0b64189696adb32f891fa3d-06c23b718d3236dba7680c70367dd05f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1779597092-Kv4cPTAAP5YTi-59e2ed9e3e5e3cddeaba391953ebfd089b0437f6-54bd70d712e1859b9ad85b62aaf5fa6e
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Moana Pasifika VS Queensland Reds | Super Rugby Pacific [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=ac8c58a93f1829bef0b64189696adb32f891fa3d&x-sign=f585cc5d1c2f5099697ed79a613f62cb&x-time=1779509760
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=59e2ed9e3e5e3cddeaba391953ebfd089b0437f6&x-sign=e696b91f5ff3a56e2c006d01ff28f7dd&x-time=1779510660
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Moana Pasifika VS Queensland Reds | Super Rugby Pacific [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779596193-Kv4cPTAAP5YTi-ac8c58a93f1829bef0b64189696adb32f891fa3d-8cfd886e1c4f4840b804dd7209c3124c
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779597095-Kv4cPTAAP5YTi-59e2ed9e3e5e3cddeaba391953ebfd089b0437f6-31aa3f244009470e79e58240030f82ce
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Moana Pasifika VS Queensland Reds | Super Rugby Pacific [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=ac8c58a93f1829bef0b64189696adb32f891fa3d&x-sign=63aefca85ae36e92bb40069140814dea&x-time=1779509760
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=59e2ed9e3e5e3cddeaba391953ebfd089b0437f6&x-sign=77373333b04b715ce096c31b93584757&x-time=1779510660
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779596199-Kv4cPTAAP5YTi-ac8c58a93f1829bef0b64189696adb32f891fa3d-a96353cd285eba3e510cade7660866f8
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779597102-Kv4cPTAAP5YTi-59e2ed9e3e5e3cddeaba391953ebfd089b0437f6-51736833fd2890c6e199d7b52d470984
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=ac8c58a93f1829bef0b64189696adb32f891fa3d&x-sign=d84d8475e93b02203efc8fd76bff8dce&x-time=1779509760
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=59e2ed9e3e5e3cddeaba391953ebfd089b0437f6&x-sign=e7416b42c8ca08fe2f3baa59d59f6af8&x-time=1779510660
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779596205-Kv4cPTAAP5YTi-ac8c58a93f1829bef0b64189696adb32f891fa3d-b6ff11c2092a1e208c1ebefd83d0e9db
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779597110-Kv4cPTAAP5YTi-59e2ed9e3e5e3cddeaba391953ebfd089b0437f6-6458a25146a5d07b00582e8ac64ec6c8
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=ac8c58a93f1829bef0b64189696adb32f891fa3d&x-sign=ec988a7c2a8e61ea68478818e49bc0e9&x-time=1779509760
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=59e2ed9e3e5e3cddeaba391953ebfd089b0437f6&x-sign=f2226bbc13bd23680441dd63f031fd97&x-time=1779510660
 
