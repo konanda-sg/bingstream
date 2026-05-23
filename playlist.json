@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "9:31:28 AM 23-05-2026"
+        "last_update_time": "9:46:30 AM 23-05-2026"
     },
     "channels": [
         {
@@ -22,19 +22,19 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/138848_abrhd.m3u8?is_vip=false&token=1779593491-Kv4cPTAAP5YTi-9aaf251bb3dccf0f1fa89a1ae86ceafd8aa5dc9d-ca03c154f6de50220619fa48ae9f35aa"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/138848_abrhd.m3u8?is_vip=false&token=1779594393-Kv4cPTAAP5YTi-4687638b14f94c1a7ac37ed164917b406b7f370c-850738f05d764513553a69ce8b402d3d"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/138848_abrhd.m3u8?is_vip=false&token=9aaf251bb3dccf0f1fa89a1ae86ceafd8aa5dc9d&x-sign=f08810ad5d71570370e124078cf6dc5e&x-time=1779507060"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/138848_abrhd.m3u8?is_vip=false&token=4687638b14f94c1a7ac37ed164917b406b7f370c&x-sign=766be6411a1b23a6271f0d4d9f3acd45&x-time=1779507960"
                 },
                 {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779593494-Kv4cPTAAP5YTi-9aaf251bb3dccf0f1fa89a1ae86ceafd8aa5dc9d-ab1a9573711f90479b0d95f2ff5e1621"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779594396-Kv4cPTAAP5YTi-4687638b14f94c1a7ac37ed164917b406b7f370c-e22b0f1c6d8d4e6653393cc6e70869a3"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=9aaf251bb3dccf0f1fa89a1ae86ceafd8aa5dc9d&x-sign=00dde1191b5c3a679d3f0ca2be77c3fe&x-time=1779507060"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=4687638b14f94c1a7ac37ed164917b406b7f370c&x-sign=bff6b6a7bc8582f8f7b80e09247b9bdc&x-time=1779507960"
                 }
             ]
         },
@@ -467,11 +467,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/72027f1f4f9d2a1cd7af767736718ea3.png",
             "Match Title": "Moana Pasifika VS Queensland Reds | Super Rugby Pacific",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "10:00 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779594403-Kv4cPTAAP5YTi-4687638b14f94c1a7ac37ed164917b406b7f370c-ce5e97aae5e6eb42b7d0ce4384437299"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=4687638b14f94c1a7ac37ed164917b406b7f370c&x-sign=4e4b9904a7c6c7683ce2919acf4dff36&x-time=1779507960"
+                }
+            ]
         },
         {
             "Category": "Rugby",
@@ -527,11 +536,20 @@
             "Team 2 Logo": "",
             "Match Title": "Court 1 | PERODUA Malaysia Masters",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "10:00 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779594409-Kv4cPTAAP5YTi-4687638b14f94c1a7ac37ed164917b406b7f370c-62d771017391aaf65a2f5c1f0fd14c76"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=4687638b14f94c1a7ac37ed164917b406b7f370c&x-sign=9111cdc8662bfb9d11d5b9587dc33e0b&x-time=1779507960"
+                }
+            ]
         },
         {
             "Category": "Badminton",
