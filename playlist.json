@@ -3,18 +3,18 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "9:46:30 AM 23-05-2026"
+        "last_update_time": "10:01:30 AM 23-05-2026"
     },
     "channels": [
         {
-            "Category": "Boxing",
-            "League": "Golden Boy Promotions",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Jones VS Gualtieri | Golden Boy Promotions",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Jones%0AVS%0AGualtieri%0AGolden%20Boy%20Promotions&font=Oswald",
+            "Category": "Rugby",
+            "League": "Super Rugby Pacific",
+            "Team 1 Name": "Moana Pasifika",
+            "Team 2 Name": "Queensland Reds",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ed95129328caafb2adc28d7bfd67ad6f.jpg",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/72027f1f4f9d2a1cd7af767736718ea3.png",
+            "Match Title": "Moana Pasifika VS Queensland Reds | Super Rugby Pacific",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald",
             "Match Status": "Live",
             "Start Time": "Live Now",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -22,19 +22,35 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/138848_abrhd.m3u8?is_vip=false&token=1779594393-Kv4cPTAAP5YTi-4687638b14f94c1a7ac37ed164917b406b7f370c-850738f05d764513553a69ce8b402d3d"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779595294-Kv4cPTAAP5YTi-0588ace2c581f1a45811a7fa73a2512c4ceef8a9-b2ddbaf591399742a30735426f31db35"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/138848_abrhd.m3u8?is_vip=false&token=4687638b14f94c1a7ac37ed164917b406b7f370c&x-sign=766be6411a1b23a6271f0d4d9f3acd45&x-time=1779507960"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=0588ace2c581f1a45811a7fa73a2512c4ceef8a9&x-sign=f814a831e637262a7337e9e886a23725&x-time=1779508860"
+                }
+            ]
+        },
+        {
+            "Category": "Badminton",
+            "League": "PERODUA Malaysia Masters",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 1 | PERODUA Malaysia Masters",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779595300-Kv4cPTAAP5YTi-0588ace2c581f1a45811a7fa73a2512c4ceef8a9-80a54f2f097f1eb399a829b8af9a794c"
                 },
                 {
-                    "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779594396-Kv4cPTAAP5YTi-4687638b14f94c1a7ac37ed164917b406b7f370c-e22b0f1c6d8d4e6653393cc6e70869a3"
-                },
-                {
-                    "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=4687638b14f94c1a7ac37ed164917b406b7f370c&x-sign=bff6b6a7bc8582f8f7b80e09247b9bdc&x-time=1779507960"
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=0588ace2c581f1a45811a7fa73a2512c4ceef8a9&x-sign=870d124f1853af12269178948984ae6a&x-time=1779508860"
                 }
             ]
         },
@@ -279,16 +295,16 @@
             "Stream URL": []
         },
         {
-            "Category": "Tennis",
-            "League": "WTA 250",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Rabat (Day 6) | WTA 250",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Rabat%20(Day%206)%0AWTA%20250&font=Oswald",
+            "Category": "Football",
+            "League": "FA Cup",
+            "Team 1 Name": "Celtic",
+            "Team 2 Name": "Dunfermline",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/247.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1388.png",
+            "Match Title": "Celtic VS Dunfermline | FA Cup",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Celtic%0AVS%0ADunfermline%0AFA%20Cup&font=Oswald",
             "Match Status": "Upcoming",
-            "Start Time": "6:00 PM 23-05-2026",
+            "Start Time": "8:00 PM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
@@ -302,6 +318,21 @@
             "Team 2 Logo": "",
             "Match Title": "Final | Strasbourg Open",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Final%0AStrasbourg%20Open&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "6:00 PM 23-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Tennis",
+            "League": "WTA 250",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Rabat (Day 6) | WTA 250",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Rabat%20(Day%206)%0AWTA%20250&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "6:00 PM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -356,12 +387,12 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "YOKOHAMA DeNA BAYSTARS",
-            "Team 2 Name": "Tokyo Yakult Swallows",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e3e7ae8a15936419522e36aac0f7faea.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
-            "Match Title": "YOKOHAMA DeNA BAYSTARS VS Tokyo Yakult Swallows | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=YOKOHAMA%20DeNA%20BAYSTARS%0AVS%0ATokyo%20Yakult%20Swallows%0ANPB&font=Oswald",
+            "Team 1 Name": "Fukuoka SoftBank Hawks",
+            "Team 2 Name": "Hokkaido Nippon-Ham Fighters",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
+            "Match Title": "Fukuoka SoftBank Hawks VS Hokkaido Nippon-Ham Fighters | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AHokkaido%20Nippon-Ham%20Fighters%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -371,12 +402,12 @@
         {
             "Category": "Baseball",
             "League": "NPB",
-            "Team 1 Name": "Fukuoka SoftBank Hawks",
-            "Team 2 Name": "Hokkaido Nippon-Ham Fighters",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
-            "Match Title": "Fukuoka SoftBank Hawks VS Hokkaido Nippon-Ham Fighters | NPB",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AHokkaido%20Nippon-Ham%20Fighters%0ANPB&font=Oswald",
+            "Team 1 Name": "YOKOHAMA DeNA BAYSTARS",
+            "Team 2 Name": "Tokyo Yakult Swallows",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/e3e7ae8a15936419522e36aac0f7faea.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png",
+            "Match Title": "YOKOHAMA DeNA BAYSTARS VS Tokyo Yakult Swallows | NPB",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=YOKOHAMA%20DeNA%20BAYSTARS%0AVS%0ATokyo%20Yakult%20Swallows%0ANPB&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "11:00 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -461,30 +492,6 @@
         {
             "Category": "Rugby",
             "League": "Super Rugby Pacific",
-            "Team 1 Name": "Moana Pasifika",
-            "Team 2 Name": "Queensland Reds",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/ed95129328caafb2adc28d7bfd67ad6f.jpg",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/72027f1f4f9d2a1cd7af767736718ea3.png",
-            "Match Title": "Moana Pasifika VS Queensland Reds | Super Rugby Pacific",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "10:00 AM 23-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779594403-Kv4cPTAAP5YTi-4687638b14f94c1a7ac37ed164917b406b7f370c-ce5e97aae5e6eb42b7d0ce4384437299"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=4687638b14f94c1a7ac37ed164917b406b7f370c&x-sign=4e4b9904a7c6c7683ce2919acf4dff36&x-time=1779507960"
-                }
-            ]
-        },
-        {
-            "Category": "Rugby",
-            "League": "Super Rugby Pacific",
             "Team 1 Name": "Hurricanes",
             "Team 2 Name": "Highlanders",
             "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/68f51537500762f5725e7366664bc59a.jpg",
@@ -534,37 +541,22 @@
             "Team 2 Name": "",
             "Team 1 Logo": "",
             "Team 2 Logo": "",
-            "Match Title": "Court 1 | PERODUA Malaysia Masters",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald",
+            "Match Title": "Court 2 | PERODUA Malaysia Masters",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald",
             "Match Status": "Live",
-            "Start Time": "10:00 AM 23-05-2026",
+            "Start Time": "10:10 AM 23-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779594409-Kv4cPTAAP5YTi-4687638b14f94c1a7ac37ed164917b406b7f370c-62d771017391aaf65a2f5c1f0fd14c76"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779595307-Kv4cPTAAP5YTi-0588ace2c581f1a45811a7fa73a2512c4ceef8a9-5d36fb7c5871a99453dbcca833764c4d"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=4687638b14f94c1a7ac37ed164917b406b7f370c&x-sign=9111cdc8662bfb9d11d5b9587dc33e0b&x-time=1779507960"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=0588ace2c581f1a45811a7fa73a2512c4ceef8a9&x-sign=bf3be81a7c2c45dd836e6ef2d0a056c5&x-time=1779508860"
                 }
             ]
-        },
-        {
-            "Category": "Badminton",
-            "League": "PERODUA Malaysia Masters",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Court 2 | PERODUA Malaysia Masters",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "10:10 AM 23-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
         }
     ]
 }
