@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "7:46:32 AM 24-05-2026"
+        "last_update_time": "8:01:27 AM 24-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779673595-Kv4cPTAAP5YTi-caccf1300b17be921d63dc09324418717b6a2d78-8260595c0922ff6c32a677877d3a2ab3"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779674491-Kv4cPTAAP5YTi-932908a8027dfda0b6a5f8d29beb4e11c2d38452-02f8293c4329fde956925f453f817587"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=caccf1300b17be921d63dc09324418717b6a2d78&x-sign=1a11e474360ca6b60d5172fa4eaa51cb&x-time=1779587160"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=932908a8027dfda0b6a5f8d29beb4e11c2d38452&x-sign=adfc3a4d7d2d58f9def7faddc9b97365&x-time=1779588060"
                 }
             ]
         },
