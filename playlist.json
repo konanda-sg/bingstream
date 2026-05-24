@@ -3,29 +3,9 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "8:01:31 PM 24-05-2026"
+        "last_update_time": "8:16:31 PM 24-05-2026"
     },
     "channels": [
-        {
-            "Category": "Football",
-            "League": "Eredivisie",
-            "Team 1 Name": "Ajax",
-            "Team 2 Name": "Utrecht",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/194.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/207.png",
-            "Match Title": "Ajax VS Utrecht | Eredivisie",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Ajax%0AVS%0AUtrecht%0AEredivisie&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=5d4446dc2b38d346819d5825e9ae11f9f6aa9172&x-sign=a4c735f5d261854d40569327dfab4b14&x-time=1779631260"
-                }
-            ]
-        },
         {
             "Category": "Tennis",
             "League": "Roland Garros",
@@ -42,55 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779717699-Kv4cPTAAP5YTi-5d4446dc2b38d346819d5825e9ae11f9f6aa9172-24f0d2a66aabdda652450d997a279392"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779718595-Kv4cPTAAP5YTi-e1f1991758604ed099f0a50152a065f390e53dba-f3a2b4c1ba4b8903c24c5a90a794bf1b"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=5d4446dc2b38d346819d5825e9ae11f9f6aa9172&x-sign=0b1c3d96bf0c014b12747e10c92d123f&x-time=1779631260"
-                }
-            ]
-        },
-        {
-            "Category": "Darts",
-            "League": "International Darts Open",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "International Darts Open | International Darts Open",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1779717707-Kv4cPTAAP5YTi-5d4446dc2b38d346819d5825e9ae11f9f6aa9172-096fda6b77c2ecdfa56fe0cfc446217b"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=5d4446dc2b38d346819d5825e9ae11f9f6aa9172&x-sign=3b3333d33a80651652e0c4560a89eb0b&x-time=1779631260"
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "League": "League One",
-            "Team 1 Name": "Bolton Wanderers",
-            "Team 2 Name": "Stockport County",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/22614.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4686.png",
-            "Match Title": "Bolton Wanderers VS Stockport County | League One",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Bolton%20Wanderers%0AVS%0AStockport%20County%0ALeague%20One&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=5d4446dc2b38d346819d5825e9ae11f9f6aa9172&x-sign=7534e87be66a7decd7e15dff3979e09b&x-time=1779631260"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=e1f1991758604ed099f0a50152a065f390e53dba&x-sign=a3a5cfbf6288580da07499ca0e01beaa&x-time=1779632160"
                 }
             ]
         },
@@ -109,12 +45,20 @@
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": [
                 {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/510791_abrhd.m3u8?is_vip=false&token=1779718601-Kv4cPTAAP5YTi-e1f1991758604ed099f0a50152a065f390e53dba-b5dd0611f62b031d66744de639da2b31"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/510791_abrhd.m3u8?is_vip=false&token=e1f1991758604ed099f0a50152a065f390e53dba&x-sign=d8b0e16d1fae49b63b77b64722f9944d&x-time=1779632160"
+                },
+                {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779717721-Kv4cPTAAP5YTi-5d4446dc2b38d346819d5825e9ae11f9f6aa9172-3286923b3e1d72db6320287c3131e3ef"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779718604-Kv4cPTAAP5YTi-e1f1991758604ed099f0a50152a065f390e53dba-777ebeffcd0f80628bd052e9640cd4e4"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=5d4446dc2b38d346819d5825e9ae11f9f6aa9172&x-sign=5c184dfd2041637ed71231b92ce7f428&x-time=1779631320"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=e1f1991758604ed099f0a50152a065f390e53dba&x-sign=634f99a9619fa0c78c7557d48dbe92c5&x-time=1779632160"
                 }
             ]
         },
@@ -134,11 +78,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779717727-Kv4cPTAAP5YTi-5d4446dc2b38d346819d5825e9ae11f9f6aa9172-5033d5c64d166335850b09e6fccf3d0d"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779718610-Kv4cPTAAP5YTi-e1f1991758604ed099f0a50152a065f390e53dba-50ac15bc0bb95d71d9f8e51b05531202"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=5d4446dc2b38d346819d5825e9ae11f9f6aa9172&x-sign=e09508e2174bfac8926d55baaf5a6a68&x-time=1779631320"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=e1f1991758604ed099f0a50152a065f390e53dba&x-sign=81e58c59e7bc53df82d9e50bfba29e61&x-time=1779632160"
                 }
             ]
         },
@@ -246,6 +190,26 @@
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "League One",
+            "Team 1 Name": "Bolton Wanderers",
+            "Team 2 Name": "Stockport County",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/22614.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4686.png",
+            "Match Title": "Bolton Wanderers VS Stockport County | League One",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Bolton%20Wanderers%0AVS%0AStockport%20County%0ALeague%20One&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "6:00 PM 24-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=5d4446dc2b38d346819d5825e9ae11f9f6aa9172&x-sign=7534e87be66a7decd7e15dff3979e09b&x-time=1779631260"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -385,12 +349,12 @@
         {
             "Category": "Football",
             "League": "Serie A",
-            "Team 1 Name": "Lecce",
-            "Team 2 Name": "Genoa",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/867.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/495.png",
-            "Match Title": "Lecce VS Genoa | Serie A",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Lecce%0AVS%0AGenoa%0ASerie%20A&font=Oswald",
+            "Team 1 Name": "AC Milan",
+            "Team 2 Name": "Cagliari",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/489.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/490.png",
+            "Match Title": "AC Milan VS Cagliari | Serie A",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=AC%20Milan%0AVS%0ACagliari%0ASerie%20A&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "12:45 AM 25-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -415,12 +379,12 @@
         {
             "Category": "Football",
             "League": "Serie A",
-            "Team 1 Name": "AC Milan",
-            "Team 2 Name": "Cagliari",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/489.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/490.png",
-            "Match Title": "AC Milan VS Cagliari | Serie A",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=AC%20Milan%0AVS%0ACagliari%0ASerie%20A&font=Oswald",
+            "Team 1 Name": "Lecce",
+            "Team 2 Name": "Genoa",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/867.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/495.png",
+            "Match Title": "Lecce VS Genoa | Serie A",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Lecce%0AVS%0AGenoa%0ASerie%20A&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "12:45 AM 25-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -459,13 +423,13 @@
         },
         {
             "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Villarreal",
-            "Team 2 Name": "Atletico Madrid",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/533.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/530.png",
-            "Match Title": "Villarreal VS Atletico Madrid | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Villarreal%0AVS%0AAtletico%20Madrid%0ALa%20Liga&font=Oswald",
+            "League": "CAF Champions League",
+            "Team 1 Name": "FAR Rabat",
+            "Team 2 Name": "Mamelodi Sundowns",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/969.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2699.png",
+            "Match Title": "FAR Rabat VS Mamelodi Sundowns | CAF Champions League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FAR%20Rabat%0AVS%0AMamelodi%20Sundowns%0ACAF%20Champions%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "1:00 AM 25-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -474,13 +438,13 @@
         },
         {
             "Category": "Football",
-            "League": "CAF Champions League",
-            "Team 1 Name": "FAR Rabat",
-            "Team 2 Name": "Mamelodi Sundowns",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/969.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2699.png",
-            "Match Title": "FAR Rabat VS Mamelodi Sundowns | CAF Champions League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FAR%20Rabat%0AVS%0AMamelodi%20Sundowns%0ACAF%20Champions%20League&font=Oswald",
+            "League": "La Liga",
+            "Team 1 Name": "Villarreal",
+            "Team 2 Name": "Atletico Madrid",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/533.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/530.png",
+            "Match Title": "Villarreal VS Atletico Madrid | La Liga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Villarreal%0AVS%0AAtletico%20Madrid%0ALa%20Liga&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "1:00 AM 25-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
