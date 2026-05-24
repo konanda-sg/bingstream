@@ -3,25 +3,25 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 8:16:29 AM 24-05-2026
+#last update time: 8:31:27 AM 24-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Suzuka%20-%20Qualifying%202%0ASuper%20Formula&font=Oswald" group-title="Auto Racing", Suzuka - Qualifying 2 | Super Formula [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779675392-Kv4cPTAAP5YTi-1913f5d1405dc8ccd3b84cca7ac6ca0dbca95e89-cfc9b7e552c594cc65d638a46cef64af
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779676292-Kv4cPTAAP5YTi-9ffdc50a0376d6131d0b2b25f8f0b6e2925d69d6-a24d497f94893bec6d4f9cc2d82406fd
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Suzuka%20-%20Qualifying%202%0ASuper%20Formula&font=Oswald" group-title="Auto Racing", Suzuka - Qualifying 2 | Super Formula [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=1913f5d1405dc8ccd3b84cca7ac6ca0dbca95e89&x-sign=2d9fd8e78a5695428755a2248d912639&x-time=1779588960
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=9ffdc50a0376d6131d0b2b25f8f0b6e2925d69d6&x-sign=011d720e6a727c828b80b3e330581da8&x-time=1779589860
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brisbane%20Lions%0AVS%0AGWS%20GIANTS%0AAFL%20Premiership&font=Oswald" group-title="Football", Brisbane Lions VS GWS GIANTS | AFL Premiership [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779675398-Kv4cPTAAP5YTi-1913f5d1405dc8ccd3b84cca7ac6ca0dbca95e89-b666de03ffd61662f8e84e502ed07bec
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779676298-Kv4cPTAAP5YTi-9ffdc50a0376d6131d0b2b25f8f0b6e2925d69d6-3948d251f0fbf4826aaebbc1c9b6fe40
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brisbane%20Lions%0AVS%0AGWS%20GIANTS%0AAFL%20Premiership&font=Oswald" group-title="Football", Brisbane Lions VS GWS GIANTS | AFL Premiership [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1913f5d1405dc8ccd3b84cca7ac6ca0dbca95e89&x-sign=cfa70ebe78cf79c180ef858d41edff13&x-time=1779588960
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=9ffdc50a0376d6131d0b2b25f8f0b6e2925d69d6&x-sign=3c9bf2fc41e0840a0a55621fdadcb61f&x-time=1779589860
 
