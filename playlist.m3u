@@ -3,45 +3,45 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:01:30 AM 24-05-2026
+#last update time: 10:16:27 AM 24-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brisbane%20Lions%0AVS%0AGWS%20GIANTS%0AAFL%20Premiership&font=Oswald" group-title="Football", Brisbane Lions VS GWS GIANTS | AFL Premiership [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779681693-Kv4cPTAAP5YTi-e7985dabfa6e8fd120e5c1a85186112dbce04439-afe2ef4fde7c53007470af71d10145c2
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779682590-Kv4cPTAAP5YTi-17001d515560168fc7f21f9f13768e42387aaab9-b1f0217de619894d194066acd00ad298
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brisbane%20Lions%0AVS%0AGWS%20GIANTS%0AAFL%20Premiership&font=Oswald" group-title="Football", Brisbane Lions VS GWS GIANTS | AFL Premiership [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=e7985dabfa6e8fd120e5c1a85186112dbce04439&x-sign=ee2521eebab8310df8a2021c23c81db7&x-time=1779595260
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=17001d515560168fc7f21f9f13768e42387aaab9&x-sign=838a788899d076647b0cd3bf29f4f0e8&x-time=1779596160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Toowoomba%0AAustralian%20Motocross%20Championship&font=Oswald" group-title="Auto Racing", Toowoomba | Australian Motocross Championship [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779681701-Kv4cPTAAP5YTi-e7985dabfa6e8fd120e5c1a85186112dbce04439-4ac779f84172daa58f788cb8e03e16a4
+https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779682596-Kv4cPTAAP5YTi-17001d515560168fc7f21f9f13768e42387aaab9-f48352a2925985973c15941de269fddf
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Toowoomba%0AAustralian%20Motocross%20Championship&font=Oswald" group-title="Auto Racing", Toowoomba | Australian Motocross Championship [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=e7985dabfa6e8fd120e5c1a85186112dbce04439&x-sign=adfae048c58bd0bea32eede5a3d1b76f&x-time=1779595260
+https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=17001d515560168fc7f21f9f13768e42387aaab9&x-sign=4e72e77df9066b50d1c822457940255f&x-time=1779596160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fagiano%20Okayama%0AVS%0ACerezo%20Osaka%0AJ1%20League&font=Oswald" group-title="Football", Fagiano Okayama VS Cerezo Osaka | J1 League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779681708-Kv4cPTAAP5YTi-e7985dabfa6e8fd120e5c1a85186112dbce04439-3f5e706ff94492e96d2480514d8afaa7
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779682602-Kv4cPTAAP5YTi-17001d515560168fc7f21f9f13768e42387aaab9-2b1997b87d79b6526fccadd06947c1c3
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fagiano%20Okayama%0AVS%0ACerezo%20Osaka%0AJ1%20League&font=Oswald" group-title="Football", Fagiano Okayama VS Cerezo Osaka | J1 League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=e7985dabfa6e8fd120e5c1a85186112dbce04439&x-sign=d0af85bc2b61106a2297150779c54352&x-time=1779595260
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=17001d515560168fc7f21f9f13768e42387aaab9&x-sign=e68bedd24a4130bad2fd072c68ba2fe3&x-time=1779596160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779681715-Kv4cPTAAP5YTi-e7985dabfa6e8fd120e5c1a85186112dbce04439-42da37a493b3cf972caa9d8eb104f708
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779682608-Kv4cPTAAP5YTi-17001d515560168fc7f21f9f13768e42387aaab9-0465e2e522d90792c4b10146d6fb0eef
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=e7985dabfa6e8fd120e5c1a85186112dbce04439&x-sign=1f33269e5795af4dd737b974ec62a663&x-time=1779595260
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=17001d515560168fc7f21f9f13768e42387aaab9&x-sign=99f6cbba1e3cc1a9edaa2361ea23880a&x-time=1779596160
 
