@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "9:16:29 AM 24-05-2026"
+        "last_update_time": "9:31:28 AM 24-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779678992-Kv4cPTAAP5YTi-01e0d74b272e5ec13dcb5ccb877dfbaed02d4202-24b6d30ee6a2f0d34d48c53632096680"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779679891-Kv4cPTAAP5YTi-8bbf99ddab56314c6725036ebb96b8c4c3b178bc-f496866623d7e8d9b039acbf68d30733"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=01e0d74b272e5ec13dcb5ccb877dfbaed02d4202&x-sign=b710569bb0921dcb41361b30742745e8&x-time=1779592560"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=8bbf99ddab56314c6725036ebb96b8c4c3b178bc&x-sign=02afe737638b9490d5328acb90c5bd38&x-time=1779593460"
                 }
             ]
         },
@@ -46,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779678998-Kv4cPTAAP5YTi-01e0d74b272e5ec13dcb5ccb877dfbaed02d4202-af2b79c4f298eb0a291af49f3cc36431"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779679898-Kv4cPTAAP5YTi-8bbf99ddab56314c6725036ebb96b8c4c3b178bc-2df259ff132617ac0f3566f29704e426"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=01e0d74b272e5ec13dcb5ccb877dfbaed02d4202&x-sign=b1a7b137957c0468eb99525d6495212f&x-time=1779592560"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=8bbf99ddab56314c6725036ebb96b8c4c3b178bc&x-sign=ed22007d8dc1f0daccd57ee0c7b793f9&x-time=1779593460"
                 }
             ]
         },
