@@ -3,35 +3,35 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 4:46:29 PM 24-05-2026
+#last update time: 5:01:28 PM 24-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ajax%0AVS%0AUtrecht%0AEredivisie&font=Oswald" group-title="Football", Ajax VS Utrecht | Eredivisie [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779705994-Kv4cPTAAP5YTi-216d34deeb4c3447f39b17b942b743c46401a7cc-647c6f3458ab1c365729b90aa284d105
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779706891-Kv4cPTAAP5YTi-2a12e5b297098e8b7cd788da659ac1d851772456-cbc19f611f1c084334a4a3c8b2891439
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ajax%0AVS%0AUtrecht%0AEredivisie&font=Oswald" group-title="Football", Ajax VS Utrecht | Eredivisie [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=216d34deeb4c3447f39b17b942b743c46401a7cc&x-sign=7794f30d7e6635f4a299633f69e8c63a&x-time=1779619560
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=2a12e5b297098e8b7cd788da659ac1d851772456&x-sign=9a76b5f9a2dc5f019814e4fa27df30f1&x-time=1779620460
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%201%0ARoland%20Garros&font=Oswald" group-title="Tennis", Day 1 | Roland Garros [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779706000-Kv4cPTAAP5YTi-216d34deeb4c3447f39b17b942b743c46401a7cc-5a298ef50a3fafb55aef0e1a4cd296a4
+https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779706898-Kv4cPTAAP5YTi-2a12e5b297098e8b7cd788da659ac1d851772456-1c3c28d7941ddeb5034d22f548f2f1a6
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%201%0ARoland%20Garros&font=Oswald" group-title="Tennis", Day 1 | Roland Garros [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=216d34deeb4c3447f39b17b942b743c46401a7cc&x-sign=cfb1ac27fdd9baf007a0791c4100f762&x-time=1779619560
+https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=2a12e5b297098e8b7cd788da659ac1d851772456&x-sign=38ff84bfec72cf2a841d3031739f9a79&x-time=1779620460
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1779706006-Kv4cPTAAP5YTi-216d34deeb4c3447f39b17b942b743c46401a7cc-1df7ff13dad8906c8809e45ff6330775
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1779706904-Kv4cPTAAP5YTi-2a12e5b297098e8b7cd788da659ac1d851772456-53466de547e91d54f689ca82ad7dda27
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=216d34deeb4c3447f39b17b942b743c46401a7cc&x-sign=4ae461fb4626ea807f771062c52fabf6&x-time=1779619560
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=2a12e5b297098e8b7cd788da659ac1d851772456&x-sign=e7dba895c567b8e6a0e69558c8505f43&x-time=1779620460
 
