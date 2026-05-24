@@ -3,35 +3,35 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 2:16:31 PM 24-05-2026
+#last update time: 2:31:27 PM 24-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779696995-Kv4cPTAAP5YTi-a9c814f5aaf9cc95ea12762bedd4df976dd1be17-69e496cf09bcf756625db1ec72132217
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779697890-Kv4cPTAAP5YTi-6b6e617ed4181e9c41c6307b356e5ded01e831a1-a8e6c103b646fdb4f974a3abc54c6b3f
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=a9c814f5aaf9cc95ea12762bedd4df976dd1be17&x-sign=503307c27ab8ee49da411a352178356c&x-time=1779610560
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=6b6e617ed4181e9c41c6307b356e5ded01e831a1&x-sign=82135dd0a7c65550c2e2eb4fd5ff3c9e&x-time=1779611460
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Zandvoort%20-%20Qualifying%202%0ADeutsche%20Tourenwagen%20Masters&font=Oswald" group-title="Auto Racing", Zandvoort - Qualifying 2 | Deutsche Tourenwagen Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779697001-Kv4cPTAAP5YTi-a9c814f5aaf9cc95ea12762bedd4df976dd1be17-a48e84f7428e47f73897fc446f398390
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779697895-Kv4cPTAAP5YTi-6b6e617ed4181e9c41c6307b356e5ded01e831a1-db18f22f8db341bbdb32b65d1d5595d1
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Zandvoort%20-%20Qualifying%202%0ADeutsche%20Tourenwagen%20Masters&font=Oswald" group-title="Auto Racing", Zandvoort - Qualifying 2 | Deutsche Tourenwagen Masters [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=a9c814f5aaf9cc95ea12762bedd4df976dd1be17&x-sign=18a1aac774d2940a83e88fe65f3b7ad5&x-time=1779610560
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=6b6e617ed4181e9c41c6307b356e5ded01e831a1&x-sign=71d4703344b4c213456497df145137a6&x-time=1779611460
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Shimizu%20S-pulse%0AVS%0AGamba%20Osaka%0AJ1%20League&font=Oswald" group-title="Football", Shimizu S-pulse VS Gamba Osaka | J1 League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779697008-Kv4cPTAAP5YTi-a9c814f5aaf9cc95ea12762bedd4df976dd1be17-cccabfe0e94a2427a98562fbc4bc833b
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779697901-Kv4cPTAAP5YTi-6b6e617ed4181e9c41c6307b356e5ded01e831a1-c134aaf03f9ccadcf11eece27bb5cac4
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Shimizu%20S-pulse%0AVS%0AGamba%20Osaka%0AJ1%20League&font=Oswald" group-title="Football", Shimizu S-pulse VS Gamba Osaka | J1 League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=a9c814f5aaf9cc95ea12762bedd4df976dd1be17&x-sign=775be1a88b9d84d935ce23379a36eb67&x-time=1779610560
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=6b6e617ed4181e9c41c6307b356e5ded01e831a1&x-sign=ec4b978c6e36a11a6c429351ef0f10a3&x-time=1779611460
 
