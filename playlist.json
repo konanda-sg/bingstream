@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:46:27 AM 24-05-2026"
+        "last_update_time": "12:01:26 PM 24-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779687990-Kv4cPTAAP5YTi-436d4a6bad3ee76319d14c0dcfe874ff574ec729-21705b23c2b0e1e86e2b7c661773c3db"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779688889-Kv4cPTAAP5YTi-c0341be3e4e4ccc509579ca67f6e2b47c31e7989-9c797bc3bfe54af9d3f4c4f5dafb6327"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=436d4a6bad3ee76319d14c0dcfe874ff574ec729&x-sign=f7f356f8e0006c6fbac7ca3b8775ed30&x-time=1779601560"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=c0341be3e4e4ccc509579ca67f6e2b47c31e7989&x-sign=5076f7d783ab979707feeca09549b7b2&x-time=1779602460"
                 }
             ]
         },
@@ -46,11 +46,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779687996-Kv4cPTAAP5YTi-436d4a6bad3ee76319d14c0dcfe874ff574ec729-c8617304f3b67dfc74e867555abbd4ef"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779688895-Kv4cPTAAP5YTi-c0341be3e4e4ccc509579ca67f6e2b47c31e7989-eeba4a1cfdde7d9687d7f8b6d15d1f7d"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=436d4a6bad3ee76319d14c0dcfe874ff574ec729&x-sign=6554d28586e6ae5142ba5acc0f1e6871&x-time=1779601560"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=c0341be3e4e4ccc509579ca67f6e2b47c31e7989&x-sign=13d1673cac529d73db9680b284b2011f&x-time=1779602460"
                 }
             ]
         },
@@ -70,11 +70,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779688002-Kv4cPTAAP5YTi-436d4a6bad3ee76319d14c0dcfe874ff574ec729-89c386facc677298e257e92d41f0f1c5"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779688901-Kv4cPTAAP5YTi-c0341be3e4e4ccc509579ca67f6e2b47c31e7989-6604296a9a142234e2fe86e4b2d03ff1"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=436d4a6bad3ee76319d14c0dcfe874ff574ec729&x-sign=97ac1b7e64ed7db1d52927b157728ac3&x-time=1779601560"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=c0341be3e4e4ccc509579ca67f6e2b47c31e7989&x-sign=951ee00697d79efeb19e0a25f77a2392&x-time=1779602460"
                 }
             ]
         },
@@ -94,11 +94,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779688008-Kv4cPTAAP5YTi-436d4a6bad3ee76319d14c0dcfe874ff574ec729-38b93d18185abf1dcc596b4baf419799"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779688906-Kv4cPTAAP5YTi-c0341be3e4e4ccc509579ca67f6e2b47c31e7989-94ffa16f5b8db5b569fa37e3790b1249"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=436d4a6bad3ee76319d14c0dcfe874ff574ec729&x-sign=8dd5fbd16480e98cde45e1bb2172a975&x-time=1779601560"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=c0341be3e4e4ccc509579ca67f6e2b47c31e7989&x-sign=b023ab98d27f4326b1d383c36e2933a3&x-time=1779602460"
                 }
             ]
         },
@@ -118,11 +118,35 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779688015-Kv4cPTAAP5YTi-436d4a6bad3ee76319d14c0dcfe874ff574ec729-23350f22a813bee30cb2bc00dd64c43c"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779688912-Kv4cPTAAP5YTi-c0341be3e4e4ccc509579ca67f6e2b47c31e7989-7b864c61281a21699d8bf90f7d802bad"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=436d4a6bad3ee76319d14c0dcfe874ff574ec729&x-sign=e11774685cb097e27a321aa02866aec4&x-time=1779601560"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=c0341be3e4e4ccc509579ca67f6e2b47c31e7989&x-sign=88096197864fd692f1cd01787c8042e6&x-time=1779602460"
+                }
+            ]
+        },
+        {
+            "Category": "Rugby",
+            "League": "NRL Rugby",
+            "Team 1 Name": "South Sydney Rabbitohs",
+            "Team 2 Name": "North Queensland Cowboys",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/c2ef27cac4c5166277ea4635a530f389.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/c71260944c8304f78082dd1e586da159.png",
+            "Match Title": "South Sydney Rabbitohs VS North Queensland Cowboys | NRL Rugby",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=South%20Sydney%20Rabbitohs%0AVS%0ANorth%20Queensland%20Cowboys%0ANRL%20Rugby&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779688918-Kv4cPTAAP5YTi-c0341be3e4e4ccc509579ca67f6e2b47c31e7989-b7561a39ca649b85a18d631f7355acff"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=c0341be3e4e4ccc509579ca67f6e2b47c31e7989&x-sign=61f0c34641cde1068dc8f4eda1572ba5&x-time=1779602460"
                 }
             ]
         },
@@ -279,27 +303,12 @@
         {
             "Category": "Football",
             "League": "Premier League",
-            "Team 1 Name": "West Ham",
-            "Team 2 Name": "Leeds",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/48.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/63.png",
-            "Match Title": "West Ham VS Leeds | Premier League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=West%20Ham%0AVS%0ALeeds%0APremier%20League&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "9:00 PM 24-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "Premier League",
-            "Team 1 Name": "Tottenham",
-            "Team 2 Name": "Everton",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/47.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/45.png",
-            "Match Title": "Tottenham VS Everton | Premier League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tottenham%0AVS%0AEverton%0APremier%20League&font=Oswald",
+            "Team 1 Name": "Nottingham Forest",
+            "Team 2 Name": "Bournemouth",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/65.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/35.png",
+            "Match Title": "Nottingham Forest VS Bournemouth | Premier League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Nottingham%20Forest%0AVS%0ABournemouth%0APremier%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "9:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -324,12 +333,27 @@
         {
             "Category": "Football",
             "League": "Premier League",
-            "Team 1 Name": "Nottingham Forest",
-            "Team 2 Name": "Bournemouth",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/65.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/35.png",
-            "Match Title": "Nottingham Forest VS Bournemouth | Premier League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Nottingham%20Forest%0AVS%0ABournemouth%0APremier%20League&font=Oswald",
+            "Team 1 Name": "Tottenham",
+            "Team 2 Name": "Everton",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/47.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/45.png",
+            "Match Title": "Tottenham VS Everton | Premier League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tottenham%0AVS%0AEverton%0APremier%20League&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "9:00 PM 24-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "Premier League",
+            "Team 1 Name": "West Ham",
+            "Team 2 Name": "Leeds",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/48.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/63.png",
+            "Match Title": "West Ham VS Leeds | Premier League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=West%20Ham%0AVS%0ALeeds%0APremier%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "9:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -667,30 +691,6 @@
             "Stream URL": []
         },
         {
-            "Category": "Rugby",
-            "League": "NRL Rugby",
-            "Team 1 Name": "South Sydney Rabbitohs",
-            "Team 2 Name": "North Queensland Cowboys",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/c2ef27cac4c5166277ea4635a530f389.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/c71260944c8304f78082dd1e586da159.png",
-            "Match Title": "South Sydney Rabbitohs VS North Queensland Cowboys | NRL Rugby",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=South%20Sydney%20Rabbitohs%0AVS%0ANorth%20Queensland%20Cowboys%0ANRL%20Rugby&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "12:00 PM 24-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779688021-Kv4cPTAAP5YTi-436d4a6bad3ee76319d14c0dcfe874ff574ec729-837dabe5eb97498fc89e88a562ea696e"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=436d4a6bad3ee76319d14c0dcfe874ff574ec729&x-sign=a8e44991e6d61af2c412a920bdcfc57b&x-time=1779601620"
-                }
-            ]
-        },
-        {
             "Category": "Darts",
             "League": "International Darts Open",
             "Team 1 Name": "",
@@ -729,6 +729,21 @@
             "Team 2 Logo": "",
             "Match Title": "Court 2 | KFF Singapore Badminton Open",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0AKFF%20Singapore%20Badminton%20Open&font=Oswald",
+            "Match Status": "Upcoming",
+            "Start Time": "9:00 AM 26-05-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Badminton",
+            "League": "KFF Singapore Badminton Open",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Court 3 | KFF Singapore Badminton Open",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0AKFF%20Singapore%20Badminton%20Open&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "9:00 AM 26-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
