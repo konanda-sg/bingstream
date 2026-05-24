@@ -3,33 +3,9 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "4:01:27 AM 25-05-2026"
+        "last_update_time": "4:16:28 AM 25-05-2026"
     },
     "channels": [
-        {
-            "Category": "Tennis",
-            "League": "Roland Garros",
-            "Team 1 Name": "",
-            "Team 2 Name": "",
-            "Team 1 Logo": "",
-            "Team 2 Logo": "",
-            "Match Title": "Day 1 | Roland Garros",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Day%201%0ARoland%20Garros&font=Oswald",
-            "Match Status": "Live",
-            "Start Time": "Live Now",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": [
-                {
-                    "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779746490-Kv4cPTAAP5YTi-554094a181146127e0ad253bfcc8f0d019f88ccc-836b4e28ebc172e1a7c8ccf8fa4c5014"
-                },
-                {
-                    "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=554094a181146127e0ad253bfcc8f0d019f88ccc&x-sign=b133a72a1cc99004c77211645f593604&x-time=1779660060"
-                }
-            ]
-        },
         {
             "Category": "Football",
             "League": "Canadian Premier League",
@@ -46,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779746497-Kv4cPTAAP5YTi-554094a181146127e0ad253bfcc8f0d019f88ccc-6f299bfbb59c6fd8eb269e2c1145e805"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779747391-Kv4cPTAAP5YTi-6eba78153ecc8094807cf663dead7e4a512e05b2-e14608bf163f2cdc405b2c51e020af29"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=554094a181146127e0ad253bfcc8f0d019f88ccc&x-sign=4b3906a1343164a3782fad618cab4096&x-time=1779660060"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=6eba78153ecc8094807cf663dead7e4a512e05b2&x-sign=668071564ac8c5c6deaefc7d053776a7&x-time=1779660960"
                 }
             ]
         },
