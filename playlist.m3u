@@ -3,75 +3,75 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 7:01:26 PM 24-05-2026
+#last update time: 7:16:28 PM 24-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ajax%0AVS%0AUtrecht%0AEredivisie&font=Oswald" group-title="Football", Ajax VS Utrecht | Eredivisie [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779714089-Kv4cPTAAP5YTi-b47f9f87964e916c8004c4580b3fc85798d25566-9e4055656b78ef1060ac9e4ad10816dd
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779714992-Kv4cPTAAP5YTi-65fcc70ac148ca365f2b90ff09fbfe5010097c0c-cb39b4a89ed8ec7b64df531f628a44df
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ajax%0AVS%0AUtrecht%0AEredivisie&font=Oswald" group-title="Football", Ajax VS Utrecht | Eredivisie [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=b47f9f87964e916c8004c4580b3fc85798d25566&x-sign=b3a638c19e07974cd7b7d1b1d7e82119&x-time=1779627660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=65fcc70ac148ca365f2b90ff09fbfe5010097c0c&x-sign=dcb4860a6d6a1d84ba75dc130885f756&x-time=1779628560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%201%0ARoland%20Garros&font=Oswald" group-title="Tennis", Day 1 | Roland Garros [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779714095-Kv4cPTAAP5YTi-b47f9f87964e916c8004c4580b3fc85798d25566-c111d6e9427d2ddd98e1dd403b905c4e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779714998-Kv4cPTAAP5YTi-65fcc70ac148ca365f2b90ff09fbfe5010097c0c-15a22669fa7542f648ec81d4536d91af
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%201%0ARoland%20Garros&font=Oswald" group-title="Tennis", Day 1 | Roland Garros [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=b47f9f87964e916c8004c4580b3fc85798d25566&x-sign=0aa2772e99040dceeaa64c05e0638a51&x-time=1779627660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=65fcc70ac148ca365f2b90ff09fbfe5010097c0c&x-sign=6ff484bbeddb58481e17951541abf729&x-time=1779628560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1779714100-Kv4cPTAAP5YTi-b47f9f87964e916c8004c4580b3fc85798d25566-0e84a799ed8560e0657bbb9956cafa5e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1779715004-Kv4cPTAAP5YTi-65fcc70ac148ca365f2b90ff09fbfe5010097c0c-8b543082a62d5ac3dce37afefc61847e
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=b47f9f87964e916c8004c4580b3fc85798d25566&x-sign=48a9eb5e3547e460304863ec521b997a&x-time=1779627660
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Zandvoort%20-%20Race%202%0ADeutsche%20Tourenwagen%20Masters&font=Oswald" group-title="Auto Racing", Zandvoort - Race 2 | Deutsche Tourenwagen Masters [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779714107-Kv4cPTAAP5YTi-b47f9f87964e916c8004c4580b3fc85798d25566-92de84b85873c00336a1654dc42986e2
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Zandvoort%20-%20Race%202%0ADeutsche%20Tourenwagen%20Masters&font=Oswald" group-title="Auto Racing", Zandvoort - Race 2 | Deutsche Tourenwagen Masters [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=b47f9f87964e916c8004c4580b3fc85798d25566&x-sign=3ff3c04fb2490b1bf8a26af4be16e729&x-time=1779627660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=65fcc70ac148ca365f2b90ff09fbfe5010097c0c&x-sign=25ac68945f93fd8db60228dabe461354&x-time=1779628560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bolton%20Wanderers%0AVS%0AStockport%20County%0ALeague%20One&font=Oswald" group-title="Football", Bolton Wanderers VS Stockport County | League One [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=1779714113-Kv4cPTAAP5YTi-b47f9f87964e916c8004c4580b3fc85798d25566-c7ddc45df998df47ff2bb45f00bfbe37
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=1779715010-Kv4cPTAAP5YTi-65fcc70ac148ca365f2b90ff09fbfe5010097c0c-742d66b9d87bb9f5ea2ad3a86e9f34f8
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bolton%20Wanderers%0AVS%0AStockport%20County%0ALeague%20One&font=Oswald" group-title="Football", Bolton Wanderers VS Stockport County | League One [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=b47f9f87964e916c8004c4580b3fc85798d25566&x-sign=88fe651340322d9b2a04f5be7bd17030&x-time=1779627660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=65fcc70ac148ca365f2b90ff09fbfe5010097c0c&x-sign=cf1ed78c5e23b646eb48c3607982c9bb&x-time=1779628560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Parma%0AVS%0ASassuolo%0ASerie%20A&font=Oswald" group-title="Football", Parma VS Sassuolo | Serie A [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779714119-Kv4cPTAAP5YTi-b47f9f87964e916c8004c4580b3fc85798d25566-4aa4d74682df685887e31e8cf9fb30b9
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510791_abrhd.m3u8?is_vip=false&token=1779715016-Kv4cPTAAP5YTi-65fcc70ac148ca365f2b90ff09fbfe5010097c0c-d4b6a8e02ce9dd69b714d06f3d003193
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Parma%0AVS%0ASassuolo%0ASerie%20A&font=Oswald" group-title="Football", Parma VS Sassuolo | Serie A [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=b47f9f87964e916c8004c4580b3fc85798d25566&x-sign=3cea8bda489b11828ec2f520536b9859&x-time=1779627720
+https://livecdn-bp-iptv.rumsport7.live/live_abr/510791_abrhd.m3u8?is_vip=false&token=65fcc70ac148ca365f2b90ff09fbfe5010097c0c&x-sign=3d875fb3cf0171a549f1c7ddaffc62ff&x-time=1779628560
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Parma%0AVS%0ASassuolo%0ASerie%20A&font=Oswald" group-title="Football", Parma VS Sassuolo | Serie A [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779715019-Kv4cPTAAP5YTi-65fcc70ac148ca365f2b90ff09fbfe5010097c0c-86542418780c61c2505cd0a44e8b83f0
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Parma%0AVS%0ASassuolo%0ASerie%20A&font=Oswald" group-title="Football", Parma VS Sassuolo | Serie A [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=65fcc70ac148ca365f2b90ff09fbfe5010097c0c&x-sign=c2f8331e0dd2dfbb2d8ee3eb2f779ad2&x-time=1779628620
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Zandvoort%20-%20Race%202%0AADAC%20GT%20Masters&font=Oswald" group-title="Auto Racing", Zandvoort - Race 2 | ADAC GT Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779714128-Kv4cPTAAP5YTi-b47f9f87964e916c8004c4580b3fc85798d25566-b4ad5c19354c60516e9b4693efb0e16d
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779715025-Kv4cPTAAP5YTi-65fcc70ac148ca365f2b90ff09fbfe5010097c0c-1f52e98064ed62f72aa2bae3574ae49b
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Zandvoort%20-%20Race%202%0AADAC%20GT%20Masters&font=Oswald" group-title="Auto Racing", Zandvoort - Race 2 | ADAC GT Masters [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=b47f9f87964e916c8004c4580b3fc85798d25566&x-sign=2c146130279a8a276c8de77ac7182512&x-time=1779627720
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=65fcc70ac148ca365f2b90ff09fbfe5010097c0c&x-sign=6e0135394cafff0d09365450a1253c2c&x-time=1779628620
 
