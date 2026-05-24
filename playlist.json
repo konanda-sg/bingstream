@@ -3,7 +3,7 @@
         "name": "Bingstream Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "8:31:27 PM 24-05-2026"
+        "last_update_time": "8:46:28 PM 24-05-2026"
     },
     "channels": [
         {
@@ -22,11 +22,11 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779719493-Kv4cPTAAP5YTi-a722e3f7f74cc4f464f471ef7678ed2460e70281-ea81a6eca87d1aa5c119c9e9579be112"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779720392-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-24ae59005efd54a73be189d62da76b58"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=a722e3f7f74cc4f464f471ef7678ed2460e70281&x-sign=8f505328ca88a5cfed60cb333a0cd052&x-time=1779633060"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=fadd9852cad7dca3d14ba18037940630&x-time=1779633960"
                 }
             ]
         },
@@ -46,19 +46,19 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/510791_abrhd.m3u8?is_vip=false&token=1779719500-Kv4cPTAAP5YTi-a722e3f7f74cc4f464f471ef7678ed2460e70281-385e491cd654f63bfe627c496f464f96"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/510791_abrhd.m3u8?is_vip=false&token=1779720399-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-a5ba43cee0bd9f41463fc0c7e434ef1f"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/510791_abrhd.m3u8?is_vip=false&token=a722e3f7f74cc4f464f471ef7678ed2460e70281&x-sign=42f968b59e6f1046d20b3c6a0c97047e&x-time=1779633060"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/510791_abrhd.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=a8d223b27b7290b3ee0ccc9f2e5a1717&x-time=1779633960"
                 },
                 {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779719502-Kv4cPTAAP5YTi-a722e3f7f74cc4f464f471ef7678ed2460e70281-a621489db810ec634d62c89a6f1cc686"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779720402-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-391d76cdd6d74c1177001f695d18db07"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=a722e3f7f74cc4f464f471ef7678ed2460e70281&x-sign=0974d457b48927bd7270b75770af1a3e&x-time=1779633060"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=12f3a7e67cd5ce43347309abc1f08096&x-time=1779633960"
                 }
             ]
         },
@@ -78,11 +78,31 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779719508-Kv4cPTAAP5YTi-a722e3f7f74cc4f464f471ef7678ed2460e70281-0d797fb286dcf26c6af713c4f6ddad84"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779720408-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-6409401235b989ccea5b68b4907744fa"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=a722e3f7f74cc4f464f471ef7678ed2460e70281&x-sign=9079c1db39067d91710e7f4f62d49de2&x-time=1779633060"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=f9519399179e2bf41c4c6c9c64abd5c2&x-time=1779633960"
+                }
+            ]
+        },
+        {
+            "Category": "F1 Academy Race",
+            "League": "F1 Academy Race",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "F1 ACADEMY, ROUND 2 CANADA, 2026 Race 2 | F1 Academy Race",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=F1%20ACADEMY%2C%20ROUND%202%20CANADA%2C%202026%20Race%202%0AF1%20Academy%20Race&font=Oswald",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://api2.ifnewgen.xyz/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=fefafd37734b5f1587b9124bc323cf81&x-time=1779633960"
                 }
             ]
         },
@@ -95,11 +115,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/33.png",
             "Match Title": "Brighton VS Manchester United | Premier League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Brighton%0AVS%0AManchester%20United%0APremier%20League&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "9:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779720420-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-eebfa5351382fb18d3941bb639e46835"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=062c74192da7d52df83617e8d6e2dbad&x-time=1779634020"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -110,11 +139,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/39.png",
             "Match Title": "Burnley VS Wolves | Premier League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Burnley%0AVS%0AWolves%0APremier%20League&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "9:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779720427-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-36e34722927888448161aab12186f91a"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=0fb3dab09f46dcaa7a68c16244510fab&x-time=1779634020"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -125,11 +163,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/86a5551ea100615b459685f34e5ddd27.png",
             "Match Title": "Crystal Palace VS Arsenal | Premier League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Crystal%20Palace%0AVS%0AArsenal%0APremier%20League&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "9:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779720434-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-55035f1349a28e3734d90462b9ebda04"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/15/chunks.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=67e847ba5414802692c79a2922719c58&x-time=1779634020"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -140,11 +187,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/0abaa93e6dc3fa76b7d34f7edcfb686b.png",
             "Match Title": "Fulham VS Newcastle | Premier League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Fulham%0AVS%0ANewcastle%0APremier%20League&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "9:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779720444-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-55d3f1127cbbf21ade93c3b5cc5fc417"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=4d5fa6619ca5db53e909e73fd680e664&x-time=1779634020"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -155,11 +211,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/55.png",
             "Match Title": "Liverpool VS Brentford | Premier League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Liverpool%0AVS%0ABrentford%0APremier%20League&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "9:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779720451-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-bae54216d7411b734a651579396ddc05"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=8bcc5534db62127bc51b464528544125&x-time=1779634020"
+                }
+            ]
         },
         {
             "Category": "Premier League",
@@ -170,11 +235,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/66.png",
             "Match Title": "Manchester City VS Aston Villa | Premier League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Manchester%20City%0AVS%0AAston%20Villa%0APremier%20League&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "9:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779720457-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-4b6e34980be2fc288d9a953284731e18"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=d294cc6b29d947da4c290d3f42d405c4&x-time=1779634020"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -185,29 +259,18 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/35.png",
             "Match Title": "Nottingham Forest VS Bournemouth | Premier League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Nottingham%20Forest%0AVS%0ABournemouth%0APremier%20League&font=Oswald",
-            "Match Status": "Upcoming",
-            "Start Time": "9:00 PM 24-05-2026",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-            "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
-        },
-        {
-            "Category": "Football",
-            "League": "League One",
-            "Team 1 Name": "Bolton Wanderers",
-            "Team 2 Name": "Stockport County",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/22614.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4686.png",
-            "Match Title": "Bolton Wanderers VS Stockport County | League One",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Bolton%20Wanderers%0AVS%0AStockport%20County%0ALeague%20One&font=Oswald",
             "Match Status": "Live",
-            "Start Time": "6:00 PM 24-05-2026",
+            "Start Time": "9:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=5d4446dc2b38d346819d5825e9ae11f9f6aa9172&x-sign=7534e87be66a7decd7e15dff3979e09b&x-time=1779631260"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779720463-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-7bb0313ca730c499db052c60ebc98005"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=ad203bc53c16b1a56650705aeddfa9f4&x-time=1779634020"
                 }
             ]
         },
@@ -220,11 +283,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/49.png",
             "Match Title": "Sunderland VS Chelsea | Premier League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Sunderland%0AVS%0AChelsea%0APremier%20League&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "9:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779720469-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-a09e10aeb12ef123b058fbdd07145bdb"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=434c0fc494014337a7b328848df3dcdc&x-time=1779634020"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -235,11 +307,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/45.png",
             "Match Title": "Tottenham VS Everton | Premier League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Tottenham%0AVS%0AEverton%0APremier%20League&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "9:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779720477-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-e114754c1dfaae28d342bbf824525990"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=5bb893ec15f5d01272cb6cfc4fe0b924&x-time=1779634020"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -250,11 +331,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/63.png",
             "Match Title": "West Ham VS Leeds | Premier League",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=West%20Ham%0AVS%0ALeeds%0APremier%20League&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "9:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779720483-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-e75c01bd9b3eb133f682bf5c780653ed"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=5c92cf137a878dbdefca8419ea82a3fb&x-time=1779634080"
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -349,12 +439,12 @@
         {
             "Category": "Football",
             "League": "Serie A",
-            "Team 1 Name": "AC Milan",
-            "Team 2 Name": "Cagliari",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/489.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/490.png",
-            "Match Title": "AC Milan VS Cagliari | Serie A",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=AC%20Milan%0AVS%0ACagliari%0ASerie%20A&font=Oswald",
+            "Team 1 Name": "Lecce",
+            "Team 2 Name": "Genoa",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/867.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/495.png",
+            "Match Title": "Lecce VS Genoa | Serie A",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Lecce%0AVS%0AGenoa%0ASerie%20A&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "12:45 AM 25-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -379,12 +469,12 @@
         {
             "Category": "Football",
             "League": "Serie A",
-            "Team 1 Name": "Lecce",
-            "Team 2 Name": "Genoa",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/867.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/495.png",
-            "Match Title": "Lecce VS Genoa | Serie A",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Lecce%0AVS%0AGenoa%0ASerie%20A&font=Oswald",
+            "Team 1 Name": "AC Milan",
+            "Team 2 Name": "Cagliari",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/489.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/490.png",
+            "Match Title": "AC Milan VS Cagliari | Serie A",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=AC%20Milan%0AVS%0ACagliari%0ASerie%20A&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "12:45 AM 25-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -423,13 +513,13 @@
         },
         {
             "Category": "Football",
-            "League": "CAF Champions League",
-            "Team 1 Name": "FAR Rabat",
-            "Team 2 Name": "Mamelodi Sundowns",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/969.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2699.png",
-            "Match Title": "FAR Rabat VS Mamelodi Sundowns | CAF Champions League",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FAR%20Rabat%0AVS%0AMamelodi%20Sundowns%0ACAF%20Champions%20League&font=Oswald",
+            "League": "La Liga",
+            "Team 1 Name": "Villarreal",
+            "Team 2 Name": "Atletico Madrid",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/533.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/530.png",
+            "Match Title": "Villarreal VS Atletico Madrid | La Liga",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Villarreal%0AVS%0AAtletico%20Madrid%0ALa%20Liga&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "1:00 AM 25-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -438,13 +528,13 @@
         },
         {
             "Category": "Football",
-            "League": "La Liga",
-            "Team 1 Name": "Villarreal",
-            "Team 2 Name": "Atletico Madrid",
-            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/533.png",
-            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/530.png",
-            "Match Title": "Villarreal VS Atletico Madrid | La Liga",
-            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=Villarreal%0AVS%0AAtletico%20Madrid%0ALa%20Liga&font=Oswald",
+            "League": "CAF Champions League",
+            "Team 1 Name": "FAR Rabat",
+            "Team 2 Name": "Mamelodi Sundowns",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/969.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2699.png",
+            "Match Title": "FAR Rabat VS Mamelodi Sundowns | CAF Champions League",
+            "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=FAR%20Rabat%0AVS%0AMamelodi%20Sundowns%0ACAF%20Champions%20League&font=Oswald",
             "Match Status": "Upcoming",
             "Start Time": "1:00 AM 25-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
@@ -565,11 +655,20 @@
             "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9d1ad5fb68f5e7f5576a92205e012cf5.png",
             "Match Title": "TBA VS TBA | Next Gen Euroleague",
             "Match Poster": "https://placehold.co/800x450/ffffff/000000.png?text=TBA%0AVS%0ATBA%0ANext%20Gen%20Euroleague&font=Oswald",
-            "Match Status": "Upcoming",
+            "Match Status": "Live",
             "Start Time": "9:00 PM 24-05-2026",
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": "https://api2.ifnewgen.xyz/",
-            "Stream URL": []
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779720490-Kv4cPTAAP5YTi-487466f3b560ae907c553a6cf15edcda12581ef7-dafee10567718ee3cc3f6e2ed3476f54"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=487466f3b560ae907c553a6cf15edcda12581ef7&x-sign=5a82b8d9507a7ac190b6b62b5a496577&x-time=1779634080"
+                }
+            ]
         },
         {
             "Category": "Baseball",
